@@ -1,0 +1,12 @@
+# Conversion note (v3 → v4)
+
+v3 was a literary psychological thriller with a femgore premise and an anti-femgore drafting bible. v4 is the conversion. The architecture — 9–9–9, the three lessons, the redacted calling card, the paperwork thread, Brandt’s constraint, the Election Eve door, the Diane hinge in Chapter 24, the unpinned page, Dent’s turn-per-scene — survives intact. What changes is the contract with the reader, and therefore the voice, the violence, the body, and the comps. The changes are seven:
+
+- **First person.** Iris narrates. Her voice is the product. The four other POV characters survive as short close-third interludes between chapters, clearly headed, never inside her sections.
+- **Appetite.** Iris enjoys this. She enjoys the morgue, the planning, the bodies, the kills, and the meal after. The genre’s engine is a woman who takes pleasure in the thing the reader has been told she should not. Chapter 18 does not teach her that pleasure is wrong; it shows her what she was enjoying while a man told her the truth.
+- **The gore is on the page.** v3 said ‘write the silence, not the gore.’ v4 says write the gore, and write Iris liking it. Sensory, specific, anatomically exact, and funny. The gore arc inverts the other way now: Chapter 17 is the ecstatic set piece; Chapter 25 is the only kill in the book she feels nothing during. That is its horror.
+- **The body is a register, not a setting.** Eating, sex, sleep, the wound, the smell of the morgue on her skin. Iris’s body reports constantly and wants things. The book is as much about what she puts in her mouth as what she does with her hands.
+- **The syllabus voice leaks.** In v3 the pedagogical, evaluative voice was quarantined at three chapter heads. In v4 it is Iris’s own voice — she grades everything, including the reader, including herself — and the printed pages are where the voice sits still long enough to be pinned to someone.
+- **Comps swapped.** Awad, Clark, Summers, Kim, Nash, Moshfegh. Flynn and Highsmith stay. French, Harper, Winslow and Abbott go to the shelf behind you.
+- **Length.** 85,000 words. 27 chapters at ~3,150, three scenes each. The genre runs leaner than psychological suspense; its readers want velocity and voice, not procedural breadth. The interludes sit outside the count.
+Everything flagged as mine in v3 remains mine here, and the new decisions are flagged the same way. All proper nouns remain placeholders.
