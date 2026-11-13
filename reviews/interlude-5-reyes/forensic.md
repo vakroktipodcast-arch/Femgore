@@ -1,0 +1,18 @@
+**Verdict:** REVISE. Small fixes only; the scene's procedure mostly holds.
+
+**Findings:**
+
+1. **"The hotel security man's. A kitchen porter's, on his apron."** This puts a hotel security man near the lobby end, separate from "the set in the glass booth" that is "far up the corridor". Ch 26 and the ledger have one security man, in the booth with his back to the corridor (ledger, Minor: "The dock booth on Election Eve is staffed by a hotel security man in a fleece"; beats/ch26.md S1 b8). If a guard is standing near Reyes and shouting into his radio, he also sees a staffer walking out against "Hold all staff where they are" and does nothing. That reads as luck. **Fix:** let the near radios belong to staff (a banquet captain's, a server's). Keep the security man in the booth. His shouting is then heard through the glass, back still turned. While you are there, kitchen porters rarely carry radios; banquet captains and stewards do.
+
+2. **"After the election, Agent Reyes." / "She had it in writing three times."** No counsel puts "after the election" in writing to the FBI. That would be a written admission of political stalling. The ledger's written reply is "reviewing the scope... will respond in due course", and "hold until after 3 Nov" is an internal note Reyes never saw (ledger, Objects, FBI letter). "The only answer he had given her" also ignores the list he produced under court order on 31 Oct. **Fix:** "She had the same answer in writing three times, in longer words." Make it "the only answer he had given her that a judge hadn't made him give."
+
+3. **"Her line gave a forwarding address abroad"** and **"Her agreement gave a disconnected phone number"**. The list's lines hold surname, initial, signing date and control number, nothing more (ledger, Objects, The list). An agent with a disconnected number and a stale address does not stall on campaign counsel. She runs the name through Bureau and commercial databases first. A professional reader will ask why she hasn't. **Fix:** say "her signatory record" rather than "her line". Add one clause showing the databases were tried and came back cold, e.g. "Every database the Bureau had ended at the same address." Counsel then becomes the last door, not the first.
+
+4. **"towards the dock office and the stair door beyond it"**. She has just heard "Stairs and lifts are locked", and she wears a visitor lanyard with no override. A twenty-year agent heading for a stair door she has just been told is maglocked looks careless. **Fix:** aim her at the booth and the man with the override, or at the stair "where the Service would open it". One clause.
+
+5. **"holding something there through the cloth."** A cop's first read of a hidden hand on a concealed object during a lockdown just called is "weapon?", and her own hand is already on her holster. The draft jumps straight to the pledge. **Fix:** clear the threat inside the half-second, in her terms: "Flat. Fingers together. Not a grip." Then the steadiness, and the pledge image after it. This makes her not stopping a professional judgment rather than an oversight. It also earns the "something at the back of her head" line.
+
+**What works:**
+- Order of observation: jacket, hands, face. The mutual look at hands "the way police do" is exactly how a trained officer works.
+- The hand on the holster before any decision, then the measured fast walk "a stride short of a run" because the corridor holds civilians. That is correct movement for an armed officer in a crowded space.
+- Reyes has no earpiece and hears the order only from other people's radios, half a beat apart. This is plausible and consistent with the ledger.
