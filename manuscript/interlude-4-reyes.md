@@ -24,10 +24,6 @@ The list had two holes, and counsel's covering note named them in a paragraph th
 
 She stood at the window while the copier cycled and ate a fun-size chocolate bar from the bowl at the lobby desk, and noticed only when she was folding the wrapper. The clocks went back tonight. The government was giving her an hour, and she knew already where it would go.
 
-The tenth line read *VALE, I.*
-
-She knew the name the way she knew a signature block: the reviewer's line at the foot of the Pell file, and the office's one-line refusal to comment. She wrote *reviewer* in the margin, and a question mark, and stopped her pen. It was the third mark she had made on the page. Nine names came first. The sequence was the sequence.
-
 She opened the paper desk calendar. Sunday. Monday morning, before she reported to the hotel for the Election Eve detail. Tuesday, between the polls opening and the returns. She skipped the woman abroad, since no approach could be made, and logged it anyway, because the paper was what would be read later. Then she filled the squares in her own hand, block capitals all the same height, the biro scratching between the copier's cycles, eight squares across three days, a ninth name noted and passed over, until the sequence came to Wednesday.
 
 Vale was tenth. Reyes booked her for the day after the election, Wednesday at ten, and wrote the name in the square in block capitals, the same as all the others.

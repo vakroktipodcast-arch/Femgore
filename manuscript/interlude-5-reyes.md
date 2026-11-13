@@ -2,7 +2,7 @@
 
 The notebook was in the inside pocket of her jacket, and she could feel its spiral through the lining as the service lift went down. Eleven names in block capitals, alphabetical. Dates against the first eight. The Sunday ones ticked, and this morning's. VALE against Wednesday, ten o'clock. Two question marks.
 
-The first was a woman who had left the country. Her signatory record gave a forwarding address abroad, and campaign counsel held her contact details and called them privileged. The second was the eleventh name, the one after Vale: a disconnected phone number and an address she had left within a year of signing. Every database she could reach had ended where the paper did. Neither of her two voicemails to counsel about them today had been returned.
+The first was a woman who had left the country. Counsel's covering note gave only a forwarding address abroad; the rest of her contact details he held and called privileged. The second was the eleventh name, the one after Vale: a disconnected phone number and an address she had left within a year of signing. Every database she could reach had ended where the paper did. Neither of her two voicemails to counsel about them today had been returned.
 
 She was here as campaign-protection liaison, on page four of the run of show. Her visitor lanyard had turned itself round again. She was in flat shoes, and she had not eaten since a sandwich at four.
 
