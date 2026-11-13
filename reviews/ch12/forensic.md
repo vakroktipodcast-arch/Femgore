@@ -1,0 +1,28 @@
+- **Verdict:** REVISE
+
+- **Findings:**
+
+1. **She could not reach or see the wound where the prose puts it.** "Below the twelfth rib, lateral to the kidney, above the colon." Lateral to the kidney is posterolateral flank, roughly the posterior axillary line. One woman cannot watch that spot, or tie ten instrument ties on it, by twisting into a desk lamp. A surgeon reader will not believe it. This is a plausibility problem in the action (agent brief) and it also sits on the self-repair Turn. Fix: move the wound forward to the anterolateral flank, "below the tip of the twelfth rib, forward of the kidney". All of `ledger` Fixed numbers (Wound) still holds. Then have her work it in the basin mirror (`ledger` Places: bathroom mirror above the basin). The mirror reverses everything, and she has to unlearn her hands. That is one line, and the procedure becomes possible.
+
+2. **She walks home with arterial blood on her face.** "The spray came up warm across my face and down my front." Then she "walked the two streets to my car" under sodium light and drives home with no cleanup at all. Any detective would ask about the face, the steering wheel and the seat. The kit already has what she needs: the `ledger` Objects/Kit lists "tub of 70% isopropyl wipes in the car door pocket" and a coverall. Fix: one sentence at the car. She wipes her face and hands before she touches the wheel, and she sits on the folded coverall or the foil blanket. Let her say she knows it is not enough.
+
+3. **The wrist cut ignores the ulnar artery.** "through the superficial and deep flexor tendons and the median nerve". A single transverse stroke deep enough to reach flexor digitorum profundum crosses the ulnar artery and nerve as well, and those lie beside the medial tendons. Sparing only the radial artery leaves him bleeding hard, which contradicts "no more than a cut tendon bleeds". The `ledger` People/Contractor B says only that the radial artery was spared. Fix, the smallest version: say the cut ran from just ulnar of the radial artery to just short of flexor carpi ulnaris, so it stops short of the vessels on both sides. Then change the bleeding line to "brisk, venous, survivable".
+
+4. **The ambush has no trigger, so it reads as luck.** "It had not been there on the way in." The van arrived while she was inside for about 40 minutes, and the prose never says what told them. Her reason ("the rectangle of black tape... had told him I would come back") explains why Brandt laid a trap. It does not explain how two men turned up within her window. That tape rectangle is also not in `ledger` Objects, so flag it to continuity. Fix: one clause in Iris's arithmetic, such as "standing by round the corner every night since; the cloned badge, or the door camera, had rung someone's phone." The smell detail ("waiting ever since") then fits.
+
+5. **Death comes too fast.** "He was gone in under a minute, and his breathing went from wet to nothing". Cutting one common carotid and one internal jugular makes him unconscious in seconds. Breathing usually stops after two to three minutes, often with agonal gasps. A pathologist narrator would separate the two. Fix: "Unconscious inside fifteen seconds. Gone in about three minutes; I counted all of it." Counting for longer is also colder.
+
+6. **The neck anatomy is slightly off.** "medial to sternocleidomastoid, one deep stroke through the internal jugular and the common carotid". The internal jugular lies lateral to the carotid and partly under the muscle. Iris would list the vessels in the order the blade meets them. Fix: "through the common carotid and the jugular beside it, deep to the muscle's front edge".
+
+7. **The wrong layer is named.** "through the external oblique aponeurosis". At the lateral flank the external oblique is fleshy muscle. Its aponeurosis is further forward and medial. Fix: "through the external oblique and its fascia". This matters more if you take finding 1 and move the wound forward. Separately, "cut to three millimetres" is too short for nylon skin sutures. They slip, and they are hard to remove on day ten (`ledger`: stitches out Mon 12 Oct). Make it "cut long enough to find again".
+
+8. **Pain cannot tell you the layer.** "I could feel which layer it had stopped in." Nociception does not report fascial planes, and Iris knows it. The line weakens the authority that her later self-examination earns. Fix: "I guessed which layer it had stopped in. At home I found I was right." That keeps the delight and makes it informed.
+
+9. **The metatarsal fracture is unlikely.** "onto the first metatarsal... I felt it give." A heel stamp through a man's work boot rarely breaks the bone. Even if it did, he could not come back in low a minute later. Fix: keep the stamp, cut "I felt it give", and use "his weight came off that foot". The head butt and the broken nose then carry the release, which is credible.
+
+10. **Gloves are never mentioned.** "I took the dead man's wallet from his back pocket". She handles the wallet, the ties and the scalpel. A scene this concerned with her DNA has to account for her prints. Fix: one word at the wallet, "gloved", or one at the card check (`ledger` Kit: nitrile gloves).
+
+- **What works:**
+  - The self-examination at home. The absences are listed in order (no shoulder-tip pain, urine checked, track depth), and the saline is a third of the brine strength. It reads as written by someone who has done it. Keep it.
+  - Reading the hood and ties as a surgical tray ("Nobody brings a hood to a killing"). It is the best piece of procedural reasoning in the chapter.
+  - The DNA elimination-register logic, and the decision to let Brandt clean his own floor. Both are credible and in character.
