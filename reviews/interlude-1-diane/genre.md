@@ -1,0 +1,3 @@
+- **Verdict:** PASS
+
+The interlude has no violence and no Iris, which is right for it. The body still carries it: the fridge's "cold breath", the tile through her tights, the cheddar heel eaten standing, the flat wine, the pale watch band. Humour carries it too ("Like a Viking", "thrown away on schedule"). The Turn line lands, and the last image, the Olivia-set sports watch filling on its charger, lets a Ch 3 reader know Iris already has the feed (strategy/02; style/05; style/12). Diane becomes a person the reader cannot dismiss, and so Iris becomes harder to look away from. Do not add explicit menace or any explanation of the watch or app.
