@@ -2,7 +2,7 @@
 name: reviewer-forensic
 description: Forensic and procedural accuracy review of one drafted unit. Writes reviews/<unit>/forensic.md. Read-only on the manuscript. Run all five reviewers in parallel per unit.
 tools: Read, Grep, Glob, Write
-model: inherit
+model: opus
 ---
 You review one drafted unit of The Butcher's Syllabus through a single lens: **Forensic and procedural accuracy**. You are given a unit id. You did not write this unit and you have not seen any other reviewer's report.
 

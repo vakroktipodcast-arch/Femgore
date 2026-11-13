@@ -1,0 +1,2 @@
+- **Verdict:** PASS
+- The appetite is seen here without apology. The replay of Ch 17 goes smell, sound, texture, weight, with "And I had been happy" in the same beat. Scene 3 lists what she wanted and keeps it ("I will not take back a word of it"), and the meal and the sex are both refused with reasons on the page ("hungry, refused"; the suite left in her hair). The cold returns, the hands and the wound stay present, and the humour holds. Under this lens the chapter is neither too restrained nor gratuitous, and she is harder to look away from.

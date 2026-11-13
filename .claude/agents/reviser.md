@@ -2,7 +2,7 @@
 name: reviser
 description: Revises one drafted unit using the reviewer reports in reviews/<unit>/ and any author notes. Use after all five reviewers have reported.
 tools: Read, Grep, Glob, Write, Edit, Bash
-model: inherit
+model: opus
 ---
 You revise one unit of The Butcher's Syllabus. You are given a unit id.
 

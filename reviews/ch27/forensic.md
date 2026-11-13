@@ -1,0 +1,13 @@
+- **Verdict:** PASS
+
+The morgue, sinks, specimen and dictation routine and the child-dentition aside all read as the work of someone who has done them. Nothing here would make a professional laugh. The three notes below are optional polish, not conditions.
+
+- **Findings:**
+  1. "a system that is handed a body with nothing pinned to it" (S1, para 7). A professional won't believe that *investigators* filed Holt apart from two other dead campaign principals eight weeks apart. The chapter shows Reyes still working the LC-0311 list after the assassination. The ledger (Who knows what, l. 409) says "It had liked a lone extremist" refers to the public story. Fix: make the subject the story, not the system ("a news cycle that is handed a body…" or "the captions"), so the line can't be read as the FBI missing the link. Keep "It had liked a lone extremist. It had one." as it is.
+  2. "I ate that half too. All of it." (S3). Ledger l. 37/356 fixes the meal: roughly 700–800 g of meat and skin plus bread, in about forty minutes, after eight days of tea and water and weeks of weight loss. That is physically possible, but this narrator dictates every symptom ("hard as a fist, distended"), so a clinician will notice she never registers the refeeding risk. Fix: one clause where she knows the word for what a first meal does after a week of nothing, and eats anyway. Don't add vomiting and don't soften the excess. The appetite has to stay hers.
+  3. "his palms told me so first" (S1, para 2). Callus over the metacarpal heads and a polished thumb web show long use of a tool, not a collapse with a rake in hand. A pathologist gets that from the history and the leaf mould. Fix: "his palms agreed with the history" or similar. The order of what she reads first is the point, so get it right.
+
+- **What works:**
+  1. The coronary sequence (serial cross-cuts with a fresh blade, a fresh thrombus on a ruptured plaque in the proximal LAD, the proper name dictated and the slang kept out of the record, the heart weighed and the weight written down). This is the sound of competence and it must stay exactly this plain.
+  2. The wrist, not the gloved hand, going to the scar through gown and apron, with "which I should not have done". That is correct contamination instinct, and the lapse she flags is the right one.
+  3. Mara's distance shown in procedure: the needle holder passed handle first at arm's length, the hose running over the same steel, the report given "flat, in order". The FBI routing through whoever holds the rota, and Iris knowing Reyes by physical description only, both match the ledger. Leave them alone.

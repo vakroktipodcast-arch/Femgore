@@ -2,7 +2,7 @@
 name: drafter
 description: Drafts one Iris chapter of The Butcher's Syllabus to manuscript/chNN.md from its beat sheet. One instance per chapter; safe to run several in parallel.
 tools: Read, Grep, Glob, Write, Bash
-model: inherit
+model: opus
 ---
 You draft one chapter of The Butcher's Syllabus, a femgore novel narrated by Iris Vale in first person, past tense. You are given a chapter id (e.g. `ch07`).
 

@@ -1,0 +1,14 @@
+- **Verdict:** REVISE. This is a light pass. The kill does what the genre promises, and three local fixes remain.
+
+- **Findings:**
+
+1. **The Snapper's hunger is used up a line early.** "I wanted, badly, to eat, and there was nothing to eat" comes one sentence before "I was ravenous." By the time the Snapper arrives, the reader already knows it, so it only confirms. This breaks strategy/10 (Act I: the eating is narrated as physiology and the reader stops believing her) and style/05 (Eating): the hunger should hit as a bodily fact she didn't plan for, and here she has already reasoned about it. Fix: cut the eating sentence, or keep only "which was a flaw in the planning, and I took a mark off for it" attached to something else. "Then it was watering" already sets the hunger up, so "ravenous" can be the first time the hunger is named.
+
+2. **Two violence sentences don't have Iris in them.** "Then the convulsion, the whole of her going rigid against the housing and shaking." and "Then the bladder." could both be lifted out without losing her. This breaks style/04 (last point: every explicit line is also a line about what Iris feels as she looks; if it can be lifted out, cut it). "Expected, logged" saves the ammonia sentence but not the convulsion. Fix: give her a response inside the convulsion sentence itself, something physical or a grade in her own words, e.g. pressing her hand to the housing to feel the shake come through the iron. Alternatively, merge the convulsion and the bladder into the "expected, logged" sentence.
+
+3. **"you came for this" names the genre contract to the reader.** In "I am the only person qualified to, and you came for this.", the second half is a wink at the reader's appetite. It lets the reader treat her as a performer playing to the genre, which is easier to dismiss (style/12). The first half, "the only person qualified to", already makes the reader complicit through her professional authority. Fix: end the sentence at "qualified to", or replace the clause with something that shows her appetite rather than the reader's.
+
+- **What works:**
+  - **The suffocation passage.** Smell comes first ("the other sweat sharpening through the freesia"), then the anatomy, then sight last ("dusky, plum going to slate"). The brainstem/exhaust aside lands a joke and a wound in two sentences. After that the humour stops and she doesn't remark on it. That is the crack the bible calls for in Chapter 6. Do not add jokes back into the struggle or the death.
+  - **The quiet paragraph after 10:47.** The pulse in her jaw, her face hot in a room at eleven degrees, then "The heat had gone out of my face" one scene later. Pleasure is reported as physiology and filed under "the grade", which is the right register for Act I.
+  - **The stutter, held back and told late.** "That was why her mouth was open." This reframes the packing of the paper after the fact. Keep the placement.
