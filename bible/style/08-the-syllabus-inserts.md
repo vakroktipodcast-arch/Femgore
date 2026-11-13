@@ -1,6 +1,6 @@
 # The Syllabus Inserts
 
-Three pages appear as physical documents, reproduced at the heads of Chapters 1, 6 and 17. Formatted apart from the prose — centred, narrow margins, typed and redacted. Written in the syllabus voice: formal, evaluative, second person, addressed to the target.
+Three pages appear as physical documents, reproduced at the heads of Chapters 1, 6 and 17: Lesson One at Chapter 1; Lesson One again at Chapter 6, as the print pinned to Diane; Lesson Two at Chapter 17. The third page is never reproduced. Formatted apart from the prose — centred, narrow margins, typed and redacted. Written in the syllabus voice: formal, evaluative, second person, addressed to the target.
 
 *Lesson One. Subject: The Gatekeeper. Function: to convert the complaint into the file, the file into the folder, the folder into the cabinet, the cabinet into the room no one enters. You have performed this function with distinction. Your failing mark is therefore not a function of incompetence. You confused process for protection. You will be evaluated accordingly.*
 
