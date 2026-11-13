@@ -201,7 +201,7 @@ Story calendar:
 - Cheap digital voice recorder for the clap test, taped to the trail marker post.
 - Iris's campaign dossier (three years old, Lantern bottom drawer): address, salary band, height, two weeks of movements, the blind-item printout with Brandt's edits, the complaint summary (unread), routing slip "Reviewed. Contained. D.P."
 - The photograph: 6x4 long-lens print of Iris younger at her front door with groceries; pencil on the back, a date three years ago and a reference number in control format. Iris keeps it (location open).
-- 8x10 glossy print of the official scene close-up of Diane's mouth, half a control number legible, printed by Iris from the case file; left squared on Brandt's counter Ch 13; the photograph on his suite table, handled nine days (4–13 Oct); left there in Ch 17.
+- 8x10 glossy print of the official scene close-up of Diane's mouth, half the matter number LC-0311 legible in the footer, printed by Iris from the case file; left squared on Brandt's counter Ch 13; the photograph on his suite table, handled nine days (4–13 Oct); left there in Ch 17.
 - Garrity's driving licence (organ-donor heart; may read as a laminated card in Interlude 3) laid on the pillow beside the record and page, nudged a quarter-inch left. Brandt puts it and the record halves back in the Dolphy sleeve.
 - Iris's ME statement: one line, "does not comment on active investigations".
 - Campaign statement, 5:58 a.m. Mon 14 Sep: "A senseless act. Our hearts are with Olivia and the whole Pell family. We ask for privacy at this time."
@@ -254,7 +254,7 @@ Story calendar:
 - Holt never knows. Whether he remembers is never confirmed.
 - Mara suspects from Ch 8; is afraid by Ch 27.
 - Reyes is "E. Reyes" to Iris from Ch 14 to the end; Iris never learns "Eleanor". The interludes use Eleanor.
-- Reyes: profile by Ch 20 (held about a week before 31 Oct) — medically trained (autopsy files, "practised"), signatory (control numbers), female (counsel's brief). Knows "Vale" as the reviewing pathologist ("reviewer?" in the margin), no photograph. List 48 hours before Election Eve. Sees Iris's face (not her name) in Ch 26.
+- Reyes: profile by Ch 20 (held about a week before 31 Oct) — medically trained (autopsy files, "practised"), signatory (matter number LC-0311), female (counsel's brief). Knows "Vale" as the reviewing pathologist ("reviewer?" in the margin), no photograph. List 48 hours before Election Eve. Sees Iris's face (not her name) in Ch 26.
 
 ## Open — to be fixed in the beat-sheet phase
 - Where Iris keeps the 6x4 photograph taken from Lantern.
