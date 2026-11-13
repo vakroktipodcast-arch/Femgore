@@ -1,47 +1,44 @@
-# Continuity review: ch27
+# Continuity review: ch27 (revised, 3,246 words)
 
-- **Verdict:** REVISE (light). No contradiction of a ledger date, count or name. Four small fixes, and a New facts list the beat sheet needs.
+- **Verdict:** REVISE (one ledger contradiction and two small fixes; nothing structural).
 
 ## Findings
 
-1. **Page order reads reversed.** Quote: "the one I hadn't pinned on the one I couldn't". Ledger (Objects, third page; ch25 beat 5) has Iris trying to pin the third page and her hand refusing, so the third is the one she "couldn't" pin. The fourth was never a pinning candidate. The sentence puts "hadn't" on the third (the top page) and "couldn't" on the fourth. Fix: swap to "the one I couldn't pin on the one I hadn't", or cut the clause. The beat sheet wanted "the unpinned on the unpinned" with no comment.
+1. **Iris's knowledge of the microscope is wrong.** The draft says "I hadn't known what was inside." The ledger (People, Hannah) has Hannah's Sat 24 Oct photograph showing "June with the microscope", the wrapping and the *from Iris* tag, taken "after the opening". Iris has seen the microscope. The beat sheet (S2 beat 6) says the same. Fix: she knew it was a microscope from the photograph, and what she had not known was what June would put under it. For example: "I had known it was a microscope, from the photograph, and that it was signed *from Iris* in Hannah's hand, and had gone out in more clear tape than paper. I hadn't known what June would put under it." The next sentences ("Hannah had chosen it... she had been right") then work unchanged.
 
-2. **The chicken has no provenance.** Quote: "the bird out of its paper and patted dry". The ledger has the Ch 17 bird down the chute in Ch 20, no food eaten since Sun 1 Nov, and nothing bought on the page. "Its paper" implies a butcher's purchase (ledger Places: the butcher's, Ch 7, Ch 15) that no unit records. Fix: add one clause saying it had been in the fridge since a stated day, or drop "out of its paper". Log either choice under New facts. Same gap for the sealed record ("nothing says how it came"), which is correctly left open.
+2. **The steam at 9:20 does not fit the ledger's clock.** The draft has "The steam stopped coming off the plate" at twenty past nine. Ledger (Timeline, Mon 9 Nov): oven on about 6:55 to 8:25, carved when it came out, table at about 9:20. That is roughly 55 minutes of cooling, and the draft never mentions a delay. The reader cannot tell why a bird carved before 8:30 is still steaming. Fix, either: (a) one clause in the roasting paragraph saying she left the bird standing on the counter, or stood at the counter a long time before she carved ("I don't know how long"), so the carving is late; or (b) have the plate already lukewarm at the table and drop "steam" from the sitting paragraph, keeping "juices still, skin dull". Do not change the ledger times.
 
-3. **"That autumn" is wrong for Diane.** Quote: "Two bodies that autumn had been found". Ledger Timeline: Diane died Sun 13 Sep, before the equinox, and the book is set late summer to early November. Fix: "that season" or "that year".
+3. **"Two bodies that season... and the third had not" ignores Garrity.** Ledger (People, Dale Garrity; Timeline, Fri 2 Oct): Garrity is a body that season with nothing pinned, killed in Ch 12. Iris is counting lessons, not bodies, but the sentence says bodies. Fix: "Two of the three lessons had been found with paper pinned to their chests, and the third had not", or "Two of mine". Low severity.
 
-4. **"Didn't go to lunch" runs ahead of the scene clock.** Quote: "I didn't drink it, and I didn't go to lunch". The case is opened at 10:40 and the sinks scene follows within minutes. Ledger Ch 27 S1 is mid-morning, and Mara's report comes before noon. Fix: "I wasn't going to lunch" or move the clause to after the sinks.
+## New facts in prose (not in the ledger; for the continuity agent to add or the author to refuse)
 
-5. **Mark-like judgements after the last grade.** Ledger (People, Iris, "Never grades"): "full marks" is the last grade in the book. Quotes: "it was done well"; "the best part of the bird"; "the best thing on the bird". The beat sheet's voice rules extend the ban to her technique and the meal. These are not grades in the Mara sense, but they are placements, and "full marks" is meant to be the last one. Fix: cut "best part of the bird" and "they were the best thing on the bird, which they always are". Make "it was done well" a description ("it was done cleanly"), or cut it. "I worked well" in S1 sits before the grade and is fine.
+- A dictaphone is used in the suite. Mara wears clogs, and a hose runs at her basin.
+- At close, the label gets surgical tape plus Iris's initials and the date (the ledger has only Ch 1's three strips of tape).
+- The gardener's heart is weighed, and the number is not given. The ledger's heart list has no Ch 27 entry.
+- The result came in "with a dead man's name still on the ballot." This is new. It does not say who won, so it is compatible with the ledger's "within a point of the last poll", but it fixes that Holt's name stayed on the ballot.
+- The party named the replacement "on the Friday", via captions. This is already in the ledger.
+- A man at the chicken counter remarks on the cold, and Iris answers him. This is in the beat sheet's New facts, not in the ledger.
+- Hannah's kitchen sounds: dishwasher, tap, and June singing "the same four words" from school. The ledger has the four words.
+- Astrid reads her book "on her own, not to anyone". This is new characterisation, and the title is off the page.
+- Hannah "has been letting things go for me since she was old enough to hold them." This is new backstory colour.
+- The pedal-bin lid hinge "creaked under its own weight" as she stands holding the page. This is in the beat sheet, not the ledger.
+- Iris's mouth floods "so fast it ached under the jaw, the parotids going like taps". This is in the beat sheet, not the ledger.
+- The record is "still in its cellophane" and "sleeve to the room". The ledger says "sealed", unplayed, unnamed, so this is compatible.
 
-## New facts in prose (not in ledger or beat sheet's New facts)
+## Checked and consistent
 
-- Iris's coffee, put down at 8 a.m., untouched by the sinks. It does not contradict the ledger: the last food was coffee and bread on Sun 1 Nov, and she does not drink this one.
-- She dictates into a dictaphone at the table. The weight is not given.
-- The chicken is bought or stored "out of its paper" (see finding 2).
-- The oven ran about an hour and a half before 9:20 p.m. Roasting started after the call, about 6:45 to 7:50 p.m.
-- A kitchen window over the sink, black, with sodium street light beyond. Ledger Places gives no kitchen window. Ch 18 shows her drinking tea "standing at the window", so it is consistent.
-- Mara takes a saw from "my side" and passes the needle holder handle-first at full arm's length. Beat New facts already cover the distance.
-- June is singing "the same four words" from school in the background, and Astrid is reading a book "on her own".
-- Iris scrubs "a basin apart" from Mara. Mara dries her hands "one finger at a time".
-- The ballot name, the replacement and the winner are all unsaid, per ledger.
-- The page has lain on the kitchen table since 2 Nov, which the ledger confirms. The letter has been squared "for nine days" (31 Oct to 9 Nov, which checks).
-
-## Hand-offs checked, no problem
-
-- The unplayed voicemail: still 1:14, "I did. Sorry." A lie, with no summary by Hannah. Her name for Iris is never said.
-- The third page: refolded, never opened or quoted, ends on top of the fourth in the unlocked drawer with the key in the lock.
-- The wound: touched once, at "acted alone". Left flank, ledger-correct.
-- The belt hole made with the trussing needle (ledger, Mon 2 Nov).
-- Reyes's hands match the Ch 26 and ledger values: short unpainted nails, a biro mark on the right middle finger, a suit cut long on the right. The ring is not mentioned, so the Open item stays for Ch 26.
-- Reyes is "E. Reyes" and "Eleanor" never appears.
-- The interview count: nine of eleven interviewed, the woman abroad and Vale left. This fits the ledger and interlude-5 (nine dated plus two question marks, minus Vale, plus the eleventh).
-- Iris learns the Thursday booking only from Mara, per the ledger.
-- Nothing in the chapter comes from an interlude.
-- Weekdays and dates are all right: Mon 9, Tue 3, Fri 6, "last Wednesday", Thursday in three days.
+- **Dates and times:** Mon 9 Nov, a week after Election Eve; case at 20 to 11; the FBI call at nine; the coffee left at eight; the Hannah call; table at 9:20; "Thursday was in three days"; "a week of tea and water"; "last Wednesday" for the lost slot; the letter "nine days" old.
+- **Counts:** nine of eleven, two left (the woman abroad and Vale), three women through one lawyer, all matching the ledger.
+- **The third page:** "folded once, the thirds still in it". It is never unfolded. It goes into the drawer on top of the fourth page, face-down on the working masters and dossiers. The key is left in the lock, unturned.
+- **Reyes's inventory:** flat shoes, suit long on the right, short unpainted nails, biro mark on the right middle finger, "E. Reyes", never "Eleanor". She does not see Iris in this chapter.
+- **Absences:** Hannah never says "Ris". The voicemail stays unplayed. Iris says "I did. Sorry." The call ends "Soon", then "Okay." / "Love you."
+- **Grade rule:** "Full marks" is the last grade, and nothing is graded after it. No mirrors. The sink window is black with sodium beyond it. No pharmacology. No named morgue staff.
+- **Iris's knowledge:** she learns of the Wed 4 Nov slot and the Thursday only from Mara, and has not read Holt's report. She uses nothing she could only know from an interlude.
+- **Hand-off from Ch 25:** the hand held over the bin recalls the Ch 25 hand holding the page above Holt's chest, "neither put down nor put away". That page then went into the pocket, so the echo holds.
+- **Hand-off from Ch 26:** the page has been on the table since Mon 2 Nov, and the flat has been unheated since 14 Oct. The oven is the first heat there since.
 
 ## What works
 
-- The Mara beat: the clog squeak, "Full marks.", then the sinks report in finding-order, with Iris's "No." as the single true line.
-- The Hannah call stays inside the ledger (6:30 p.m., "Soon", no name, unplayed voicemail). The gap before "Soon" and "She had heard it." stay as written.
-- The drawer sequence: turn the key, close, leave it. The visible brass key stops "didn't lock" reading as a missing lock.
+- The Mara beats (the stride-short stop, the handle-first needle holder, the clogs that stop while the hose runs) and the single "Full marks" with nothing after it. They match the ledger line for line.
+- The hand-off from the Ch 25 hand over the bin to "The drawer didn't lock. I didn't lock it.", with the key left visible in the lock.
+- The meal's ledger details: carved one side, oyster left on the frame, tin back in the switched-off oven, the other leg pulled standing at the hob, both oysters eaten. Change nothing there when fixing finding 2.

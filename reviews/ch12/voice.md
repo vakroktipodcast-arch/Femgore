@@ -2,29 +2,22 @@
 
 **Findings:**
 
-1. "The morgue's extraction fans are louder than God." Lifted word for word from the anchor (ch17, para 2), and "Smell first." (scene 2 opening) and "I would like it noted" are lifted too. All three are the narrator's own tics, but used here they take the shine off Chapter 17, which comes later and must say them first. Breaks anchors/ch17.md as the voice standard: match the voice, don't copy its signature lines. Fix: cut "louder than God" and let "These were louder than the morgue" stand alone, or swap in a new comparison. Keep only one of the other two echoes.
+1. "So he had kept two men parked nearby since morning" (para. 15). The whole paragraph from "I had not risen to Tessa Quinn" to "rung their phone" is Iris working out the plot while two armed men stand in front of her. The narration drifts into explaining, the action sentences stop being short, and the stand-off goes slack (02 Rhythm; 01, never to explain). Fix: keep "I felt it the way you feel being stood up… and then as information" and "The syllabus had taught; the student had learned. I gave him the mark for that, too." Cut the Quinn/tape/phone reasoning, or move one sentence of it to the bathroom in scene 3.
 
-2. "I knew it was over. I knew I had won." Generic thriller beat that could sit in any novel. It names the state instead of finding it in the body (02, "exact... alive"). Fix: give the finding instead, e.g. his pulse under her knee, the young one's eyes, her own rate. Then "I held it for one breath."
+2. "the first thing I had ever done for no reason except" (para. 55). Here she names her own motive, and motive is the one thing she is meant to be unreliable about (02, unreliable narrator). The line also gives away what the Snapper shows better, when she reaches for his grade at the sink and finds nothing. Fix: end the paragraph at "not on the syllabus." Better still, cut the paragraph and let "wanted to keep looking" lead into the scene break.
 
-3. "it was fast and it was ugly and the fans drowned" "Ugly" is a lazy judgement, and the one unexact word at the book's first unplanned kill. Breaks 02 (exact) and 06 (bodies anatomically correct). Fix: replace "ugly" with what the arterial spray actually did, its pressure and its rhythm against the venous ooze, like the fountain-pen/biro contrast in the anchor but not copying it.
+3. "They came out of the dark at either side" / "light on the balls of his feet" / "took me in a bear hug" / "Two of them, one of me." These are stock thriller phrases that could sit in any novel (brief: flag generic thriller drift; 02 Vocabulary). Fix: read them the way she reads a body. Give his stance in anatomical terms (weight on the forefoot, heels unloaded). Replace "bear hug" with what the grip does to her (humeri pinned, forearms locked across her sternum). Cut "Two of them, one of me." The asymmetry paragraph after it already does that job, and better.
 
-4. "He was dead on the warehouse floor... for no reason except that I could." Three problems. "Warehouse" is the wrong room (it's a data hall). The paragraph explains a Turn the reader has just watched. And "for no reason except that I could" is stock villain phrasing. Breaks 01 (never explain) and 12. Fix: cut the paragraph down to "There was no page for him." and let the toothbrush and grade beat at the end carry the meaning.
+4. "The spray came up warm across my face" / "I would like it noted". Chapter 12 spends what the ch17 anchor presents as firsts: live warmth, the struck-coin iron, a heartbeat under her palm, and the "I would like that noted" formula, which ch17 saves for "the most obscene" act. Fix: keep the kill fast and factual. Drop "warm" (the cold aisle can take the heat out of it), and put salt and her own cheek in place of "Iron, all at once". Change "I would like it noted" to a different formula, for example "Put it on my file."
 
-5. "had not planned" / "the last cut I planned" / "the first death I had never planned" The same idea is signposted three times in about 800 words, and that is explanation by repetition (01). Fix: keep "It was the last cut I planned that night." Cut "I had not planned it." Rewrite the tartare closer as plain report, e.g. "I ate all of it."
+5. "cold white LED light on white-painted concrete" (para. 43). "White" appears three times in ten lines (twice more in para. 53), and "It felt, the whole time" makes no sense when the lights have only just come on (06 Colour, named precisely). Fix: "LED, the colour of a fridge interior, on painted concrete." Change "the whole time" to "at once."
 
-6. "Then I did the arithmetic of the room, which took less time than it takes to say." The second clause is a stock phrase. Fix: cut it and start on "Two of them, one of me."
+6. "I had slept better than I had in years." (para. 85). This is plain filler, and the line before it already did the job better ("counting backwards from ten and never reaching seven"). Fix: cut it and end the paragraph on "And I had woken rested."
 
-7. "it was brief and physical and did what it was for" Coy and abstract at the one sex beat. Breaks 02 (appetite in a plain, frankly obscene Anglo-Saxon register). Fix: one concrete, frank sentence about what her body did and wanted, kept short. The hand-check after it can stay as it is.
-
-8. "two and a half hours, deep as a well" Cliché. Fix: use her own register, e.g. sleep measured like an anaesthetic, or just "and nothing."
-
-9. "The spray came up warm across my face" There is no taste, though blood has just gone across her mouth and this is the first wound of the original injury. Breaks 06 (Taste: everything in her mouth is described, and so is the metal taste of the original injury). Fix: add a short clause on the taste here, and another when the flank tears.
-
-10. "soaked his beard into a single dark tuft" "Dark" is an unnamed colour. Breaks 06 (colour named precisely). Fix: oxblood, liver, or similar. The same goes for "green and amber" status lights; "amber" is fine, so make the green specific.
-
-11. "I knew that room. I have worked in it every day" She means the morgue, but as written she says she has worked in the data hall for fifteen years. Fix: "I knew that kind of room."
+7. "She had said it at the projector last spring, to detective" (para. 69). Three clauses of setting land in the middle of the wound exam and slow it into explanation (01). Fix: "*The skin tells you about the blade,* Mara said in my head, which she had from me." Then go straight to "The muscle told me about his hand."
 
 **What works:**
-- The flank-wound narration done layer by layer ("Skin. Subcutaneous fat, which offers nothing...") and "the kidney, the colon, the spleen and your opinion of yourself". This is the Latinate/plain collision and the joke at full strength.
-- The long suture sentence in scene 3. It is the long, greedy sentence for the body, with pain and pleasure reported side by side. Do not break it up.
-- The grading voice is present while she is in control (the exit, Brandt "the mark for that, too") and then fails at the sink ("reached for his grade... nothing there"). That failure is the chapter's real Turn in voice terms. Protect it.
+
+- The suture paragraph is one long, greedy sentence of Latinate procedure ("my skin edge and has opinions"), and it ends on the short "They were steady the whole time." This is the voice at full strength. Do not split it.
+- The joke rate is above the Act II floor, and the jokes are anatomical: "the spleen and your opinion of yourself", "Nobody brings a hood to a killing", "what I think of chickens". The register collision lands where it should: "fucked him sitting up… every one of the seven stitches."
+- The soft-fingertips check ("did not tell myself what I had been checking for") and the sink Snapper: here the unreliability works by leaving things out, which is how it should work. Protect both.

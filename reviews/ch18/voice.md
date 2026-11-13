@@ -1,25 +1,21 @@
-# Voice review: ch18
+# Voice review: ch18 (revised)
 
-**Verdict:** REVISE (light). The narrator is the same one as in the anchor. Fix the six lines below; leave the rest alone.
+- **Verdict:** REVISE. Light line edits only. The voice holds against ch01, ch17 and ch25, and no banned phrases appear.
 
-**Findings:**
+## Findings
 
-1. **"and I never once heard the rhyme. I heard it now."** (Scene 2, Lesson One paragraph). This breaks the rule against explanation (02, point 4 sets the syllabus voice; 01, point 1 says address is never to explain). In ch17 the anchor's restraint is "Neither of us said what it rhymed with." Here the rhyme is said outright, and then the Turn says it a third time. The recited Lesson One line plus "Key 7. The archive. The folder nobody opens." already does the work. Fix: cut "and I never once heard the rhyme. I heard it now." and keep "That is all I am going to say about it." straight after "with the first message already sitting in the folder on my phone."
+1. **"I will tell you why. Going meant washing the suite..."** (scene 3, the bar paragraph). This uses direct address to explain a motive, which breaks 01 point 1: address is "always to implicate … Never to explain." Fix: cut "I will tell you why." and let the two plain sentences that follow stand on their own: "...and I did not go. Going meant washing the suite out of my hair. I wasn't finished with it."
 
-2. **"One catch, on the stressed beat before the word, a single hesitation"** (voicemail). This reads like the bible's note on Diane's stutter (07, point 8, "a single trochaic hesitation") pasted into prose. It is explanation, and it is not exact either, because "known" is a monosyllable, so there is no stressed beat to name. Fix: describe only what Iris hears and what it reminds her of, and drop the prosody, e.g. "She stopped, once, the way Diane used to stop, and I had heard what it cost to get past it on a concrete floor."
+2. **"Then I didn't have words."** (scene 1, the collapse). This sentence could appear in any novel, and it names the breakdown when it should show it. The previous line has already made the point ("I heard that they were the same words."). Fix: cut it, so the run goes straight from "the same words." to "It went on." The ch25 anchor does the same thing with plain declaratives and does not announce the loss of language.
 
-3. **"Tea is what you make when your hands need a reason to be holding something."** This sentence could appear in any novel (brief). It is a generic aphorism, and her mind has no part in it. Fix: cut it and open the paragraph on "I made it strong, with milk". The taste sequence that follows is the voice and carries the beat.
+3. **"The machine I had spent two years writing pages about had included me. Not as material. As a part."** (scene 2). This drifts toward explanation (02: exact, not glossed). It paraphrases the outline's thematic gloss, and "machine" is an abstraction that this narrator only uses when she is quoting Brandt. Fix: cut "Not as material. As a part." and make the image concrete in her own Gatekeeper terms, for example "I had been one of its drawers." Keep "I had been running it. And I had been eating well the whole time."
 
-4. **"Then something gave."** This could also appear in any novel. The next sentences are hers ("The lacrimal glands. The diaphragm going into spasm."), so this one is filler before them. Fix: cut it and start with "I know the words for it." Or give her a plain-English verb with a body in it, such as "Then the diaphragm went."
+4. **"The second I am going to say without help."** (scene 3 opening). The meaning is unclear: help from whom, or from what? It is the one blurred sentence in a chapter that is otherwise exact (02, "exact"). Fix: "The second I am going to say plainly." This also echoes "I'll say that plainly" in ch01 and "I am telling you that plainly" in ch17.
 
-5. **"The right was worse, red past the wrist"** (opening paragraph). This breaks 06, point 1 (never red unmodified). The anchor's last line already used "red to the wrist" two sentences earlier, so this is a second, flatter echo in the same moment, and it sits right after "oxblood." Fix: "The right was worse, oxblood past the wrist", or name the stage of drying ("still tacky past the wrist").
+5. **"His skin opening behind the blade like a mouth that had decided to."** (scene 3 inventory). This lifts ch17 wording without marking it. The marked echoes work because she notices them ("I heard that they were the same words"; "Now I did it on purpose"). Unmarked lifts read as a reviser quoting the anchor, not as Iris remembering (anchors, ch17). Fix: either give this item a new finding in the same Latinate/plain collision (for example "the dermis parting, the fat standing up yellow") or mark it as a repetition. Keep "smell a glass" in the hair paragraph, because the text marks it as deliberate.
 
-6. **"I didn't put anything on to cover the sound. I have never owned a record."** (Scene 3, exit). This repeats the ch17 line word for word with nothing new in it. In ch17 it lands at the platter; here it is a non sequitur and starts to read as pastiche of the anchor. The other callbacks ("below decision", the glass, "like a mouth that had decided to") earn their place because Iris notices she is repeating herself. This one doesn't. Fix: cut "I have never owned a record", or tie it to the washing machine so it says something new.
+## What works
 
-Checked and clean: no banned phrases ("breathed" at line 105 is not a dialogue tag; "beautiful" is held back, and "the other word" is the right way to point at it). The joke floor for Act II is met in each scene. The bathroom stretch thins on purpose, and "a great many bathroom floors professionally" holds it. Grading is put away in Scene 1 ("nothing to write in the margin") and comes back only with control ("I graded the exit: competent. I did not grade myself."), which is correct. Direct address implicates every time. Taste: the lamb and the tea are both described.
-
-**What works:**
-
-- The breakdown is told in short sentences that run out of words ("Then I didn't have words. / It went on."). Right after it, "I had used those words a few hours before, about him", where she hears ch17's "below decision" vocabulary turned on herself. Do not add imagery here.
-- The Latinate/plain collisions at the moments of refusal: "Borborygmi. I noted it and stayed where I was."; "washerwoman's skin" on the brined chicken; "logged it as a finding: hungry, refused." This is how the absence of appetite is shown without naming it (11, last point).
-- "Keep it next to the other word, the one from the suite. They are a pair." Direct address that implicates, ties back to 17 and does not repeat the banned word. Keep it exactly as written.
+- The grading voice is withheld exactly where she loses control and comes back where she regains it: "I did not grade any of it. There was nothing to write in the margin." later becomes "I graded the exit: competent. I did not grade myself." Do not add grades to the collapse, and do not remove these lines.
+- "It was the best plan I had ever written. It had only one flaw, which was that it ended." This is the act's thinning joke rate in one line, and the joke carries the turn.
+- "Keep it next to the other word, the one from the suite. They are a pair." This is direct address used to implicate, tied to ch17's "beautiful" without repeating the word. Do not add "beautiful" here.

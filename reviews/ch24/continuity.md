@@ -1,48 +1,43 @@
-# Continuity review: ch24
+# Continuity review: ch24 (revised, 3,344 words)
 
-- **Verdict:** REVISE. No contradiction of a hard ledger fact, but one timing error and several small fact slips need fixing. All are line-level.
+- **Verdict:** REVISE (small, targeted fixes; no structural clash with the ledger or either neighbour).
 
 ## Findings
 
-1. **Count arithmetic.** "seventy-one, seventy-two, and somewhere after that". Ledger (Fixed numbers, Ch 22-23 count) puts the end of Ch 23 at about 70 s. The glove snap, wrist-tie, case, uncapping, needle and flinch all fall between 70 s and the injection, yet the count reaches only 72 at the thumb. Fix: lose the count earlier. For example "I had counted through the four sentences and his kindness, to seventy, and the second pair of gloves, and after that there was no number." Then the first taste comes before the count goes. Keep "I never lost a count" (no other manuscript file claims one lost).
+1. **Snapper, "first time in this book I had been touched by someone who didn't know who I was."** The ledger contradicts this. People/Iris, sex: the unnamed man from the late bar after Ch 12 touched her and did not know who she was. Ledger Ch 21: a female Service officer pats her down. Ch 2: Desmond puts the plaster on her. The ledger says the Ch 24 Snapper stands as drafted, but it carries no carve-out for these three, as it does for Ch 12 against Ch 17's firsts. Fix: do not change the Snapper in the manuscript. Ask the continuity agent or author to add a ledger gloss that "touched" here means held or comforted, not any contact. If the author prefers a prose change, add a qualifier ("touched like that", "comforted").
 
-2. **"eleven" written two years ago.** "let eleven women finish him", followed by "I had written that two years ago". Ledger (Who knows what) has Iris learn of the eleven names in Ch 16; the syllabus was locked two years before Ch 1. She could not have written "eleven" then. The outline has the same wording, so this is a drafting trap, not a ledger conflict. Fix: write the lesson as "let the women finish him", then give the number as new knowledge ("The number I had since October: eleven. Less one...").
+2. **S3, "another page, with my name typed on it in its place on a list."** Two problems.
+   - It sits a few lines after the fourth page, which is handwritten and in the drawer. Read cold, "another page... with my name" is the fourth page again, and "typed" is wrong for it (ledger, Objects: handwritten, black ink).
+   - "In its place" gives her a position on the list. Ledger, Who knows what: she knows only that the list exists, not its order or her booking, and never thinks of herself as "tenth". Ch 25's "near the end" is her assumption, not knowledge.
+   - Fix: "Somewhere there was a list with my name on it, and that one would be read." This drops "page", "typed" and "place".
 
-3. **The case "all day against the page".** Ledger (Objects, catering jacket; Timeline Mon 2 Nov) has the kit staged in the catering jacket and "collected about 6:15". Only the page went into the blazer pocket in the morning. Fix: "where it had been since the closet, against the page", or drop "all day".
+3. **S1, "a woman who signed her letters E. Reyes... somebody with a notebook."** Ledger, Who knows what: Iris knows Reyes only as "SA E. REYES" until Ch 26. Nothing gives her Reyes's sex. The beat sheet's "a woman" is also unsupported. "Somebody with a notebook" matches the notebook that appears only in Interlude 5, so it risks reading as interlude knowledge. Fix: "somebody who signed letters E. Reyes", and "by somebody with a file" or "a lawyer's patience".
 
-4. **"out of my jacket".** Sentence 1 says jacket. Ledger and beats 23-25 fix the navy blazer, and the catering jacket is a separate object from Ch 26. The prose says "blazer" elsewhere in the chapter. Fix: "out of my blazer", or "out of the lining".
+4. **S3, "folded in thirds since the morning, when I put it there."** Ledger: folded and pocketed Mon 2 Nov, no time given. Her ritual runs from about noon and she leaves the flat at about 3:30. "The morning" is a new time claim and sits awkwardly against the ritual. Fix: "since I folded it at home".
 
-5. **Nora.** "died suddenly at home, in another county, and nobody from the campaign had stood beside anybody at hers". Ledger (People, Nora): the obituary ran in another county's paper, cause never stated. Her place of death and her funeral are not established, and Iris could not know who attended. Fix: "Nora Wade had died suddenly at home, and her obituary ran in another county's paper; I had no reason to think anyone from the campaign had stood beside anybody at that funeral." Keep the belief that she was one of the eleven (ledger: mistaken inference).
+5. **S2, "the machine I had spent two years writing pages about."** Ledger, Timeline: the syllabus was written and locked in the drawer two years before Ch 1. S1 says "written two years ago", which is loosely fine. "Spent two years writing" turns the interval into a writing period. Fix: "the machine I had written pages about for two years" is still loose. Better: "the machine I had built those pages around".
 
-6. **Stammer source.** "from a scope across a reservoir". Ledger (Diane, stutter): the stutter catches in Iris's hearing in Ch 6, in the pump station, not at 180 m through a scope. Fix: "from a dossier, from a profile, from the pump station."
+6. **S1, "felt it go in through both pairs of gloves."** It reads as the needle passing through her gloves. Nothing in the ledger has her punctured. Both pairs come off intact in Ch 26. The beat sheet uses the same phrase. Fix: "felt it go in through his shirt, a small resistance and then none". This also keeps the drug rule clear, since no site is named.
 
 ## New facts in prose (not in the ledger)
 
-- A locked cabinet with a log on its door in the ME toxicology lab.
-- Zip-tie kept flat in the blazer lining. Beat 23 has it; the ledger kit list does not place it.
-- The black gloves are carried in the blazer.
-- Injection site "a hand's width below the point of the shoulder".
-- Pin point pressing through both glove layers without breaking them.
-- Iris saw the funeral photograph of Holt and Olivia: Olivia taller than her mother, both looking below the frame.
-- Ballroom MC tells the crowd to "practise their applause".
-- Iris knows Sloane is in the ballroom (consistent with the ledger, but her knowledge of it is unstated).
-- Holt's reported speech: Diane "beaten" the stammer "out of herself", and he recounts Olivia as a sophomore at Wellesley.
-- Iris's own page is "face-down in the drawer under the place where this one had lain". This matches the ledger.
+- The syringe came from "a locked cabinet with a log on its door" in the tox lab. The ledger has only the lab and a stock discrepancy.
+- A "viewing room" with glass, where Iris has stood "more times than I can count". Ledger Places for the ME office lists none (anteroom, office, sinks, locker room, break room). Add it or rephrase.
+- The aftershave "had been chosen for him by somebody whose job it was".
+- The carpet smells of "sweet wet-dog breath an extraction machine leaves". The ledger has "floral cleaner over damp nylon pile". Compatible, but a drafter should check Ch 22 and Ch 25 for the same smell.
+- "The paces of a walk across a dam": she has paced the dam (Ch 4/5 area). It is plausible but not stated.
+- She has "never lost a count" before this. Compatible with the ledger's "first count she has ever lost".
+- Page "folded since the morning" (finding 4).
+- Ch 18's prose has her reading the foot of the FBI letter ("from the foot of a letter to counsel"). Ledger, Who knows what: she reads only counsel's covering email. This is not a Ch 24 fault. Flag it to the continuity agent, since finding 3 turns on it.
 
-## Checks passed
+## Hand-offs checked, clean
 
-- Holt's lines match the ledger verbatim.
-- Em-dash cut-off appears only in Holt's S2 speech.
-- No metal taste at his touch.
-- Left wrist tied, right hand free.
-- Agent unnamed.
-- Photograph face-up; page face-down beside it; syringe uncapped on the table.
-- Pin and marker back in the left inside pocket; tape unused.
-- Iris knows nothing she could only know from an interlude (E. Reyes comes from the Ch 14 letter).
-- Hand-off to ch25 is clean.
+- Ch 23 to 24: the count runs "to seventy". She has told him her name and he has used it. The four sentences, his "kindness", and "someone else" all match the Ch 23 beat. The chair-arm gap was looked at in 23. The tape is unused. Right hand in outer pocket, left on the inside pocket. Gloves go on in the first beat of 24. No handshake taken. Ch 23 manuscript does not exist, so the check is against its beat sheet only.
+- Ch 24 to 25 (read the first 400 words of manuscript/ch25.md): it opens mid-touch, "warm and dry", on "Take your time". The syringe is on the dressing table, uncapped, and Holt's jacket is on the chair back, never mentioned in 24. The page is face-down, uncircled and opened along its thirds. The case holds only the cap, with pin and marker back in the left inside pocket. The long tie is on his left wrist and is never cut. Her tears are not referred to in 25. No "agent" is used. Olivia's name is in S2, before the hand, as the beat sheet requires. Ch 25's loose recollections are left alone, per the ledger.
+- Ledger points confirmed: the metal taste is absent at Holt's touch. The flinch is heard first, before it is seen. She puts down an open needle. The cry is in S2 and unreported in S3. Her left hand goes to the wound in S2 only. Wellesley, the plane, "Sunday at four" and "Olivia" match. The ballroom MC and the applause match. Sloane is unnamed. No pulse or tremor appears. The em-dash appears only in Holt's S2 lines.
 
 ## What works
 
-- The hand-off is exact: the Snapper's touch, the free right hand, the page face-down beside the Marine and the syringe uncapped all line up with ch25's carries-in.
-- The refusal to grade Holt: the reflex "found no hand to hold the pen".
-- The overlap of the two files (Sunday at four, "We had both done the reading") carries the knowledge without comment. Keep it.
+- The loss of the count and the door that nobody opens. They land the overrun for Ch 25 without anticipating the knock.
+- The prop hand-off: syringe set down open beside Mark, case holding only the cap, pin and marker back in the left inside pocket, tape untouched, page face-down and unmarked.
+- "Eleven, less the one standing in the room. And one more": the Nora arithmetic is exactly as the ledger fixes it.

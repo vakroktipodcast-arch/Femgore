@@ -1,37 +1,31 @@
 # ch18 — Dent structure review
 
-- **Verdict:** REVISE (structure is sound; length is over target and one setup is missing).
+- **Verdict:** PASS. Two light trims advised (length, one ambiguous referent). Nothing blocks.
 
 ## Turn check
 
-- **S1:** lands. "At about ten to nine I could stand..." then the one-line "Not to call anyone." It is an action, not a summary.
-- **S2:** lands. "I had been the Gatekeeper. My page would read..." then the written page and "I didn't pin it to anything." It is an act and an admission.
-- **S3:** lands. "At twenty to seven the phone lit up beside it. Mara." then "I didn't reply." The Snapper follows in a separate closing paragraph.
+- **Scene 1:** lands. "At about ten to nine I could stand, and I stood facing the door. The first thing I reached for was my phone..." followed by the one-line "Not to call anyone." It is an event, not a summary.
+- **Scene 2:** lands. "I had been the Gatekeeper. My page would read:" then the act of writing it (black ink, steady hand) and "I didn't pin it to anything." It is an admission plus an action.
+- **Scene 3:** lands. "At twenty to seven the phone lit up beside it. Mara." then the quoted text and "I didn't reply." The Snapper follows in the final paragraph.
 
 ## Findings
 
-1. **Over word target.** Whole chapter. By my paragraph count the draft runs about 3,600–3,800 words, against a target of ~3,150. S1 and S2 each look to be about 1,300+ against the beat-sheet split of ~1,100 and ~1,050. I could not run `scripts/lint.py`, so confirm the count there. Rule: style/10 point 1 ("Chapter 17 may run long; nothing else may") and strategy/03 (1,000–1,100 per scene). Fix: cut 250–450 words, mostly from S1 and S2.
-   - S1: the long drive paragraph, the shower aside and the "tile is the only honest surface" riff, which sits beside the cistern/witness paragraph. Keep one of the two "witness" jokes.
-   - S2: compress the Nora backstory and the "I know the rest of that day" paragraph, and cut one of the two "That is the finding / That is the bill" closers.
-2. **Missing setup for Iris's competence.** Last paragraph, "Hope the day off was nice." The reader is never told she booked Wednesday off on Fri 9 Oct. The day off was the only reason nobody comes looking, and it was her own planning. As drafted, her unobserved six hours on the bathroom floor read as luck. Rule: strategy/03 hero rule and style/10 point 5. Fix: one clause in S1 or S2, e.g. that she had booked the day off a week ago, "because I plan the day after the way I plan the meal after." Do not add a scene.
-3. **S2 has a tense slip and a diluted approach to its Turn.** "My name is on it." is present tense in a past-tense chapter. Fix: "My name was on it." Between the recognition ("I did it twice" and "the bill") and the Turn there are three beats: the Lesson One recital, the borborygmi and the "That is all I am going to say about it" aside. Cutting the Lesson One rhyme to two sentences, or moving it before "I did it twice", keeps the Turn on the heels of the realisation. Rule: style/10 point 3, Turn as event.
-4. **S3 decision sits mid-scene, followed by a long procedural coda.** From "I was going to go on because I wanted to." to Mara's text there are the disposal, the washing, the bar attempt and the hunger log, about 300 words. The bar-at-the-door beat is strong, because it proves the choice by her body. The wash, the instruments and the grading can be tightened so the Turn arrives faster. This is a minor finding that overlaps with finding 1.
+1. **Length.** Lint count is 3,402 against the ~3,150 target (+8%). It passes the 2,800–3,500 lint band, but style/10 point 1 says only Chapter 17 may run long. By my rough paragraph count, Scene 1 is about 1,300 words against the 1,100 suggested in `beats/ch18.md`. Strategy/03 bullet 1 puts scenes at 1,000–1,100. Scenes 2 and 3 are roughly 1,100 and 1,000. Fix: trim Scene 1 by 150–200 words. Candidates are the long closing paragraph, "At some point the blood under the gloves finished drying", where the stitches and day-off logistics can be compressed, and one of the two bathroom-floor jokes. Keep the day-off clause, because it is what blocks any luck reading.
 
-## Checks that pass
+2. **Referent of the key admission is loose.** "Because I wanted to. That is the most honest sentence in this book." Both "I was going to go on because I wanted to." and the fragment "Because I wanted to." sit in front of "That". The outline's beat is that she says it and flags it. Rule: strategy/03 bullet 3, where the last thing she admits has to land cleanly. Fix: drop the fragment before "That is" so the flagged sentence is unambiguous, or put the flag directly after the full sentence.
 
-- **Length by scene:** three scenes, no interlude.
-- **Scene 1 opening:** Iris is in the trouble (hands, car, evidence) on the first line and inside the first page.
-- **Pressure:** her own knowledge and the appetite are felt in every scene.
-  - S1: the happiness replay and the chicken.
-  - S2: "eating well the whole time", the lamb and the borborygmi.
-  - S3: the suite in her hair and the refused tea and food.
-- **Hero rule:** no rescue and no convenient door. The wipes, the gloves-over-blood and the refusal to request the file are all her competence. The only gap is finding 2.
-- **First sentence:** "My hands were on the wheel, and now I looked at them." It carries weight.
-- **Last sentence:** "The page with my own name on it lay face-down on the desk." It is an image, not a cliffhanger, and it matches the outline Snapper.
-- **Snapper:** voicemails side by side, "thirty-four seconds and forty-seven, both marked as read". It is an image and an admission.
+3. **Snapper viewpoint.** "In the archive behind it, the two voicemails lay side by side" is an image she cannot see, because the screen has just gone dark. It is not a cliffhanger, and it keeps the outline's wording. Strategy/03 bullet 4 asks for an image she would notice. Fix, optional: have the dark screen reflect her own knowledge, for example "I knew what was behind it: the two voicemails...". The final sentence about the face-down page stays as written.
+
+## Other lens checks (no finding)
+
+- **Scene 1 trouble inside the first page:** yes. The blood on the hands and the evidence on the wheel are in sentence one, and she is working the problem by paragraph two.
+- **Pressure in every scene:** yes. Scene 1 is knowledge as a body event, with the replay of being happy and the chicken. Scene 2 is knowledge as a document, with "eating well the whole time" and the stomach noise. Scene 3 is knowledge as a decision, with the suite in her hair and "hungry, refused".
+- **Hero rule:** clean. The wipes, the gloves, the day off, the unlocked drawer, the laptop and the bagging are all hers. She stands up on her own. Mara's text is not a rescue. The clean exit is offered and refused by her. No lucky or convenient door.
+- **Snapper:** an image and an admission, not a cliffhanger. It is the outline's Snapper with durations added.
+- **First and last sentences:** "My hands were on the wheel, and now I looked at them." picks up Chapter 17's Snapper and carries weight. The last line, the page with her name face-down, does too.
 
 ## What works
 
-- The S1 syntax break from long clinical sentences to short ones ("It went on." and "I didn't stop it. I didn't try.") is the collapse itself. Do not pad it back out.
-- The decision sentence, "I was going to go on because I wanted to.", is plain and untouched by qualification. Keep "Keep it next to the other word" exactly.
-- The closing image holds. Mara's text goes dark before the last paragraph and nothing is said about what the face-down page means.
+- The Scene 1 syntax break ("That was the last clean sentence I had for a while." followed by the run of one-line paragraphs). It lands the collapse as an event and must not be re-padded.
+- The Scene 2 order of operations, where she washes and cleans before she knows anything ("You may make of the order what you like"), and the Turn as a physical act in her own hand.
+- Scene 3's sequence: list of wants, clean exit graded as the best plan with one flaw, the body deciding first, then the door she doesn't go out of. The decision is felt before it is stated.

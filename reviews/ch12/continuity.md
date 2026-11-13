@@ -1,52 +1,43 @@
-# Continuity review: ch12 (The Close Call)
+# Continuity review: ch12 (revised), 3,468 words
 
-**Verdict:** REVISE. The dates, times, wound figures, kit, meal, sleep and the Mara lines all match the ledger. One internal contradiction and a few small gaps need fixing.
+- **Verdict:** REVISE. The ledger facts (dates, times, counts, wound geometry, suture counts, Garrity, Contractor B, alarm code, wallet, licence, toothbrush) are almost all correct. One ledger rule on grading is broken, one Who-knows-what line is stated as fact, and there is one cross-unit clash with Ch 24.
 
 ## Findings
 
-1. **Zip-ties: contradiction with "only time I touched him after."** S1 puts the ties "looped at the bearded one's belt" (A). S3 says "zip-tied the young one ... with his own ties", then "I took the dead man's wallet ... the only time I touched him after." She cannot have taken the ties from A's belt without touching him, and B's own ties are never established. Breaks ledger "Fixed numbers" and ch12 beat S2 beat 9 and New facts ("doesn't touch A's body ... except to take his wallet"). Fix: in S1 give B a second loose bundle in his jacket pocket or hip, or have the ties lie on the van's sill, and keep "his own" to mean B's. Or change S3 to "their ties" taken from the van.
+1. **Iris grades herself in Ch 12.** "I gave myself the mark I give a resident" (para 3). The ledger says her first grade of herself is "competent" at the mirror in Ch 19 S3 (People, Iris, grades line), and the Ch 13 beat sheet repeats "No grade of herself". Fix: grade the exit, not the woman, e.g. "The exit got the mark I give a resident who closes without being reminded where the skin goes." Keep "I gave him the mark for that, too", since grading Brandt is fine.
 
-2. **Gloves are never mentioned.** The beat's New facts say "She wears nitrile gloves throughout", and ledger Objects (Kit) lists nitrile gloves. The prose has her handling the wallet, licence, ties and rack bare-handed by omission, in a chapter about her own DNA on the floor. Ch 13 S2 also relies on her bare right hand being a first ("first time she has bared a hand anywhere she should not"). Fix: one clause in S1 ("nitrile, steady") and one in S3 (gloves off at the car or at the bath).
+2. **Inference stated as fact.** "So he had kept two men parked nearby since morning, and when my cloned card turned his reader green, it had rung their phone." Ledger, Who knows what: Iris "infers, unconfirmed" that the rectangle told Brandt she would return, that two men had been parked nearby since that morning, and that the card rang their phone. The preceding sentence is also flat ("had told him I would come back"). Fix: mark the chain as her reconstruction, e.g. "I worked it out standing there" / "I assumed", and keep it to one hedge. She has no way to know any of it.
 
-3. **Alarm, door and camera are not accounted for.** Ledger Places and ch11 beats: badge reader, vestibule keypad (2-5-8-0), one door camera, and a PIR over the office. In Ch 11 she entered by the side door and re-armed the alarm. Here she exits through the bay side door and a long fight sets off the hall's motion lights, and nothing says what the panel was doing or how she got in this time. Fix: one clause at the open or exit. Suggestion: the panel was already disarmed when she came back to the hall, which she reads as "I should have read it". This also supports Brandt having staged the bay.
+3. **Ch 24 clash over the needle.** Ch 12 has her put down a used suture needle ("I put the needle down") and leave it on the sink edge for hours; it is the Snapper. Ch 24 (manuscript line 79) says "In fifteen years I had never put down an open needle" and the ledger repeats it ("Puts down an open needle for the first time in fifteen years"). Ch 12 contradicts that line. The Ch 12 Snapper stands as drafted per the ledger, so the fix belongs elsewhere: either Ch 24 and the ledger narrow it to "an open syringe", or Ch 12 gains one clause that makes the suture needle capped or sharps-boxed until the Snapper. Needs an author ruling; I would narrow Ch 24.
 
-4. **"a day and a night of Brandt's traffic."** The tap went in Thu 1 Oct, out of the building at 10:21 p.m. (ledger, Ch 11). The pull is Fri about 10:05 p.m., so it is about 24 hours. Fix: "a day of Brandt's traffic".
+4. **Garrity's wallet is left unaccounted for.** "took the dead man's wallet from his back pocket" and then nothing. The ledger (Objects, Ch 12) fixes it as "dropped on the concrete beside him". Add the clause. Also, he is "on his back" when she takes it from the back pocket, so say she tips or lifts the hip with two gloved fingers. That is still the "only time I touched him after".
 
-5. **"squared on his desk."** The rectangle (ledger, Ch 11) is on the operator's desk in front of the keyboard. "His" reads as Brandt's desk. Fix: "on the operator's desk".
+5. **Self-contradicting self-description.** "I have never been in a fight." (S2) is in present perfect, but she is mid-fight and the narrator speaks from later. The ledger fact is "never in a fight before Ch 12". Fix: "I had never been in a fight." The next line, "I had never had one read to me", already uses "had".
 
-6. **Licence "did not read it" against the Ch 13 hand-off.** The Ch 13 beat has her lay down "Dale Garrity, 43", with the name and the donor heart. That works only if she reads it between chapters. The Ch 12 prose is fine, but add "yet" ("did not read it then") so Ch 13 can show the reading, and flag the dependency to the Ch 13 drafter. The prose never gives Garrity's name, which is correct.
+6. **Order of observation.** "I counted. Unconscious inside fifteen seconds. Gone in about three minutes." comes before "Only then did I look." She cannot count unconsciousness without looking. Either say she counted by sound and breath, or change "Only then did I look" to "Only then did I look at all of him". Ch 25 ("the first one I didn't examine") still holds either way, since she never kneels and writes no time of death.
 
-7. **Floor surface.** The cold air comes up "through the floor grilles" (raised floor), but the fight is on "concrete" and a "white-painted floor". The ledger fixes no floor. Fix: pick one. Suggestion: "painted concrete" for the fight, with the grilles as perforated tiles in the aisles.
+7. **Lantern exit route (low).** Ledger Places puts the badge reader and keypad panel at the side door and glass vestibule. Ch 12 has her walk out through the bay's side door and key the midline "into his panel on my way out". Nothing says the bay door has a panel or that she is leaving by a different door from the one she came in. One clause fixes it: the panel is by the bay door, or she goes back to the vestibule panel before the bay.
 
-8. **"Dish soap and blood."** This puts a scent in the bathroom. Ledger (Iris): unscented soap only, no scented products. It is also unexplained, since she has not yet washed. Fix: cut "Dish soap and", or make it "Soap and blood", unscented.
+8. **"The most fun I had had in three years" (low).** This outranks the Diane kill five weeks earlier and the Ch 11 break-in the night before. The Ch 11 beat says that break-in was "the most fun with clothes on since Diane", which puts Diane above it. Soften to "in a long time", or accept that Ch 12 outranks both.
 
-9. **"I have worked in it every day for fifteen years."** The ledger says "fifteen years of corridors", which includes training. Fix: "I have spent fifteen years in rooms like it".
+## New facts in prose (not in the ledger)
 
-## New facts in prose (not in the ledger; for the beat sheet or ledger)
-
-- The card is smaller than a fingernail. Iris pulls it Fri about 10 p.m., about 24 hours of traffic.
-- The donor dinner is "on the other side of the city".
-- Zip-ties are at A's belt. A's breath is menthol. A is bearded; the beard soaks into "a single dark tuft".
-- A's wallet is in his back pocket; she takes the licence and does not read it.
-- She walks two streets to the car, with the hood as a pad.
-- She stitches on the bath edge by the desk lamp "on its long flex". She checks her urine. Each knot is cut to 3 mm.
-- She cut her shirt off with kitchen scissors.
-- She boils the saline. The residency kit is under the sink. She notes that "I had taught it" (the Mara lines) to Mara.
-- She habitually brines chickens ("a third of the strength I brine a chicken in"). This is not the Ch 15 bird.
-- The tartare knife is single-edged. Capers, cornichons, Dijon and Worcestershire; toasted sourdough.
-- "I have never been in a fight."
-- Fight: "the most fun I had had in three years." (Check that this does not undercut Ch 11's "since Diane".)
-- Home about 11. The bar is named only as "a late bar in a business hotel by the river".
-
-## Hand-offs
-
-- Ch 11 to Ch 12: Thu night to Fri night; the route mapped "the night before"; the tap card; the rectangle. OK except findings 3, 4 and 5. The photograph is not mentioned, which is fine.
-- Ch 12 to Ch 13: wound, licence, hood and the two-day wound all line up. See findings 2 and 6.
-- Ch 12 to Interlude 3 and Ch 17: the body and the surviving B are left for Brandt's cleanup. Nothing contradicts the Ch 17 text ("quiet all night", "left flank").
-- Iris knows nothing that comes only from an interlude. The "third wall" is her own Ch 9 inference.
+- Contractor B's right wrist is the one cut, and he holds the hood in his left hand. This is in the ledger already. The new part is that Iris's left palm is flat on Garrity's chest through his shirt before the cut (author-approved heartbeat).
+- Tartare ingredients: shallot, capers, cornichons, Dijon, Worcestershire, yolk, toasted sourdough. The ledger has only "fillet-tail tartare on sourdough".
+- Iris habitually brines chickens ("a third of the strength I brine a chicken in"). The ledger fixes only the Ch 17 brine.
+- Post-injury check: no guarding, no rebound, no shoulder-tip pain, urine clear.
+- Saline is made from boiled water and cooled. The track is irrigated into the bath.
+- Desk lamp on a long flex in the bathroom, overhead light off, she sits on the edge of the bath. The shirt is cut off with kitchen scissors.
+- She drives home "at the limit", jacket zipped to the chin.
+- The stranger's flat smells of someone else's laundry powder; sex is sitting up and fast.
+- The suture needle sits on the sink edge parallel to the tap from the stitching until 6:40 a.m.
+- The second toothbrush is in the cup beside hers, "still damp", at about 6:40.
+- She sleeps dreamless and wakes rested ("better than in years").
+- "Most fun in three years" (see finding 8).
+- She has "graded" a donor's dog, which sits against Ch 4's "a card, a staffer, and no dog". That is Diane's line, heard on the feed.
 
 ## What works
 
-- The time chain: ambush about 10:05, home about 11, tartare at 12:15, out 12:40, home 4:00, sleep 4:10–6:40. It matches the ledger exactly.
-- The wound figures (3.2 cm, about 4 cm, 300 ml, 3 absorbable + 7 nylon, 9 g to 1 L) and the two Mara lines. Keep them verbatim.
-- No mirror, no bathroom-mirror check, no hand inside a body, and the dead man ungraded. This keeps the Ch 17, 18 and 27 hand-offs intact.
+- The wound geometry, suture counts, timeline (11 / 12:15 / 12:40 / 4:00 / 4:10–6:40), Garrity's 15 s / 3 min, B's spared arteries and the Mara lecture lines all match the ledger exactly. Do not touch them.
+- The ledger-protective omissions: Garrity's name never appears, the licence is unread at the scene, there is no mirror at the sink, she does not kneel, and no tremor is shown. All of these keep Ch 13, 17 and 25 intact.
+- The Snapper and the Turn at the sink, with her fingertips going to the dressing: the first unthinking touch lands on Sat 3 Oct as the ledger requires.

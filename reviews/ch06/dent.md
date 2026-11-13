@@ -1,32 +1,34 @@
-# Dent review: ch06 (The Lesson)
+# ch06 — Dent structure review
 
-- **Verdict:** REVISE. Structure, Turns and Snapper all land. The chapter is well over its word target, and Scene 2 thins the act pressure.
+- **Verdict:** REVISE. Structure, Turns and Snapper are sound; the chapter is about 11% over its word target, and two Turns are slightly over-explained.
 
 ## Turn map
 
-- **Scene 1:** Turn lands at "It was the worst thing she could have said." The apology is an event, and Iris watches Diane "not know why". The "one line" of not being amused and the coin taste are both there.
-- **Scene 2:** Turn lands at "I have left something out. After the black went over her eyes..." It is an admission, not a summary. The stutter is a "stress and a fall", never written phonetically. It closes with "I have heard the hesitation since."
-- **Scene 3:** Turn lands at "I wanted the first investigator to read them." It runs through the list of wants to "None of the things I wanted was to leave." The Snapper then follows: "I left the way I had come in... I was ravenous."
+- **Scene 1:** the Turn lands at "It was the worst thing she could have said." It is the last paragraph of the scene, and it ends on "then the line was over."
+- **Scene 2:** the Turn lands at "I have left something out. After the black went over her eyes…". It is the final paragraph. The stutter is described, never written phonetically, and the scene closes on "I have heard the hesitation since."
+- **Scene 3:** the Turn lands at "My mouth had gone dry again under the hood." It closes on "None of the things I wanted was to leave." The Snapper follows directly: "I left the way I had come in… I was ravenous."
 
 ## Findings
 
-1. **Length.** Dent checklist 10, point 1 (~3,150 words, "nothing else may" run long) and beats/ch06 targets (S1 ~1,050 / S2 ~1,150 / S3 ~950). By my hand estimate, with no word counter available to me, the chapter runs about 3,800–4,000 words. S1 is about 1,250, S2 about 1,550 and S3 about 1,100. Scene 2 is the worst offender. Confirm with `scripts/lint.py`. Fix: cut about 150 words from S1, about 350 from S2 and about 150 from S3, as set out below.
-   - S1: trim the opening smell paragraph ("The waxed cotton of her jacket, which smells like a wet dog...") and the "building being lit floor by floor" simile. The floor-by-floor image is better saved for S3.
-   - S2: compress the organ list ("The lungs heavy and plum-dark and wet. The spots on the visceral pleura...") to one sentence. Cut the "hundred and something, banging in my ears and in my jaw and in the soft tissue" run-on to half.
-   - S3: halve the cooling-curve paragraph ("She was cooling at the rate I would have expected..."). The dispatch-and-bagging beats can lose the ankle ties sentence (see finding 5).
+1. **Length.** The lint count is 3,487 words against a ~3,150 target, which is 337 over. This breaks style/10 point 1 ("nothing else may [run long]" except Ch 17) and strategy/03 ("roughly 1,000–1,100" per scene). By my estimate S1 is about 1,000, S2 about 1,350 and S3 about 1,100. The excess is mostly in S2. Fix: cut S2 by about 250 words, following beats/ch06's own instruction to trim body-phase beats first.
+   - Compress the "Then the loss of consciousness…" paragraph. Keep the hands, the agonal gasps "remembering something halfway through a sentence", and "watching the outside of it now". Cut the autopsy catalogue ("lungs heavy, liver-dark… right heart standing up like a fist").
+   - Trim the petechiae simile and the cooling-curve paragraph in S3 by about 60 words.
+   - Cut the length of the S3 "wanted" list.
 
-2. **Act pressure thin in Scene 2.** Dent checklist 10, point 4, and strategy 03 (menace in every quarter). The campaign's certainty that nothing is coming is felt strongly in S1 (channels, process) and S3 (counsel's number, "the room no one enters"). In S2 it appears only as the aside "I can think of an institution with the same reflex". Fix: use Diane's discipline as the pressure. The "same muscle" line already gestures at it. Make the "That's very good" exchange land as Iris grading a woman still reaching for procedure. One sentence is enough. Do not add a Diane line, because the beat sheet keeps her silent after the black goes on.
+2. **S2 quiet paragraph pre-announces itself.** "which I want to tell you about properly, because it was the quietest place I have ever been" breaks style/10 point 8 (an admission, not a summary), and beats/ch06 S2 beat 9 ("Don't flag it on the page"). The sentence also stretches the pleasure into one long run. Fix: drop the "tell you about properly" and "quietest place" framing and start on "the drip somewhere in the dark". Let the reader catch that the jokes have stopped. This also saves about 25 words.
 
-3. **Scene 3 sags before its Turn.** Dent checklist 10, point 3. Six procedural paragraphs (tape off, ties, pin, marker, Evaluation, policy) run before the Turn, and the Turn's own paragraph is carried mostly by its list. Fix: the length cuts in finding 1 would also tighten this. Move the "mouth was dry under the hood. Then it wasn't." beat directly ahead of "I wanted the first investigator", so the appetite builds into the Turn without the intervening "filed it" paragraph's tail.
+3. **S1 Turn is explained after it lands.** "She had just read me her own evaluation in her own words… I had no column for her kindness." This is summary after the event, and it weakens the Turn's cold line, which breaks style/10 point 3. Fix: keep "It was the worst thing she could have said", then one sentence of reason ("She still believed the file had been the protection…"). Cut the evaluation-read-back sentence. Go straight to "I watched her not know why."
 
-4. **Scene 2's joke-drop is slightly visible.** Beats/ch06 S2 beat 9: "She has stopped being funny and doesn't notice. Don't flag it on the page." The draft stays clean, which is good. But "I am reporting that. It goes in the same column as the time." is itself a dry joke placed after the beat 8 cutoff. Fix: keep it, but ensure no other joke follows it. That is the last joke in the scene, and it is arguably the moment the reader should feel the turn, so cut "I had a lot on" (the line about the tape catching her hair) if you need a cleaner pre-turn drop.
+4. **S3 Turn is partly buried.** The Turn is preceded by "As for the rest: it had gone well… I was confident about it, because I had decided to be", then "dry again". "Again" has no earlier dry mouth on the page, so it points at nothing. Fix: change "dry again" to "dry", or plant the dry mouth in S2's quiet paragraph. Keep the investigator wish first and the list second.
 
-5. **Convenient or extra elements, minor.** Hero rule (strategy 03). No luck, rescue or convenient door is found. Every outcome is Iris's own work, and "I put the paper in before the word arrived" is competence. One continuity oddity belongs to other lenses: "The ties at her ankles, and the band of tape there" adds ankle restraints and a fourth tape element that the beat sheet and ledger do not have (Diane is "ankles bound" in S1 only by implication). Either cut both mentions or add them to `## New facts` in the beat sheet.
+5. **Pressure thins in S2's middle.** The act's pressure is Diane as the campaign's certainty that nothing is coming. It is strong in S1 (channels, Olivia). In S2 it survives only in "as if holding still were a channel" and "somebody's exhaust". It is acceptable. If cutting per finding 1, do not cut those two lines.
 
-6. **First and last sentences.** The chapter's first prose sentence ("The pump station smelled of what it had been built to do and had stopped doing.") carries weight, and the last ("I was ravenous.") is the outline's Snapper, an admission and not a cliffhanger. No change. Iris is in the room, bound captive and lantern, inside the first page, so the Scene 1 trouble-in-first-page rule is met. The smell paragraph delays the action by about 170 words, so trimming it (finding 1) also helps here.
+6. **Hero rule.** Checked: no luck, rescue or convenient door. Every restraint, the bolus and the timings are Iris's own work, and the nape-hair catch is her own flaw, noted. Nothing to fix.
+
+7. **First and last sentences.** Both carry weight. "The pump station smelled of what it had been built to do and had stopped doing" opens on place and absence. The Snapper is an admission, not a cliffhanger. Scene 1 puts Iris in the trouble by the second paragraph, with the bound Diane, the lantern and the coverall. Nothing to fix.
 
 ## What works
 
-- The S1 Turn: the apology is delivered kindly, the reader sees Iris realise it is the Evaluation spoken aloud, and the scene stops dead on one line without commentary.
-- S2's retrospective stutter admission as a withheld fact returned at the end. It is exactly the outline's Turn and does not point at Ch 18.
-- The S3 close. "None of the things I wanted was to leave" followed straight by "I left" and "ravenous" lets the appetite be the horror without any naming.
+- "I know. I used them." and the Olivia exchange. The self-marking ("took a mark off for it") plants the appetite and the grade motif without comment.
+- The S2 order of events. The jokes drop away after the "exhaust" line without Iris noticing, and the stutter is withheld until the final paragraph.
+- The Turn-to-Snapper echo: "None of the things I wanted was to leave" followed by "I left… I was ravenous."

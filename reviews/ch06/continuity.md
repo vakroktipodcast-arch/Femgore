@@ -1,51 +1,67 @@
-# Continuity review: ch06
+# ch06 — Continuity review
 
-**Verdict:** REVISE (four small fixes in the prose and one hand-off to settle; nothing structural).
-
-Not available to check against: `manuscript/ch05.md` and `manuscript/ch07.md` do not exist yet. Hand-offs were checked against the beat sheets only.
+- **Verdict:** REVISE (one real clash with a ledger "first"; one hand-off to guard; the rest is clean).
 
 ## Findings
 
-1. **Matter number ownership.** "she had assigned that one" breaks `ledger/continuity.md` People/Diane and Objects (LC-0311 is "Counsel's matter number") and contradicts the prose's own later line, "The matter number is counsel's." The planted pointer in S3 ("takes them up the building… to the room no one enters") also depends on counsel owning it. Fix: Diane knows the number because she guards the file, not because she issued it. For example, "A gatekeeper knows the numbers on her own gates; she had walked that one through, and would have known it…".
+1. **Carotid count-down breaks Ch 17's "first time she feels a heart go".** Quote: "I put two fingers on her carotid and counted it down."
+   - Rule: ledger, People, Iris, "Firsts": "Ch 17 is the first time... she feels a heart go". The only exemptions listed are Ch 12's blood in the mouth and Garrity's heartbeat through his shirt. Ch 6 is not exempt. `anchors/ch17.md` (read-only) says "I had never felt it go."
+   - The prose has her feel the pulse "slowed and thinned... a few beats and a gap" and keep her fingers there "until I was sure". That is feeling a heart go. The ledger's "Not changed, by approval" list covers only "the other sweat" and the coin in Ch 6.
+   - Fix, in order of preference:
+     - (a) Ask the author to add Ch 6's carotid to the exempt list.
+     - (b) Move the fingers to the carotid only after the last gasp, so the prose never narrates the pulse failing under them. The 10:47 call can be made on the gasps and the silence. Cut "counted it down", "irregular", "counted the gaps" and "kept my fingers there anyway".
+     - (c) Replace the touch with watching the neck and the notch, and her watch.
 
-2. **Warmth claim contradicts Ch 5.** "the first warm part of me all morning" (S2, the quiet). `beats/ch05.md` S2 para 4 has her face hot and the cold gone from her forearms at the capture. Fix: "the first warm part of me since the door" or "warm again".
+2. **Gloved fingers inside a living mouth may also clash with Ch 17's "first hand into anything at thirty-seven degrees".** Quote: "With two gloved fingers of my right... I packed the paper".
+   - Rule: the same ledger "Firsts" line. Ch 6 is not exempted. Fingers, double nitrile and a mouth are arguably not "a hand into" a body. This is lower risk than finding 1.
+   - Fix: get an author ruling and add a Ch 6 clause to the ledger. Prose change only if the author wants one: keep it fingers only (it is) and never mention warmth or wetness against skin. "Warm ammonia", "warm still at the centre" and "warm... electrical" toner are all fine.
 
-3. **Unaccounted time before the 10:40 tape.** S1 says "My pulse was still up from the door, the knee, the tape". The capture was about 8:28 (ledger, Timeline Sun 13 Sep) and S1 follows Ch 5 S3 within minutes. S2 then jumps to "My watch said 10:40" with nothing for about 1 h 50 min. Ledger fixes tape-on at about 10:40 and death at 10:47. Fix: add one sentence at the S1/S2 seam saying how long she let Diane sit with the grade, or change the pulse line so it is not tied to the capture. Whatever is added goes into the beat sheet's `## New facts`.
+3. **Ch 6's last line completes the exit, but Ch 7 S1 has her still inside.** Quote: "out by the steel door, and closed it on her."
+   - Rule: ledger, Objects, "Ch 7 egress" and "Diane's phone". `beats/ch07.md` S1 beats 2–8 have Iris, after Ch 6's end, still bagging the planted phone, returning Diane's phone to the left inside pocket, stripping the coverall, sweeping with the lantern on its side and lifting the padlock off the hasp.
+   - Ch 6 leaves Diane's phone in its foil "beside the lantern" and never takes it back. The snapper is ledger-fixed, so it must stand. The risk is the next unit, not this one.
+   - Fix: no change to Ch 6. Flag to the Ch 7 reviser that S1 must open as an explicit rewind ("I closed the door on her. Before that...") or the order of events will read as a contradiction. If the author prefers, soften the Ch 6 snapper to "I went to the steel door" and let Ch 7 close it. Do not add egress detail to Ch 6.
 
-4. **The stutter is written as the disguised pause, not the catch.** "the pause her staff had always taken for thoughtfulness". Ledger, Diane: the disguised pause is Ch 2 and Ch 4 S2. The actual catch occurs twice, once offstage (Interlude 1) and once in Iris's hearing (Ch 6). Ch 6 is the catch, so describing it as the thoughtful pause blurs the two. Fix: keep "once, a stress and a fall" and "caught on its first syllable", and make the staff's misreading a contrast ("not the pause her staff took for thoughtfulness; this one stuck"). Still no phonetic spelling.
-
-5. **Hand-off to Ch 7: restraints cut twice.** Ch 6 S3 has Iris cut the wrist ties at the bracket and bag them, plus the ankle ties and tape band, and the egress is left to Ch 7. `beats/ch07.md` S1 beat 2 and New facts have her cutting the wrist ties and pocketing them again. Ledger Objects (Diane's restraint) says "cut and taken by Iris" only once. Fix: the ch07 draft must start from "already bagged" (or the ch07 beat must be amended). No change to Ch 6 is needed beyond the ledger additions below.
-
-6. **Minor: ankle restraint not in the ledger or downstream units.** Ankles are bound ("ankles bound", "The ties at her ankles, and the band of tape there, went into the bag"). `beats/ch05.md` has them zip-tied and banded, but the ledger records wrists only. `beats/ch08.md` and Interlude 2 mention no ankle furrows or residue. Fix: add ankle restraint to the ledger, and decide whether Ch 8 notes it. The prose can stand.
+4. **"A catch" is used for the recognition sound, but "catch" is the stutter's word.** Quote: "a catch at the back of the throat that she had not sent for".
+   - Rule: ledger, Diane, Stutter: it "catches twice... once in Interlude 1... once in Iris's hearing (Ch 6)". S2 then says "The old hesitation caught it". A strict reader counts three catches.
+   - Fix: change the S1 noun, for example "a small dry click at the back of the throat". Keep the larynx clause.
 
 ## New facts in prose (not in the ledger)
 
-- Ankles bound with zip-ties and a band of industrial tape, removed after death and bagged.
-- Absorbency test done "at my counter the week before"; the paper was cut "at my kitchen table". The ledger says only "tested at home".
-- She sits back on her heels for nine minutes after death (about 10:56).
-- Her pulse at 10:47 is "a hundred and something".
-- 30 seconds of stillness before the first involuntary inspiration.
-- Iris has heard "that sound" down the phone from mothers and husbands.
-- Slate shirt buttoned to the second button, warm at the centre.
-- Wrists "already pink" at the plastic during S1.
-- A hand-held cap in her teeth that leaves with her; red marker described as "the only new smell".
-- Adhesive left "across both cheeks and round the back of the head", the colour of dishwater.
-- The drip somewhere in the dark, and the lantern's electrical whine.
-- A paper fragment on the lower lip reads "LC-03" (in the beat sheet's New facts, not the ledger).
-- The pinned print is described as "a fresh print", with the master in the drawer "with my corrections on it" (consistent with the ledger).
+- Iris has taken calls from "mothers" and "husbands" at the moment her sentence "reaches its noun". This is a new work detail. It sits well with Ch 10 and Ch 14.
+- "The campaign never used red." This is a new house fact. It does not contradict anything. Hold it for Brandt's Ch 8–9 material.
+- Iris has opened asphyxial lungs "dozens of times".
+- Diane has heard a zip bag "over a thousand packed lunches". This implies Diane packed lunches, for Olivia.
+- The absorbency test used "the back of a spoon". The ledger fixes only "a glass of water at the counter the week before".
+- Sensory fixtures not in the ledger: a drip in the dark, the lantern's electrical whine, a toolbox-like machine-oil smell, and a face pressed "temple to temple" at about 10:36. None conflicts.
+- Iris's stomach is empty. It is "a flaw in the planning" that she "had brought nothing". This is consistent with the ledger's "ate nothing on Sun 13 Sep", and it is not yet stated there as a planning flaw.
 
-## Checked and clean
+## Checked, no issue
 
-- Lesson One head insert is word-identical to `bible/style/08`.
-- Apology line is verbatim from the ledger.
-- Time of death 10:47, tape on about 10:40, 11 °C, three turns, pewter, single steel pin, red circle, Evaluation in capitals, black vinyl over the eyes, fingertips at the thyroid borders, jacket and shirt.
-- Metal taste in S1 only, no tremor, hands steady.
-- Iris learns nothing she could only know from an interlude, and nothing about the eleven or the list.
-- Liver estimate 1,500 g matches the ledger.
-- The rest of the ch07 carry-out (Snapper, ravenous, nothing eaten) matches.
+- Facts that match the ledger:
+  - Times: 10:40 tape, 10:47 death, nine minutes on her heels.
+  - Eleven degrees.
+  - One zip-tie per wrist, joined to the bracket; all ties and tape cut and bagged; furrows stay.
+  - Pewter tape, three turns, heel of the left hand, anchored on the cheek.
+  - Vinyl as two overlapping strips, temple to temple.
+  - Bolus in one push with one gag; chin tipped for the seven o'clock breakfast.
+  - Pin through the midline over the manubrium, page a fresh print.
+  - THE GATEKEEPER circled in red; the cap held in her teeth, then into a glassine envelope.
+  - Fragment "LC-03" on the lower lip, the other paper left in the mouth and on the floor and jacket.
+  - Pulse "a hundred and something" in the jaw and throat, face hot.
+  - Coin-at-the-back-of-the-tongue taste in S1 only.
+  - Stutter after the vinyl and before the paper, once, heard.
+  - Diane's lines, "I know. I used them." and the apology.
+  - The up-and-left glance at the footer.
+  - The "other sweat" is never named as fear.
+  - The ~two-hour silent sit, Iris on the plinth, out of reach.
+  - Epigraph word-for-word identical to the `anchors/ch01.md` insert.
+  - No typeface named.
+  - Iris knows nothing from the interludes.
+  - Diane's childhood stammer comes from "the file" (Ch 2 beat), which is fine.
+- Neighbouring manuscripts: `manuscript/ch05.md` and `manuscript/ch07.md` do not exist, so hand-offs were checked against the beat sheets only. Ch 5's carry-outs (floor, bracket, foil phone between them, hood up, fluent Diane) all hold.
 
 ## What works
 
-- The S2 withheld stutter and its return ("I have heard the hesitation since") matches the ledger's "once in my hearing" and sets up Ch 18 and Ch 8. Keep it.
-- The footer fragment "LC-03 and then the cut" and the paper left at the lips line up with Interlude 2's photograph and Ch 8's forceps. Keep it.
-- The Snapper is exact and leaves egress to Ch 7.
+- The single stutter catch is withheld to the end of S2 and placed exactly between vinyl and paper. The "I have heard the hesitation since" line is the ledger's wording. Do not move it.
+- Every restraint and tool goes into Iris's bag, and only the calling card and the paper stay. This matches the 13 Nov ruling without stating it as a rule.
+- Fear is never named. The "other sweat" appears twice as an observation, and the Ch 17 anchor's "first body afraid of her" is left intact.
