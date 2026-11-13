@@ -2,75 +2,272 @@
 
 If it is not here, it is not yet true. Drafters may not contradict this file. The continuity agent adds to it; the author approves changes.
 
+The year is never named. Weekdays below fit a year in which Tue 25 Aug and Tue 3 Nov fall ten weeks apart, Labor Day is Mon 7 Sep and the clocks go back on Sun 1 Nov. The city is never named.
+
 ## People
-- Iris Vale, MD — senior forensic pathologist, city Medical Examiner's office. Mid-thirties. Unmarried. ~1,400 autopsies. Narrator.
+- Iris Vale, MD — senior forensic pathologist, city Medical Examiner's office. Mid-thirties. Unmarried. ~1,400 autopsies. Fifteen years of corridors. Narrator.
+  - Hands have not shaken since her second year of residency. One fine tremor only: left fingertips, Ch 2, taking Desmond's plaster. No tremor anywhere else, including after kills.
+  - Metal taste comes when the original injury surfaces: Ch 2 (Diane's non-recognition), Ch 4 S2, Ch 6 S1. Absent in Ch 19, 22, 23 and at Holt's touch in Ch 24.
+  - Resting radial pulse 64 (Ch 3), 58 (Ch 19), 64 after screening (Ch 21). Ch 17: hers 110 against his 96.
+  - At least four years in the flat. The retired couple below have complained once.
+  - Unscented soap only; owns no scented products.
+  - Measures bodies in centimetres, furniture in inches.
+  - Puts things down squared and parallel to edges (this is how she sees Ch 9's quarter-inch).
+  - Plans standing; eats seated after a kill.
+  - Tea strong with milk. Rye neat (Brandt pours it so unasked, Ch 16).
+  - Reads *The Cloakroom* every morning, three years running.
+  - Owns a clean laptop kept apart from work and personal devices.
+  - Has told no one about the syllabus. No safe-deposit box.
+  - Has autopsied three police officers.
+  - Gave a wound-geometry lecture with Mara to police-academy detective trainees last spring. Mara's lines: "The skin tells you about the blade. The muscle tells you about the hand." / "Close it along the lines it wants to keep."
+  - Residency suture kit in the drawer under the bathroom sink: needle driver, Adson toothed forceps, suture scissors, 3-0 braided absorbable, 4-0 nylon on a reverse-cutting needle. No local anaesthetic at home.
+  - Sex: first encounter after Ch 12, an unnamed man from a late bar in a business hotel by the river, at his flat, shirt kept on; soft fingertips; a drawer of cellophaned spare toothbrushes. She uses one, takes it home (DNA), bins it in the morning. Second (style 05, "after 17"): Ch 18 S3, early evening — she dresses for the river bar, gets as far as her front door, does not go, and says why (going would mean washing the suite out of her hair).
+  - Never grades the dead contractor. Grades Mara once, "full marks", in narration in Ch 27 — the last grade in the book.
+  - Act III body: about four kilos down by Ch 19 (since the start of October); ketone breath; prominent clavicles and ASIS; periorbital darkening; pale conjunctivae; coated tongue; knuckles cracked from nitrile. Belt holes: scalpel point, Thu 22 Oct (Ch 19); kitchen trussing needle, Mon 2 Nov (Ch 20).
+  - Cries on the bathroom floor in Ch 18 S1 (the only time she cries for herself) and again in Ch 24 S2–S3. Ch 18 prose never claims "only" or "last".
+  - Last food before Ch 27: black coffee and a heel of bread, Sun 1 Nov morning.
+  - Takes Mon 2 Nov as leave. At work Tue 3 Nov.
 - Diane Pell — Campaign Chief of Staff and Compliance Director. 52. Daughter Olivia, at Wellesley. Childhood stutter. Calls her mother Sundays at 4 p.m. Sunday reservoir walk; bench; reads eleven minutes.
+  - About 165 cm, about 70 kg, compact, swimmer's shoulders gone soft. Liver estimated about 1,500 g.
+  - Ch 2 fundraiser: slate suit, low heels, reading glasses pushed into an ash-blonde bob.
+  - Dress watch in public; under it a wider pale band from a sports strap. The sports watch was given and set up by Olivia three years ago in late summer (not at Christmas).
+  - Lives alone in an alarmed two-bedroom townhouse. Olivia's room kept as she left it. A neighbour walks a dog at all hours.
+  - Routine: weekdays driver at 6:50 a.m., HQ, War Room, donor dinners, home after 11 p.m. Saturdays HQ from 10 a.m. Sundays walk, HQ in the afternoon, 4 p.m. call to her mother, weekly call sheet in the evening.
+  - The 4 p.m. call is sourced to a trade-magazine profile: "I call my mother every Sunday at four, no matter what."
+  - Answers every call. On the walk her phone is on Do Not Disturb; only Olivia rings through ("You're the list.").
+  - Labels everything in her fridge with masking tape and a date in black marker. No graduation photograph on the fridge.
+  - Last supper, Wed 2 Sep: a heel of cheddar, the last water crackers, half a glass of white, standing.
+  - Sunday breakfast (gastric contents): porridge, blueberries, coffee.
+  - On the walk: olive waxed-cotton jacket over a slate shirt; phone in the left inside pocket.
+  - Stutter: the disguised pause (taken by staff for thoughtfulness) is seen in Ch 2 and Ch 4 S2. The stutter actually catches twice: once outside Iris's hearing (Interlude 1, before "Tired") and once in Iris's hearing (Ch 6). No pause at Holt's "Those are closed?"
+  - Her apology: "I'm sorry. I'm so sorry. I should have protected you from that."
+  - Holt knows of her childhood stammer (she told him on a plane) and of the Sunday-at-four call.
+  - Time of death 10:47 a.m., Sun 13 Sep, by Iris's watch. Industrial tape on at about 10:40.
+- Olivia Pell — 19, sophomore at Wellesley, residence hall. Taller than Diane, with her mother's short stride. Roommate Kenzie (window open, fan on, borrowed the good sweater); Olivia: "I don't want a process. I want her to close the window." Home for Labor Day weekend; walks the loop with Diane Sun 6 Sep; back by train Mon 7 Sep night. Text at about 8:30 a.m. Sun 13 Sep: "are you on your walk? call me after, it's the roommate thing again."
 - Carmichael "Cam" Brandt — lead fixer. 48. Two years divorced. Vinyl: Mingus, Dolphy, Coltrane. Tuesday piano at the Tabard Club. Wears charcoal.
+  - About 1.83 m, 84 kg ("Eighty-two." / "Clothed."). Appendicectomy scar RLQ, at nine. Flattened fingertip pads, right-hand callus from forty years of keyboard.
+  - Vetiver soap (the "cellar" smell) and rye.
+  - Charcoal suits; charcoal cotton shirt on the suite night.
+  - Reading glasses, one arm mended with clear tape. Second pillow unslept since the divorce.
+  - Cooks for two out of habit: braised pork shoulder with fennel and garlic, Sun 4 Oct.
+  - Admin of the fourteen-member staff channel until his lockout.
+  - Chose Century Schoolbook for the NDA template four years before Ch 1, "because it looks like a judge wrote it".
+  - Saves the crime-scene photograph to his phone and deletes it from the channel. Phone in his inside breast pocket, left.
+  - First drink before noon in nine years: 11:40 a.m. Mon 5 Oct. Sleeps on top of the covers on night one.
+  - Hired the contractors through a cut-out; never knew the dead man's name.
+  - Calls her "Vale" in his head.
+  - Tabard set runs 9 to 11 p.m.
 - Senator Holt Marchetti — the Candidate. 54. Brother Mark, a Marine, died 2003. One minute alone before every speech with Mark's photograph; detail outside by standing instruction.
-- Sloane Marchetti — his wife.
+  - Cuff gesture: right thumb and forefinger give the left cufflink a quarter-turn, eyes down two seconds. Ch 1, 22, 23. Never explained.
+  - Election Eve: plain silver cufflinks, navy suit; jacket off and on the chair back from the start of the minute. Make-up powder fleck beside his nose.
+  - Attended Diane's funeral and stood beside Olivia; a press photograph of the two of them ran.
+  - Lines: "And the old files. Those are closed?" (Ch 4). "I think there may have been a mix-up. Are you with the network?" (Ch 22). "I'm so sorry. I meet a great many people, and I'm afraid it shows. It's the one thing I'm supposed to be good at." / "I think you may be thinking of someone else." / "Whoever did that to you, I'm sorry. I mean that." / "Most of them were votes." / "Let me get someone for you. There are people here who are very good at this." (Ch 23). "All right. All right. What do you want?" / "Is this about Diane?" / "She was family. I haven't slept since. Her daughter — Olivia — I was at the —" (the funeral) / "They still don't know who." / "You knew her." (Ch 24). Last line: "Take your time." (Ch 25).
+- Sloane Marchetti — his wife. Walks Holt to the green-room door on Election Eve, then goes on to the ballroom.
 - Dr. Mara Lin — junior pathologist, eight years younger than Iris.
-- Hannah Vale-Sorensen — Iris's younger sister. Married. Two daughters.
+  - Prosector on Diane; writes *practised* after a one-beat hesitation.
+  - Upset that her word left the file ("the adhesive alone...") Wed 30 Sep.
+  - Texts the album Fri 9 Oct (unanswered). Hums four bars of the Mingus Tue 13 Oct; has not hummed since October. Texts about 6:40 p.m. Wed 14 Oct: "Hope the day off was nice. Saved you a coffee, drank it for you. x" (unanswered). No texts after; at work says only "morning".
+  - Friday lunch: egg-and-cress sandwich.
+  - Assists the Chief at Brandt's autopsy and at Holt's. Keeps the rota in November. Takes Reyes's call about 9 a.m. Mon 9 Nov.
+- Hannah Vale-Sorensen — Iris's younger sister. Married. Two daughters: Astrid, 8, and June, 5 (six on Sat 24 Oct).
+  - Her name for Iris: "Ris". Not used for two years; Hannah calls her "Iris" in Ch 1. Ch 20 Turn: "the name Hannah used for me". Ch 27 never says it.
+  - Likes Holt and his veterans policy. June wore a navy-and-gold MARCHETTI sticker from the library.
+  - Wraps presents with excessive clear tape, since about nine.
+  - Calls without a message Mon 19, Wed 21, Fri 23 Oct. Voicemail Sun 25 Oct, 4:00 p.m., 1:14; transcription off, only name and duration show.
+  - Buys June's present on Iris's behalf: a child's microscope tagged *from Iris* in Hannah's hand.
+  - Calls about 6:30 p.m. Mon 9 Nov. Iris answers; lies "I did. Sorry." about the voicemail; ends "Soon", not a day.
 - Special Agent Eleanor Reyes — FBI, mid-forties, violent-crimes background, campaign-protection detail.
-- Tessa Quinn — the decoy; resembles Iris.
+  - Sidearm right hip. Flat shoes. Dark trouser suit cut slightly long on the right. Visitor lanyard worn backwards on Election Eve. No earpiece, no Service pin.
+  - Hands: short unpainted nails, callus in the right thumb-forefinger web, biro mark on the right middle finger. Ring: drafter's choice, to be reported.
+  - Borrowed desk at the field office; paper desk calendar; spiral notebook, names in block capitals.
+  - Asked not to be put on protection.
+  - One Halloween fun-size bar on 31 Oct; a sandwich about 4 p.m. on Election Eve.
+- Tessa Quinn — the decoy; resembles Iris (jaw, widow's peak, parting; a few years younger). 31. Veterinary technician at Northgate Animal Hospital. Grey greyhound, Pilot. Own house with garage. A sister with wedding photos on Tessa's public profile. Healed laceration through the lateral third of the left eyebrow, hair growing back white. Matched to Iris's three-year-old dossier photograph.
+- Nora Elizabeth Wade — the dead woman. 27. Voicemail to Iris 17 Sep three years before Ch 1. "Died suddenly at home" 21 May the following year; obituary in another county's paper; cause never stated. Brandt had her under off-book surveillance. Never signed an NDA and is not one of the eleven; Iris's belief that she is (Ch 18, Ch 24) is a mistaken inference.
+- Minor:
+  - Evan — young staffer fired by Diane in about 30 s, 27 Aug.
+  - Desmond — night houseman, about 60.
+  - Theo Akers — junior digital staffer; posted the photograph; accused by Brandt Mon 5 Oct. Iris may name him (seen on the feed, Ch 10).
+  - Dale Garrity, 43 — Contractor A, killed Ch 12. Organ donor.
+  - Contractor B — unnamed; survives with flexor tendons and median nerve of the right wrist cut, radial artery spared.
+  - Ruth Calder — real no-show volunteer whose roster record Iris borrows for Election Eve.
+  - Clare Whitlow — real freelance writer, abroad at the time; byline borrowed for the Ch 2 press credential.
+  - Unnamed: the Chief ME (male), the PIO, campaign counsel (she), the deputy comms director, the security lead, the Lantern day operator (mid-thirties), the climate-control technician, the nineteen-year-old credential checker. No named morgue staff (no "Gerald").
 
 ## Timeline
-- Three years before Ch 1: Iris signs the campaign NDA. A woman leaves Iris a voicemail ("I think we may have known the same person. I just wanted to talk."). Iris never returns it. The woman is dead eight months later.
-- Two years before Ch 1: the syllabus is written and locked in the drawer.
-- Ch 1: campaign is ten weeks from the general election.
-- Ch 5–6: Diane taken and killed on a Sunday morning, at the pump station by the reservoir.
-- Ch 8: Mara performs Diane's autopsy; Iris is senior reviewer. Mara writes "practised".
-- Ch 9: Brandt enters Iris's flat; dossier left a quarter-inch to the left.
-- Ch 10: Tessa Quinn doxxed; leaves a voicemail at the ME's office; Iris deletes it.
-- Ch 12: one contractor killed, unplanned. Iris takes a knife wound to the left flank.
-- Ch 14: FBI requests campaign NDA records; counsel stalls.
-- Ch 17: Brandt killed in his soundproofed editing suite.
-- Ch 20: Compliance has been "dead two months". Reyes receives the signatory list 48 hours before Election Eve.
-- Ch 21–26: Election Eve.
-- Ch 27: one week later. Reyes has interviewed nine of eleven. Iris's interview is Thursday, three days away.
+Backstory:
+- June, three years before Ch 1: the original injury — a hotel room after an evening function, not at the Calloway. The act is never scripted. In Ch 23 S2 the reader hears Iris's first three sentences, then "Then I told him the fourth."
+- August, three years before Ch 1: Iris signs the campaign NDA in Diane's office. Diane's first Trailmark walk is eleven days later. All eleven signings fall within one eight-month span.
+- 17 Sep, three years before: Nora's voicemail, 4:52 p.m., 34 s ("I think we may have known the same person. I just wanted to talk."). Iris plays it the next morning and deletes it with 7. Never returns it. Nora dies 21 May the next year (eight months later).
+- Two years before Ch 1: the syllabus is written and locked in the drawer. Brandt's divorce.
+
+Story calendar:
+- Tue 25 Aug — Ch 1. Debate night. Ten weeks from the general election.
+- Thu 27 Aug — Ch 2. Fundraiser from 7 p.m.; Diane down at 8:20; units planted.
+- Fri 28 – about 1:30 a.m. Sat 29 Aug — Ch 3. Trailmark found; rug rehearsal.
+- Sun 30 Aug — Ch 4 S1, first watch.
+- Wed 2 Sep, about 10:05 p.m. — Interlude 1 (sits after Ch 4's first Sunday; accepted, no date on the page). 8 weeks 6 days out.
+- Sun 6 Sep — Ch 4 S1, Olivia on the walk; abort. Mon 7 Sep Labor Day.
+- Tue 8 Sep, about 9 p.m. — Ch 4 S2, feed: "Those are closed?" Brandt at the Tabard.
+- Fri 11 Sep — Diane last modifies the credential audit.
+- Sat 12 Sep — Ch 4 S3: pump-station prep and clap test. Butcher's purchase (Ch 7).
+- Sun 13 Sep — Ch 5–6. Iris in position from 5:10 a.m.; planted phone out at 4:50. Ring at about 8:27; Olivia's text about 8:30; capture about 8:28. Tape on about 10:40; death 10:47. Iris leaves about 11:25 a.m., home about 12:15 p.m., asleep about 1:15 p.m.–1:40 a.m. Diane missed at HQ in the afternoon and at the 4 p.m. call; car found at the south lot in the evening; deputies open the station about 10:15 p.m. Interlude 2: Brandt into the War Room 11:52 p.m.
+- Mon 14 Sep — Ch 7 meal 2:40–3 a.m.; dressed by 5:10; statement 5:58; Mara's texts 6:04 and 6:11. Ch 8: Mara performs Diane's autopsy, first case; Iris senior reviewer; Mara writes "practised". Iris slept about twelve hours. Feed watched that night.
+- Wed 16 Sep — Ch 9. Brandt enters Iris's flat (absent from the War Room 12:58–3:06 p.m.); dossier left a quarter-inch to the left. Iris writes *Excellent.* after 1 a.m.; sleeps nine hours.
+- Thu 17 Sep — Brandt's fake account's first post.
+- About Mon 21 Sep — Iris tails Brandt's car from the hotel garage to the warehouse, about 11 p.m.
+- Mon 28 Sep — Ch 10 S1, *Cloakroom* item, 6:00 a.m. Five weeks out.
+- Tue 29 Sep — Ch 10 S2, Tessa Quinn doxxed; ME statement.
+- Wed 30 Sep — Ch 10, Tessa's voicemail at the ME's office, 11:38 a.m., 47 s; played about 12:20; Iris deletes it. Name struck that night.
+- Thu 1 Oct — Ch 11. Recon and badge clone 7:20 a.m.; technician 8:05 (weekly, Thursdays). Infiltration about 9:05–10:21 p.m.; Brandt on the War Room feed. Diane dead nearly three weeks.
+- Fri 2 Oct — Ch 12. Ambush about 10:05 p.m.; Brandt's alibi a public Friday donor dinner. One contractor killed, unplanned. Iris takes a knife wound to the left flank. Home about 11; meal about 12:15 a.m.; out 12:40; home 4; sleeps 4:10–6:40 a.m.
+- Sat 3 Oct — Iris works the Saturday rota.
+- Sun 4 Oct — Ch 13. Brandt in the War Room on the Sunday call sheet until about midnight. Entry about 9:20 p.m.; out about 10:50. Brandt home 12:26 a.m. Mon 5 (front door, then kitchen). Wound two days old.
+- Mon 5 Oct — Theo accused; Brandt's 11:40 a.m. drink.
+- Wed 7 Oct — FBI letter received by counsel. Holt and Brandt off-feed 9:14 p.m. (Interlude 3's Holt talk is this evening).
+- Thu 8 Oct — Ch 14. Lockout: huddle 7:42, card fails 7:51. Iris reads the letter 1:10 p.m. Ch 14: FBI requests campaign NDA records; counsel stalls. Rally footage 1.
+- Fri 9 Oct — Ch 14 S3. Timetable moved 5:10 a.m. Iris books Wed 14 Oct off. Mara texts the album.
+- Mon 12 Oct — Ch 15. Complaint 7:40 a.m.; server farm dark 4:41 p.m. Stitches out (day ten). Chicken bought and brined. Reporter voicemail 10:15 p.m.
+- Tue 13 Oct — Ch 15–17. Iris parks 5:30; Brandt by taxi 6:20 (dinner before the set); home ritual from 7:00; stock and bread about 7:30. At the suite door about 10:15 p.m. Iris learns of the eleven names about 10:45. Binding about 11:10–11:30. Mara hums the Mingus.
+- Wed 14 Oct — Ch 17: Brandt killed in his soundproofed editing suite, about 1:50 a.m. Wound eleven days old. Ch 18: car park about 2:15, home about 2:45, bathroom floor about 2:50–8:50. The weather turns overnight 13–14 Oct (first cold morning). Mara's text about 6:40 p.m. Farm dark until about 4:40 p.m.
+- Thu 15 Oct — Brandt found by consultancy staff in the morning. Autopsy by the Chief, Mara assisting, Iris not asked (offstage).
+- Thu 22 Oct — Rally footage 2. Belt hole.
+- Sat 24 Oct — June's sixth birthday.
+- Sun 25 Oct — Ch 19. Hannah's voicemail, 4:00 p.m. Eleven days since the choice.
+- Fri 30 Oct — Ch 20 S1. Subpoena order comes down. Compliance has been "dead two months" (campaign shorthand for about seven weeks).
+- Sat 31 Oct (Halloween) — Ch 20 S2; Interlude 4: Reyes receives the signatory list 5:40 p.m., 48 hours before Election Eve. Letter to Hannah written.
+- Sun 1 Nov — Ch 20 S3. Clocks back overnight. Set-up day. Catering jacket staged. Last food.
+- Mon 2 Nov — Election Eve (Ch 20 end, Ch 21–26, Interlude 5). Dock entry 4:40 p.m.; doors 6:00; kit collected about 6:15; thank-you minute about 7:21 (40 s); Holt at the green room 8:52; Iris out of the vendor gate shortly before 9:00; walk home about two hours, home just before 11.
+- Tue 3 Nov — Election. Holt's autopsy by the Chief, Mara assisting, two federal observers; Iris on shift, not asked. The ticket wins (never said on the page; the result is "within a point of the last poll").
+- Wed 4 Nov — Vale's original 10 a.m. interview slot (lost).
+- Fri 6 Nov — Replacement named. Three of the eleven come forward via one lawyer.
+- Mon 9 Nov — Ch 27, one week later. Reyes has interviewed nine of eleven. Iris's interview is Thursday, three days away.
+- Thu 12 Nov — Rescheduled interview, 10 a.m.
 
 ## Fixed numbers
-- NDA signatory list: eleven names. Alphabetical interviews; Vale is tenth.
+- NDA signatory list: eleven names, all living. Alphabetical interviews; Vale is tenth. Eight interviews scheduled before Vale; the woman abroad skipped. Background-check queue three to four days.
+- Election ten weeks from Ch 1. Diane killed 51 days out.
 - The minute alone: sixty seconds on old footage; forty seconds on Election Eve.
 - Soundproofing test: three claps (inside, outside, inside).
 - Two contractors in Ch 12; brief was to take her, not kill her.
 - Iris is on the wrong side of the lockdown by eleven seconds.
-- The walk home in Ch 26 takes two hours.
+- The walk home in Ch 26 takes two hours: about 9 km, about 5 °C.
+- Fundraiser: Diane works donors in 90-second loops; Holt on video four minutes; Evan fired in about 30 s; Diane observed 90 minutes, never alone, reads one text.
+- Trailmark: 141 walks, all Sundays. 6.4 km clockwise loop from the south car park. Starts 7:31–7:48. Bench at 3.1 km; sits about 8:05–8:10, up at 8:20; pause 11 min ±1. Intercept window 8:33 ±9 min. Interlude 1's "seven" is Diane's own loose estimate.
+- Rug rehearsal: 7.2 s, 5.1 s, 3.8 s. Rug about 170 cm, about 8 kg. Wrist abrasion about 2 cm, inside right wrist, healed by Ch 5.
+- Iris watches from about 180 m across the water. Twenty minutes of dark adaptation in the station.
+- Diane's lock screen: 23 campaign notifications.
+- Pump station interior about 11 °C.
+- Brandt's stillness on the feed: 2 min 11 s. The page reads in under a minute.
+- Fake account eleven days old at publication.
+- Voicemails: Tessa 47 s; Nora 34 s; Hannah 1:14.
+- Key 7 pressed exactly twice in Iris's county service. Archive retention seven years.
+- Lantern alarm code 2-5-8-0 ("the midline"). PIR crossing about four minutes for three metres. Hot aisle near 30 °C. In and out in about 40 minutes.
+- Iris's height in her campaign dossier is two centimetres out.
+- Wound: 3.2 cm at the skin, about 4 cm deep, upward and medially; external and internal oblique into transversus abdominis; peritoneum intact; blood loss about 300 ml; three buried absorbable and seven simple interrupted 4-0 nylon; saline 9 g to 1 L. Stitches out day ten (Mon 12 Oct).
+- Black Saint side one about 20 min.
+- Hearts: 520 g (Ch 1), 480 g (Ch 14), 460 g (Ch 15); Brandt's about 380 g. Jane Doe liver 1,840 g (Ch 1).
+- Ch 17: seven towels of ten used; about 1.5 L blood loss before the chest.
+- Server farm dark 4:41 p.m. Mon 12 Oct (nine hours after filing) to about 4:40 p.m. Wed 14 Oct.
+- Lantern tap: eleven days of traffic by Ch 15.
+- Staff channel: 14 members.
+- Election Eve: Stair C door on three to closet door on two, 31 s at a working walk. Vendor gate timer 19 s. Service-stair door ten paces from the green-room door, plus about eight paces of passage, about 12 s to the seal.
+- Ch 22–23 count, seconds since the green-room door closed: hand on seal at 5; door locked about 9; Holt looks up about 12; Ch 22 ends about 15; slot ends at 40 (Ch 23 S2); Ch 23 ends about 70 ("thirty seconds" over).
+- Three lab-reconstructed fragments match matter LC-0311 on the list's header.
+- Chicken in brine three weeks (12 Oct – 1 Nov).
 
 ## Objects
 - The syllabus: printed; three pages (Gatekeeper, Architect, Apex). A fourth, about herself, written in Ch 18 — never reproduced. The third is never pinned and never reproduced.
-- Calling card: black vinyl tape over eyes or mouth; printed page pinned to the chest; role circled in red marker; one-line Evaluation.
+  - Inserts: Lesson One at the head of Ch 1 and again, identical, at Ch 6 as the pinned print; Lesson Two at Ch 17.
+  - A red-annotated working master of each lesson stays in the drawer; pinned pages are always fresh clean prints. Ch 9 sees all three pages. Ch 18 recites Lesson One from memory by choice.
+  - Lesson One travels to the reservoir in a clear sleeve.
+  - Lesson Two drawer master: *Excellent.* in red beside the subject line (Ch 9); *Tessa Quinn* in black below it, struck through with one line ruled against Brandt's dossier (Ch 10).
+  - Pillow copy of Lesson Two: fresh clean print, folded in quarters by Iris; Brandt carries it in his inside breast pocket; the glass ring comes from the suite.
+  - Fourth page: handwritten in black ink, case-number hand, on a blank printer sheet. Her name on it. Evaluation "Confused process for protection". Nothing circled. Face-down on the desk in Ch 18; moved face-down into the drawer under the third page in Ch 19; there in Ch 20, 25, 26, 27.
+  - Third page: folded in thirds; THE APEX never circled. Into the navy blazer's inside breast pocket Mon 2 Nov; opened and refolded along its creases in Ch 24–25; moved to the catering jacket in Ch 26; on the kitchen table unopened 2–9 Nov; into the drawer on top of the fourth page in Ch 27.
+  - Ch 27: drawer closed, key left in the lock unturned, drawer unlocked.
+- Calling card: black vinyl tape over the eyes (two strips, temple to temple) — Diane and Brandt; nothing on Holt. Printed page pinned to the chest with a single steel pin through page, shirt and skin over the manubrium. Role circled in red marker at the scene (THE GATEKEEPER, THE ARCHITECT). One-line Evaluation, typed in capitals.
   - Lesson One: "Confused process for protection."
   - Lesson Two: "Mistook clarity for cruelty."
-- Kit: red marker, black vinyl tape, zip-ties, industrial tape, foil sleeve for phones.
-- Shredded NDAs in Diane's mouth; fragments carry campaign legal control numbers.
-- The record on in Brandt's suite: Mingus, *The Black Saint and the Sinner Lady*.
-- The record Iris breaks on his pillow: from his own collection (title open).
-- Holt's photograph of Mark: face-up Ch 21–24, face-down Ch 25.
-- The catering jacket: staged in the housekeeping closet in Ch 20.
+- Kit: red marker, black vinyl tape, zip-ties, industrial tape, foil sleeve for phones. Also: nitrile gloves (double for Diane); white disposable coverall, hair cover, overshoes, all bagged inside a bag; red-filtered head-torch; blue-white LED lantern; two prepaid phones; scalpel (No. 4 handle, No. 22 blade); instrument roll (small and large handles, spare blades in a sleeve, small retractor, toothed forceps, rib shears); ten towels; thin black leather gloves for car and suite door; tub of 70% isopropyl wipes in the car door pocket; glassine evidence envelopes; tension wrench and pick; foil survival blanket.
+- Diane's restraint: one zip-tie per wrist, joined to an iron bracket at the base of the pump housing; cut and taken by Iris (lot numbers). Ligature furrows survive.
+- Diane's industrial tape: pewter, three turns over mouth and nostrils; removed by Iris after death in Ch 6 and bagged; leaves an adhesive line and torn hair at the nape. Iris steadies Diane's head with fingertips either side of the larynx while seating the bolus (the cause of Ch 8's thyroid-border bruises).
+- Shredded NDAs in Diane's mouth: photocopies of pages 1–8 of Iris's NDA (no signature page), cross-cut to fingernail size, carried in a clear zip bag, absorbency tested at home. Iris's signed original stays in the drawer. Every NDA page footer carries only the series matter number LC-0311 under a thin rule; individual control numbers exist only in counsel's register and on the list.
+- Diane's phone: powered down about 8:30 with Olivia's text on screen, sealed in foil, put back powered off in her coat pocket; the foil goes with Iris. Planted prepaid: battery out, taken.
+- The agent syringe: hard case, left inside breast pocket with the marker, the pin and the page. Sourced from the ME office's toxicology lab, leaving a stock discrepancy. Partial IM dose, left deltoid, through the shirt. Effect: heavy, weak, slowed limbs and speech; consciousness and tears intact. Capped and taken. Agent never named on the page.
+- Election Eve gloves: pale nitrile from the service door through Ch 23; a second, black pair snapped on over them in Ch 24 S1.
+- Surveillance: two button camera-and-microphone units bought for cash, fixed with black vinyl — War Room wall-screen bezel (facing the table) and under the credenza lip by the urn; paired to tablet and laptop; live and recorded; too low-res to read a screen. Two more in Brandt's house: record-wall top shelf (facing turntable, drinks tray, piano) and wardrobe (facing bed); none in the kitchen; never found.
+- Lantern tap: passive, on the uplink behind the cable management, USB-powered from the rack strip. Stores full capture on its card; relays a thin encrypted summary and heartbeat over the building's own uplink; no radio. Ch 12's return collects the first full card.
+- Cheap digital voice recorder for the clap test, taped to the trail marker post.
+- Iris's campaign dossier (three years old, Lantern bottom drawer): address, salary band, height, two weeks of movements, the blind-item printout with Brandt's edits, the complaint summary (unread), routing slip "Reviewed. Contained. D.P."
+- The photograph: 6x4 long-lens print of Iris younger at her front door with groceries; pencil on the back, a date three years ago and a reference number in control format. Iris keeps it (location open).
+- 8x10 glossy print of the official scene close-up of Diane's mouth, half the matter number LC-0311 legible in the footer, printed by Iris from the case file; left squared on Brandt's counter Ch 13; the photograph on his suite table, handled nine days (4–13 Oct); left there in Ch 17.
+- Garrity's driving licence (organ-donor heart; may read as a laminated card in Interlude 3) laid on the pillow beside the record and page, nudged a quarter-inch left. Brandt puts it and the record halves back in the Dolphy sleeve.
+- Iris's ME statement: one line, "does not comment on active investigations".
+- Campaign statement, 5:58 a.m. Mon 14 Sep: "A senseless act. Our hearts are with Olivia and the whole Pell family. We ask for privacy at this time."
+- FBI letter: to counsel, received Wed 7 Oct, requesting all agreements under matter LC-0311 with signatory records, "in connection with the death of Diane Pell". Signed "Special Agent E. Reyes". Counsel: "reviewing the scope... will respond in due course". Internal note: hold until after 3 Nov.
+- The list: one page, eleven lines (surname, initial, signing date, individual control number), matter LC-0311 in the header. "VALE, I." Protective order: approach "in a fixed and non-prejudicial sequence", alphabetical, deviation back to the judge. Courier envelope sealed with red tamper tape. Counsel's privacy brief: "former female staff and volunteers".
+- Letter to Hannah: handwritten on syllabus stock, signed "Ris". Key, lease, bank, no effects in a plastic bag, one memory. Omits the NDA, Holt, Diane, Brandt, the voicemails, any apology. Squared on the desk, unsent at Ch 27.
+- Credential audit spreadsheet: "Last modified by D. Pell", Fri 11 Sep.
+- Election Eve run-of-show p. 4: "FBI LIAISON: SA E. REYES". Security annex distribution: "SA E. Reyes, FBI (campaign protection liaison)".
+- Credentials: Ch 2 — CLARE WHITLOW / PRESS, made by Iris over two nights. Election Eve — RUTH CALDER volunteer badge, printed on Iris's own secondhand card printer, no photograph, nothing written to the database.
+- The catering jacket: staged Sun 1 Nov at the bottom of the Wednesday-wedding cloth stack in the housekeeping closet, folded over a plain black tote, kit in its inside pocket.
+- Holt's photograph of Mark (dress blues, plain black frame, cardboard easel facing the chair): face-up Ch 21–24, face-down Ch 25.
 - Hannah's voicemail: left Ch 19, never played.
+- Food:
+  - Ch 1 chicken and tarragon sandwiches, two. Ch 2 four lamb cutlets in a stair. Ch 3 six devilled kidneys and two toast, standing. Ch 4 peach abandoned; Snapper oxtail and butter beans, cold, in the car. Ch 8 rye toast and anchovies. Ch 9 four eggs with anchovy butter. Ch 10 lamb shoulder, then cold lamb and salsa verde at the desk. Ch 11 char siu bun. Ch 14 one egg and half a toast. Ch 15 chicken liver on toast, then stock and bread. Ch 19 half a toast.
+  - After kills: Ch 7 roast marrow bones on sourdough, then onglet with shallots, seated at the counter. Ch 12 hand-chopped fillet-tail tartare on sourdough, seated, about 12:15 a.m. Ch 13 Brandt's cold pork shoulder in jelly, standing, bare right hand. Ch 17 the planned chicken, not taken. Ch 18 tea only. Ch 27 a whole unbrined roast chicken, seated at the kitchen table, fingers, oysters included.
+  - The Ch 17 chicken: whole free-range, bought Mon 12 Oct, 3% brine with bay, peppercorns, lemon peel. Washerwoman skin by Ch 18. Still in the fridge in Ch 19. Down the chute in Ch 20 after three weeks.
+- Records:
+  - The record on in Brandt's suite: Mingus, *The Black Saint and the Sinner Lady*. Side one played through by Brandt on Ch 13's night one, every night that week, and on in the suite. Side two never played anywhere.
+  - The record Iris breaks on his pillow: Eric Dolphy, *Out to Lunch!*, first pressing, scored with a scalpel and snapped.
+  - Iris owns no record through Ch 17. A sealed record stands against the desk in Ch 27, unplayed, unnamed; nothing says how it came.
 
 ## Places
+- City: unnamed throughout.
 - The morgue / autopsy suite.
-- Iris's flat: minimalist; writing desk with a locked drawer; a kitchen she uses.
-- The War Room: glass-walled suite, high floor, downtown hotel.
-- The reservoir trail and abandoned pump station.
-- Brandt's server farm: warehouse district; shell company; officer of record Diane Pell.
-- Brandt's home: kitchen, piano (in tune), record collection.
-- The editing suite: soundproofed; media consultancy Brandt owns silently.
-- Election Eve venue: hotel ballroom; green room is a converted meeting suite; sealed service door (the seal is a sticker); service stair; housekeeping closet one floor down; loading dock with vendor gate.
+- Iris's flat: minimalist. Deadbolt. Writing desk with a brass-locked drawer; top dossier squared to a knot in the drawer floor. Kitchen she uses: counter and stool, cooker hood with lamp, oven, a kitchen table under one bulb (distinct from the counter). Bathroom: fluorescent over the basin, mirror above it, frosted window. Hall mirror (used leaving the flat, Ch 15 and Ch 20); bathroom mirror in Ch 19. Oxblood-and-bone flatweave rug under the desk. Heating off from Ch 18 to Ch 27.
+- The Calloway: downtown hotel; one hotel for the War Room, the fundraiser and Election Eve.
+  - The War Room: glass-walled corner suite, 31st floor. Next door an overflow supply suite, connecting door with deadbolts both sides; War Room side left unbolted.
+  - Fundraiser: mezzanine ballroom.
+  - Election Eve: grand ballroom, ballroom level on 3. Green room is the Alder Suite, a converted meeting suite: main door on a hydraulic closer with a privacy latch (thrown by Holt); pantry service door opening inward from the back corridor, sealed corridor-side at shoulder height with a white tamper-evident label printed with the Service legend and VOID adhesive (the seal is a sticker); folding banquet screen; suite-side thumb-turn; carpet shampooed that afternoon; skirted banquet table as dressing table with lamp, sealed water, clipped remarks and Mark's photograph; one upholstered chair; no mirror; hotel-warm.
+  - Stair C (service stair) beside the green-room corridor. Housekeeping closet one floor down on two: par sheet taped inside the door; round ivory cloths not due until a Wednesday wedding. Loading dock at street level on the cross street, two floors below; dock office a glass booth with a radio in a cradle. Vendor gate: steel pedestrian gate, outside reader, green inside request-to-exit button on a 19 s timer. Lockdown maglocks the stair doors.
+- Reservoir: south car park; clockwise 6.4 km loop, bench at 3.1 km. Abandoned pump station below the dam: single-storey brick, iron pipework, dry grated wet-well, steel door with hasp; Iris's padlock replaces the authority's. About 40 m up a sumac spur from a trail marker post. Water-authority service track off the county road to a gravel lay-by out of sight (Iris's car), MARCHETTI lawn sign at the turn; the 900 m walk out is along the service track. Prep: swept, sheeted and taped, weatherstrip, moving blanket on the door. Diane lies on the concrete floor, against the pump housing.
+- Brandt's server farm (Lantern Data Services): warehouse district; Lantern's own single-storey brick-and-steel unit, no sign, leasing board on the fence. Side door with badge reader, glass vestibule with keypad, one door camera, roof condensers, fenced diesel generator. Hot and cold aisles, motion-lit LEDs, glass-fronted office with its own PIR, four-drawer wafer-lock cabinet, loading bay with roller door and side door, sodium-lit yard. Shell company chain Lantern Data Services LLC → Ostler Holdings LLC → Brightwater Row Partners LLC → Fenwick Lane Holdings LLC (placeholders); officer of record Diane Pell. Ch 15's complaint goes to the regulator and to the upstream provider's abuse desk, which cuts the line about 48 hours; service restored after review (Ch 20).
+- Brandt's home: detached; heating on a timer, about two degrees warmer than Iris's flat; no monitored alarm, no cameras of his own. Kitchen, black baby grand with ivory keys (in tune), record collection shelved spines-out, alphabetical by artist then recording date. Auto-return turntables at home and in the suite.
+- The editing suite: soundproofed; media consultancy Brandt owns silently. Third floor of a converted printworks east of the river; rear car park and stairwell; one-light corridor. Keypad door with self-closing acoustic seal (on Ch 16's night latched and locked but not pressed into its seals, so the music leaks; Iris keys herself in). One lamp, amber standby LEDs, long edit desk with cable grommets, monitors on arms, leather chair, second chair, low table. Lease, alarm and cameras through a separate holding company; cameras routed through Lantern.
+- A 24-hour hospital multi-storey about three miles from Brandt's house (where Iris watches the feed, Ch 13).
+- Tabard Club: private.
+- The butcher's: unnamed (Ch 7, Ch 15).
 
 ## Who knows what, when
-- Brandt knows Iris's identity from Ch 9. Tells no one.
+- Diane does not recognise Iris at the fundraiser. She recognises her in the pump station from LC-0311 and her face.
+- Brandt recognises the template, not the person, on Sunday night (13 Sep). He knows Iris's identity from Ch 9. He tells no one in the campaign, the police or Holt; he briefs the two deniable contractors by her first name (Ch 12).
+- Brandt never finds the War Room or house units, never learns what she ate or about the piano key.
+- Iris thinks Brandt found her by her own NDA alone until Ch 16.
+- The public knows only "a homicide at the reservoir pump station" and "knew anatomy". Tape, page and role are not released.
+- The ME office never releases pathologists' photographs. Iris's name is public from 29 Sep; her face is not.
+- Iris does not hear Holt's "I thought Diane closed those" until Brandt tells her in Ch 17; she sees only the lockout.
+- Iris learns of the eleven names in Ch 16; of Holt's minute and the voicemail in Ch 17. She believes Nora is one of the eleven (wrong).
+- Iris knows from the tap (counsel's email) that the list is produced Saturday 31 Oct, but not its order or her booking. She never thinks of herself as "tenth".
+- Iris hears of the Wed 4 Nov booking only from Mara on 9 Nov.
 - Holt never knows. Whether he remembers is never confirmed.
-- Iris learns of the eleven names in Ch 16; of Holt's minute and the voicemail in Ch 17.
 - Mara suspects from Ch 8; is afraid by Ch 27.
-- Reyes has the profile by Ch 20, the list 48 hours before Election Eve, and sees Iris's face (not her name) in Ch 26.
+- Reyes is "E. Reyes" to Iris from Ch 14 to the end; Iris never learns "Eleanor". The interludes use Eleanor.
+- Reyes: profile by Ch 20 (held about a week before 31 Oct) — medically trained (autopsy files, "practised"), signatory (matter number LC-0311), female (counsel's brief). Knows "Vale" as the reviewing pathologist ("reviewer?" in the margin), no photograph. List 48 hours before Election Eve. Sees Iris's face (not her name) in Ch 26.
 
 ## Open — to be fixed in the beat-sheet phase
-- The city. The hotel names. Calendar dates and weekdays.
-- Hannah's daughters' names; the name Hannah calls Iris.
-- The dead woman's name (recovered in Ch 18).
-- What Iris eats after each kill (Ch 7, 12, 27) and in Brandt's kitchen (Ch 13).
-- The record broken on the pillow.
-- Iris's cover name on the cloned press credential.
-- The toxicology agent in Ch 24 (keep it non-specific on the page).
+- Where Iris keeps the 6x4 photograph taken from Lantern.
+- Reyes's ring (drafter's choice in Ch 26, to be reported).
+- Snapper options the beat sheets offered as "author's call" (Ch 2–27): to be taken or left in drafting.
+
+## Pending changes to other files
+All applied on the author's instruction (13 Nov):
+- `outline/ch18.md`: "The only scene where I cry for myself." (C35, Open 1)
+- `outline/ch20.md`: Turn reads "I sign it with the name Hannah used for me, and have to put the pen down." (C36, Open 2)
+- `outline/ch06.md`: the stutter surfaces "once in my hearing". (C15, Open 15)
+- `bible/style/05`: the declined second encounter is Ch 18, Scene 3. (Open 4)
+- `bible/style/08`: inserts are Lesson One at Ch 1, Lesson One again at Ch 6 (pinned print), Lesson Two at Ch 17; the third page is never reproduced. (C34, Open 3)
+- `bible/style/09`: "Iris has never owned a record" is true up to the night of 27; the Ch 17 anchor line stands. (C53, Open 6)
+- All beat sheets except ch02 and interlude-5 revised to the values above (ch02 and interlude-5 needed no change).
+Not changed, by approval: `anchors/ch17.md` ("for weeks" read as loose usage, Open 7; record line, Open 6). "Compliance dead two months" in the ch19/ch20 outlines is campaign shorthand for about seven weeks.
