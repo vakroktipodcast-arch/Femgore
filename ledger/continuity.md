@@ -262,46 +262,12 @@ Story calendar:
 - Snapper options the beat sheets offered as "author's call" (Ch 2–27): to be taken or left in drafting.
 
 ## Pending changes to other files
-Read-only files (author to apply; the ledger value already stands):
-- `outline/ch18.md` — "the only scene in the book where I cry" becomes "the only scene where I cry for myself". (C35, Open 1)
-- `outline/ch20.md` — Turn: "the name Hannah uses for me, which no one has used in two years" becomes "the name Hannah used for me". (C36, Open 2)
-- `bible/style/08` — no text change required; record the reading: inserts at Ch 1 (Lesson One), Ch 6 (Lesson One repeated as pinned print), Ch 17 (Lesson Two). (C34, Open 3)
-- `bible/style/05` — no text change required; record the reading: the second encounter "after 17" is Ch 18 S3, not gone through with. (Open 4)
-- `bible/style/09` / `anchors/ch17.md` — no change; "I have never owned a record" read as true up to that night. (C53, Open 6)
-- `anchors/ch17.md` — no change; "for weeks" accepted as loose usage (nine days). (Open 7)
-- `outline/ch06.md` — no change; "once" read as once in Iris's hearing. (C15, Open 15)
-- `outline/ch19.md` and `outline/ch20.md` — no change; "Compliance dead two months" is campaign shorthand for about seven weeks.
-
-Beat sheets carrying superseded values:
-- `beats/ch01.md` — Hannah calls her "Iris", not "Ris". (C36, Open 2)
-- `beats/ch03.md` — Diane 168 cm becomes about 165 cm; the station is 40 m up the spur (not 400 m past the bench / 80 m off). (C14, C8)
-- `beats/ch04.md` — route becomes the clockwise loop from the south car park (not out-and-back from the north lot, station not before the bench); keep bench times and 40 m spur. (C8)
-- `beats/ch05.md` — ring about 8:27 (not 7:56), Olivia's text about 8:30 (not 7:59), bench not "by 7:35", station 40 m not 30 m, "awake before eight" becomes "before nine", "nearly three hours" becomes "over three hours"; car in the lay-by, not behind the building; one zip-tie per wrist to the bracket; stutter is not Ch 6-only. (C8, C9, C15, C55)
-- `beats/ch06.md` — cut the wait for dark, the 4 p.m. beat and the 7:30 p.m. exit (leave about 11:25 a.m.); jacket olive waxed cotton, not navy; ties to the bracket and taken, not around a pipe/left on; add fingertips either side of the larynx in S2; bolus is photocopies of pp. 1–8, not all nine signed pages; body "on the concrete floor, against the pump housing". (C18, C11, C10, C16, C21, C55)
-- `beats/ch07.md` — leave about 11:25 a.m. (not "shortly after ten"), home about 12:15 p.m., sleep 1:15 p.m.–1:40 a.m.; drop the tape-removal beat; car 900 m along the service track; "three Sundays" becomes two; statement text per C19. (C18, C12, C9, C19)
-- `beats/ch08.md` — "slept about three hours" becomes about twelve; Mara does not remove industrial tape (adhesive critique on the vinyl); statement 5:58 with the merged wording. (C18, C12, C19)
-- `beats/ch09.md` — drawer holds all three pages (Lesson One master stays); "toxicologist" becomes "pathologist"; "ten weeks out" becomes "seven weeks out". (C20, C55)
-- `beats/ch10.md` — Mon 14–Wed 16 Sep becomes Mon 28–Wed 30 Sep; withdraw "Diane 30 August / Ch 9 2 September"; "seven weeks out" becomes five; Ch 17/18 proposal becomes 13–14 Oct. (C1, C2, C55)
-- `beats/ch11.md` — Sat 26 / Tue 29 Sep become Thu 1 Oct for both; technician on Thursdays; Brandt on the War Room feed, not the Tabard; "three weeks" becomes "nearly three weeks"; tap relays summary/heartbeat (not transmit-nothing). (C3, C24, C55)
-- `beats/ch12.md` — Tue 22 Sep becomes Fri 2 Oct; alibi a Friday donor dinner; wound eleven days old at Ch 17, stitches out day ten (not "one week, nylon still in"); return is to collect the first full card. (C4, C5, C24)
-- `beats/ch13.md` — Tue 29 Sep becomes Sun 4 Oct; Brandt in the War Room on the call sheet, not the Tabard until midnight; wound two days old; contractor is Dale Garrity, not Darren Kell. (C6, C27, C26)
-- `beats/ch14.md` — Thu 24 / Fri 25 Sep become Thu 8 / Fri 9 Oct; request is "all agreements under matter LC-0311" (not a range of control numbers); Theo Akers may be named; day off booked Fri 9 Oct. (C7, C22, C32, C55)
-- `beats/ch15.md` — "two weeks of traffic" becomes eleven days; complaint to the regulator and upstream abuse desk (not a colocation host); Iris at the suite about 10:15, not 9:40; door latched and locked but unseated, she keys in; drop breath on the car glass; hall mirror. (C24, C25, C30, C31, C55)
-- `beats/ch16.md` — Tue 20–Wed 21 Oct becomes Tue 13–Wed 14 Oct; "five weeks and two days" becomes "four weeks and two days"; the suite photograph is Iris's close-up print, handled nine days (not Brandt's wide print "for weeks"); replace the "moved his furniture" figure. (C2, C29, C55)
-- `beats/ch17.md` — Diane's tape "mouth" becomes "eyes"; Nora is not the eleventh name; "accidental overdose" withdrawn; delete "Gerald". (C13, C33, C55)
-- `beats/ch18.md` — Wed 30 Sep becomes Wed 14 Oct (Tessa's message Wed 30 Sep, fourteen days); weather turns overnight 13–14 Oct; day off booked Fri 9 Oct, not "weeks ago"; Nora-on-the-list is Iris's mistaken inference; prose never says "only"/"last" cry; Lesson One recited from memory by choice (master still in drawer); add the S3 front-door beat. (C2, C32, C33, C35, C20, Open 4)
-- `beats/ch19.md` — "three and a half weeks" becomes eleven days; five kilos becomes about four, since the start of October; fridge not empty of the chicken; bathroom mirror, drop "same mirror". (C52, C55, Timeline 7)
-- `beats/ch20.md` — chicken "a month in brine" becomes three weeks, down the chute; last food black coffee and a heel of bread Sun morning (not bread Fri / coffee only Sun); Ruth Calder badge without photograph; one clause that Lantern service was restored; Turn wording "the name Hannah used for me". (C52, C51, C43, C25, C36)
-- `beats/ch21.md` — badge RUTH (not ANNE) CALDER, Iris's printer, no photograph, no database write; jacket at the bottom of the Wednesday cloth stack over a black tote (not behind the tunics); add the pin to the left inside breast pocket; no dressing-table mirror; "fourteen years" becomes fifteen. (C43, C44, C48, C41, C55)
-- `beats/ch22.md` — drop "tenth" (beat 8); timing note: ends about 15 s, the "thirty seconds" is past the slot; no mirror; Holt's jacket off on the chair back; room warm, not cool. (C38, C39, C41, C46, C47)
-- `beats/ch23.md` — drop "tenth" (S1 beat 9); pale nitrile on, not ungloved; no bulb-lit vanity mirror; Holt sits again when she gives her name; hands re-blocked (left over inside pocket, right on vinyl roll in right outer pocket; syringe not in the right outer pocket). (C38, C40, C41, C42, C45)
-- `beats/ch24.md` — black gloves become a second pair over the nitrile; page "opened along its creases" (thirds, not once); no red circle showing through; Iris's "eleven, less one who died" is her mistake; cut the metal taste at Holt's touch. (C40, C49, C50, C33, Open 16)
-- `beats/ch25.md` — fourth page is in the drawer, not on the desk; "folded back along its creases"; no red circle show-through. (C37, C49, C50)
-- `beats/ch26.md` — jacket at the bottom of the cloth stack over the tote (not top shelf behind the pillowcases); last food Sunday 1 Nov (not "before Ch 20"); page "folded", not "in half". (C44, C51, C49)
-- `beats/ch27.md` — page "folded", not "in half"; sealed record unnamed (not a later pressing of *Out to Lunch*), no account of how it came; result kept unsaid on the page. (C49, C53, Open 6, Open 10)
-- `beats/interlude-1-diane.md` — watch given three years ago in late summer, not "three Christmases ago"; drop the fridge graduation photograph. (C17, C55, Open 16)
-- `beats/interlude-2-cam.md` — Diane "on the concrete floor, against the pump housing". (C55)
-- `beats/interlude-3-cam.md` — Thu 8 / Fri 9 / Sat 10 Oct become Sun 4 (night one), Mon 5 (Theo, drink), Wed 7 (Holt; beat 7 "That evening" becomes the Wednesday evening), Thu 8 (lockout); Brandt enters by the front door, then the kitchen; page beside the record, not under it. (C6, C7, C28)
-- `beats/interlude-4-reyes.md` — fragments match matter LC-0311 on the list's header, not individual numbers; Brandt's autopsy file is the Chief's, Mara assisting. (C22, Open 12)
-- `beats/interlude-5-reyes.md` — no change.
-- `beats/ch02.md` — no change.
+All applied on the author's instruction (13 Nov):
+- `outline/ch18.md`: "The only scene where I cry for myself." (C35, Open 1)
+- `outline/ch20.md`: Turn reads "I sign it with the name Hannah used for me, and have to put the pen down." (C36, Open 2)
+- `outline/ch06.md`: the stutter surfaces "once in my hearing". (C15, Open 15)
+- `bible/style/05`: the declined second encounter is Ch 18, Scene 3. (Open 4)
+- `bible/style/08`: inserts are Lesson One at Ch 1, Lesson One again at Ch 6 (pinned print), Lesson Two at Ch 17; the third page is never reproduced. (C34, Open 3)
+- `bible/style/09`: "Iris has never owned a record" is true up to the night of 27; the Ch 17 anchor line stands. (C53, Open 6)
+- All beat sheets except ch02 and interlude-5 revised to the values above (ch02 and interlude-5 needed no change).
+Not changed, by approval: `anchors/ch17.md` ("for weeks" read as loose usage, Open 7; record line, Open 6). "Compliance dead two months" in the ch19/ch20 outlines is campaign shorthand for about seven weeks.
