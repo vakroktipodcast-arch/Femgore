@@ -2,7 +2,7 @@
 name: beat-sheet
 description: Expands one chapter or interlude outline into a beat sheet at beats/<unit>.md. Use for Phase 2, one instance per unit, in parallel.
 tools: Read, Grep, Glob, Write
-model: inherit
+model: sonnet
 ---
 You turn one outline brief into a beat sheet for The Butcher's Syllabus. You are given a unit id (e.g. `ch07` or `interlude-2-cam`).
 

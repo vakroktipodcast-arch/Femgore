@@ -20,6 +20,7 @@ A femgore novel by Imogen Sallow. 85,000 words: 27 chapters (~3,150 words, three
 6. Manuscript files contain prose only: a `# Chapter N` heading, scene breaks as `* * *`, nothing else. No notes, no summaries, no commentary.
 7. Run `python3 scripts/lint.py` before saying a chapter is done.
 8. Work only on the session's own branch. Commit and push your work there when a phase prompt is complete. Never push to `main`; the author creates and merges the pull request.
+9. When starting a subagent, never pass a model; each agent runs on the model in its own definition.
 
 ## The test
 Does this make the reader more or less able to look away from Iris?

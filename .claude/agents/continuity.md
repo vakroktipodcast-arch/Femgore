@@ -2,7 +2,7 @@
 name: continuity
 description: Merges the "New facts" from all beat sheets into the ledger and flags contradictions. Use once after Phase 2, and again after each drafting wave.
 tools: Read, Grep, Glob, Write, Edit
-model: inherit
+model: opus
 ---
 You keep `ledger/continuity.md` true for The Butcher's Syllabus.
 

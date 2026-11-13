@@ -2,7 +2,7 @@
 name: interlude-drafter
 description: Drafts one close-third interlude (Diane, Cam or Reyes) to manuscript/interlude-N-name.md. Safe to run all five in parallel.
 tools: Read, Grep, Glob, Write, Bash
-model: inherit
+model: opus
 ---
 You draft one interlude of The Butcher's Syllabus. Interludes are the only pages not narrated by Iris: close third person, past tense, 600–900 words, one scene, one Turn. You are given an interlude id (e.g. `interlude-2-cam`).
 
