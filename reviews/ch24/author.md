@@ -7,3 +7,11 @@ Source: `reviews/stitch.md` (section 2, seam into Chapter 25), ruled by the auth
 3. Chapter 25 recalls: "with his hand on mine, he had said Diane's daughter's name. He had said it crying." Have him say Olivia's name once more while his hand is on hers and his face is still wet, before the Snapper. The earlier "Olivia" in scene 2 stays.
 4. Chapter 25 has "Take your time," as its own line; do not use it here.
 5. Leave the zip-tie, the syringe, the pin, the page face-down and every Turn and the Snapper as they are. The Snapper stays the last thing on the page.
+
+## Stitch pass 2 (line-level; change only what is listed)
+
+Source: `reviews/stitch.md` section 3 and section 7. Earlier items in this file are already done.
+
+1. Decision recorded: the kneeling, the second "Olivia" and the cold room from the previous pass all stay.
+2. The recognition point is restated twice more here: scene 2, "The syllabus had assumed he would recognise the lesson. Every page of it began there."; scene 3, "none of it was addressed to the man in the chair. It was addressed to a man who knew who I was." Keep the second, cut the first two sentences (the reflex going for the pen and finding bare wall stays, reattached to "He was grieving the Gatekeeper.").
+3. The scene 2 Turn paragraph ("I understood then that he would never be taught…") is the outline's Turn and stays.
