@@ -424,6 +424,7 @@ Story calendar:
 - By Tue 13 Oct Brandt reads the farm, the reporter's voicemail ("try him at the house", his own phrasing) and the car-service freeze as hers, each door shut "with the care of the groove" and pointing him out of the house. In the suite, before she comes, he finds he wants to understand her. (Interlude 3)
 - Iris thinks Brandt found her by her own NDA alone until Ch 16.
 - Iris does not know how Brandt got into the flat: front door and drawer lock unmarked, the bolt throws true; "A key, or somebody better with a pick… I left that open." Her device sweep (smoke alarm, sockets, lamp base, desk underside) finds nothing: "He had come to read, not to listen." She can't tell whether he found the back compartment. (Ch 9)
+- RULED (author, 14 Nov): Brandt picked Iris's front-door deadbolt (Wed 16 Sep), leaving no marks; he had no key. Iris never learns this as fact in Ch 9; by Ch 13 she treats it as so, which is what makes their entries "even" (she picks his kitchen deadbolt, no marks either side).
 - Iris does not know about the roommate (Ch 5).
 - Iris does not know how long the cyclist was behind her (Ch 7).
 - Iris reads the 5:58 statement as Brandt's drafting. (Ch 8)
@@ -457,7 +458,7 @@ Story calendar:
 
 ## Open — to be fixed in the beat-sheet phase
 - Nora's signing day (fixed only as before 17 Sep three years before Ch 1), and so whether it falls within the eleven's eight-month span. Left open deliberately: no unit needs the exact day, and none may state one.
-- Iris's own tablet (Ch 1 debate tablet; carries the War Room feed in her work bag from Mon 14 Sep): whether it counts as a clean device. Unruled (author, 14 Nov).
+- RULED (author, 14 Nov): Iris's own tablet (Ch 1 debate tablet; carries the War Room feed, in her work bag from Mon 14 Sep) is a clean device. She bought it for cash at the start of the two-year plan; no accounts or SIM in her name; used only for watching (the debate, the feeds). Never needs to be stated on the page; must not be contradicted (no personal email, photos, or her name on it).
 
 ## Pending changes to other files
 All applied on the author's instruction (13 Nov):
@@ -480,5 +481,5 @@ Second merge (author's approval, 13 Nov: "Go with your recommendations on all.")
   - Not changed, by approval: `anchors/ch17.md` "three hours earlier" read as loose anchor wording (like "for weeks").
 - Fourth set (author's approval, 13 Nov: "Yeah, please settle as recommended."): scopes recorded for Ch 17's two firsts and Ch 24's Snapper (People, Iris, Firsts); Ch 24's needle line becomes "never put down an open needle at a scene" (People, Iris, Ch 24). Applied: `manuscript/ch24.md` reads 'In fifteen years I had never put down an open needle at a scene'.
 - Fifth set (prose sweep of Wave H revisions; author's approval, 13 Nov: "Approved"): all additions, replacements 1–8 and rulings 1–8 recorded above. Applied (reviser): `manuscript/ch12.md` "He was the one Brandt had given my name to." → "He was the one who had said my name." (Brandt briefed both contractors by her first name.) No prose change for the Ch 18 suite shoes, the Ch 18 car key or Ch 24's "through his shirt".
-- Wave A prose sweep (author's approval, 14 Nov): additions recorded above. Rulings: red markers option (a) (pen tray holds desk red pen and desk red marker); War Room connecting door is one door with a deadbolt on each face, as the prose has it; self-grade scope and the 5:58 two-step grade recorded; Interlude 2 vs Ch 8 is a note only, no prose change; Iris's tablet clean-device status left unruled (Open). Done: `manuscript/ch09.md` cut ", and there was none in the flat"; ch05 and ch08 line fixes applied; beat sheets ch02–05, ch07–09 corrected to the revised prose.
+- Wave A prose sweep (author's approval, 14 Nov): additions recorded above. Rulings: red markers option (a) (pen tray holds desk red pen and desk red marker); War Room connecting door is one door with a deadbolt on each face, as the prose has it; self-grade scope and the 5:58 two-step grade recorded; Interlude 2 vs Ch 8 is a note only, no prose change; Iris's tablet ruled clean; Brandt's entry ruled a pick (both 14 Nov). Done: `manuscript/ch09.md` cut ", and there was none in the flat"; ch05 and ch08 line fixes applied; beat sheets ch02–05, ch07–09 corrected to the revised prose.
 - Snappers: drafters take each beat sheet's sharpened Snapper option for ch02–ch27 and interludes 3, 4, 5, except ch20, whose tooth simile is cut after "finding it" (it reuses Ch 18's tooth image); interlude 1 has no Snapper and ends on its Turn (author ruling). ch12, ch17, ch24, ch25, ch27 stand as drafted or anchored.
