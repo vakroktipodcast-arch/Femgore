@@ -1,0 +1,26 @@
+**Verdict:** REVISE
+
+**Findings:**
+
+1. **The tap only gets ciphertext, and putting it in cuts the uplink.** "It went inline on the uplink behind the cable management" / "find nothing that transmits". An inline tap on the building's outside line has to break that line while it goes in, so a surveillance operation would log a link drop at about 10 p.m. A tap on the outside line also sees only encrypted tunnel traffic. Ch 20 depends on this tap giving Iris counsel's email in readable form (ledger, Timeline, Fri 30 Oct: "near-live mail relay"). The device also sends a summary over the wire, so it does transmit. Any network professional would laugh at "nothing that transmits". *Fix:* (a) put the tap on the inside of the box where the tunnel ends, where traffic arrives already decrypted. An anatomical image fits here: past the capsule, where the vessels are bare. (b) Have her count the seconds the link is dead and file the outage as part of the message she means him to read. (c) Change the sweep line to "find nothing with an aerial".
+
+2. **One amber flicker that does not trip the sensor reads as luck.** "the little light flickered amber, once" ... "Nothing sounded." The outline asks for a sensor nearly tripped and then recovered, but the recovery is unexplained. Iris researches everything (bible/cast.md: "research, preparation and patience"). *Fix:* add one clause showing she knows why it held. For example, the unit counts pulses: one pulse means "maybe" and the second pulse makes it a "yes". Now the flicker is a finding, and her stillness is what stops the second pulse.
+
+3. **The office sensor's coverage doesn't work.** The sensor watches the office, so the slow crossing under the foil only protects the walk in. After that she picks a lock, opens four drawers, reads the file and cuts vinyl at full speed, all inside the same room. Ledger line 272 fixes only the crossing ("about four minutes for three metres"). *Fix:* give the sensor a set coverage area. Either it is a curtain lens covering the threshold and the first three metres, or the desk and cabinet sit in the blind spot directly below it. Say so in a sentence while she reads the room. Optionally, add a line on why she makes four crossings rather than two (tap before office would save eight minutes). It currently reads as poor planning, not as a choice.
+
+4. **The code she watches makes no sense in that order.** At "five to eight the operator arrived" and at "five past eight ... keyed a code into a panel". The operator is already inside, so the alarm is already off. The technician has nothing to disarm, yet Iris later uses the same code to disarm on entry and arm on exit (ledger, Fri 2 Oct; line 272). *Fix:* move the operator's arrival to after the technician's. The operator's time is not in the ledger; 8:05 is. On Thursdays the technician is first in and keys the alarm off.
+
+5. **The badge clone is out of range.** "while he paid, the reader in my tote took his card's number". A low-frequency proximity reader in a tote reads at a few inches. She is behind him in the queue and his badge hangs on his chest, with his whole body between them. *Fix:* put the badge where the tote can reach it, such as a reel clip at his hip, and her beside him at the pickup end of the counter. Optionally, have her name the reader by the door as the old kind (read on the 24th), so we know the clone was worth trying.
+
+6. **She doesn't account for cameras inside.** "the door camera, which was the only camera that could have seen my face". Two paragraphs earlier she allows "presumably, something inside", and then never checks. A dark data hall is exactly where infrared domes are fitted. *Fix:* in the paragraph where she reads the sensor lenses, have her read the cameras too (domes at the row ends, facing down the cold aisles), and keep the cap brim down in the hot aisle.
+
+7. **She gets her own muscle physiology wrong.** "for about as long as it takes to climb a stair and not for a second more". Soleus is a slow-twitch postural muscle that can hold a calf raise far longer than a stair-step. A pathologist would not get this wrong. *Fix:* "soleus, the slow postural one, will hold it for a while; gastrocnemius will not," then the burn.
+
+8. **Bare-handed is not how you hold evidence.** "bare-handed, by the edges, the way you hold evidence". To a professional, holding evidence means wearing gloves. *Fix:* keep the bare hand, since it is the point, but make it a broken rule, e.g. "by the edges, as I hold evidence, and without a glove, as I never do".
+
+9. **Small trade terms.** "the wafer lock re-pinned": a wafer lock has no pins, and a plunger cabinet lock is relocked by pushing it in. Use "the plunger pushed home". "a USB port on the rack's power strip": the switch's USB port is more likely.
+
+**What works:**
+- The permit office as the way in ("nobody on earth can hide a diesel generator from a permit office"), and recognising Diane's signature by the hand before the name. This is real paperwork craft. Keep it.
+- Timing the crossing against algor mortis. It is accurate, in her voice, and fits ledger line 272.
+- She leaves the dossier squared, puts the paperclip back on the folder and returns the file to its drawer slot. This is good scene discipline and matches ledger lines 345–347.
