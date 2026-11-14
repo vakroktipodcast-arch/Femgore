@@ -26,6 +26,6 @@ It was still on at six, yellow against the black of the window. The page was whe
 
 In the War Room he accused the Akers boy, in front of everyone, of something the boy had not done, and he was home before eleven.
 
-At eleven-forty he poured a rye at the counter beside the print. First drink before noon in nine years. He noted the time the way he would note another man's. It tasted thinner in daylight. He took out the page and opened it on the counter and read it again, to the foot, more slowly, with the glass beside it. Then he folded it back along her creases and put it away.
+At eleven-forty he poured a rye at the counter beside the print. First drink before noon in nine years. He noted the time the way he would note another man's. It tasted thinner in daylight. He took out the page and opened it on the counter and read it again, to the foot, more slowly, with the glass beside it. Then he folded it along her creases and put it back in his inside pocket.
 
 The house was quiet the way it was only quiet on a weekday, and in the quiet he did the other sum, the one he had left on the pillow, and it came out whole. She had been in this house with a blade, and had stood in the dark at the place where his head went, and what she had cut was a record. She could have killed him in his sleep, and she had chosen to warn him instead. She wanted him to understand first, and he found, to his surprise, that he wanted to.
