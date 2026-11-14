@@ -5,7 +5,7 @@ Scope: `reviews/ch27/author.md` only. The five reviewer reports (continuity, den
 ## Author rulings
 
 1. **The eleventh name reads as Nora Wade; "nine of the eleven, two left" doesn't add up.** Fixed. Scene 1 now has Reyes's sequence on the page, so it's clear the eleventh-listed name is alive and has been interviewed. This matches ledger lines 274 and 280: the eleventh name came forward through the one lawyer on Fri 6 Nov and was Reyes's ninth interview.
-2. **Put it in Mara's relay of the lost week, briefly, in order, so the arithmetic closes.** Fixed. Mara's last speech now goes: list worked in order; eight done by election night; on Friday one came in through a lawyer and was the last name on the list; she doesn't know what the list is for and Reyes didn't say; so nine of eleven, two left. Ledger checks: the eight interviews ran Sun 1 to Tue 3 Nov, so "by election night" holds. "Through a lawyer" on "Friday" ties back to the earlier paragraph about one lawyer and three women, without Iris spelling out the link (per the beats, she doesn't know it). Mara knows nothing about the list beyond what Reyes told her. Nora Wade isn't mentioned (beats, ruling 4). The paragraph adds 42 words.
+2. **Put it in Mara's relay of the lost week, briefly, in order, so the arithmetic closes.** Fixed. Mara's last speech now goes: list worked in order; eight done by election night; on Friday one came in through a lawyer and was the last name on the list; she doesn't know what the list is for and Reyes didn't say; so nine of eleven, two left. "Through a lawyer" on "Friday" ties back to the earlier paragraph about one lawyer and three women, without Iris spelling out the link (per the beats, she doesn't know it). Mara knows nothing about the list beyond what Reyes told her. Nora Wade isn't mentioned (beats, ruling 4). The paragraph adds 42 words.
    - Before: "She was explaining the lost week," she said. "She's interviewed nine of the eleven, she said. There are two left. A woman who's left the country."
    - After: "She was explaining the lost week," she said. "She's going down a list. In order, she said. Eight of them done by election night. Then on Friday one came in through a lawyer, and she was the last name on it. I don't know what the list is for. She didn't say. So that's nine of the eleven. There are two left. A woman who's left the country."
 3. **The Turn stays exactly where it is and stays last in the scene.** Kept. The Turn ("And Dr. Vale. Postponed by Election Eve. Rescheduled for Thursday.") is unchanged and still ends scene 1. "Thursday" is still first heard there.
@@ -21,4 +21,8 @@ Scope: `reviews/ch27/author.md` only. The five reviewer reports (continuity, den
 
 ## Lint
 
-`python3 scripts/lint.py manuscript/ch27.md`: ok, 3284 words, 0 errors, 0 warnings.
+`python3 scripts/lint.py manuscript/ch27.md`: ok, 3284 words, 0 errors, 0 warnings (before the correction below).
+
+## Correction (coordinator, same pass)
+
+- "Eight of them done by election night" was wrong. Per ledger lines 272–273, Reyes's Tuesday interviews were lost to the assassination and the remaining ones were completed Wed–Fri. Fixed: the sentence now reads "Eight of them done by the end of that week." The rest of the relay and the Turn are unchanged, and "Friday" appears only once ("Then on Friday one came in through a lawyer"). Lint after the correction: ok, 3287 words, 0 errors, 0 warnings.
