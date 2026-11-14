@@ -20,3 +20,16 @@ Not re-applied. They were dealt with in the earlier revision wave, and this pass
 ## Lint
 
 `python3 scripts/lint.py manuscript/ch08.md`: ok, 3399 words, 0 failing.
+
+# Stitch pass 2 (line-level; `reviews/ch08/author.md`, "Stitch pass 2")
+
+Scope: only the item listed under "Stitch pass 2". I did not re-apply the five reviewer reports or the earlier author item.
+
+1. **Scene 3: cut the crackling simile.** FIXED. Chapter 7 ends on "I was saving it the way you save the last bite.", so this was the same joke one chapter later. I cut the simile and kept the fact that she had saved it.
+   - Before: "... and the laptop had stayed shut on the desk. I had saved it the way you save the crackling."
+   - After: "... and the laptop had stayed shut on the desk. I had saved it."
+   - Rhythm: the long sentence that lists everything she did now ends on a short four-word close. That matches the short sentences that open the paragraph ("The recording was from Sunday night. I hadn't watched it."). The next paragraph, "So it was late on Monday...", still follows on naturally.
+
+## Lint (stitch pass 2)
+
+`python3 scripts/lint.py manuscript/ch08.md`: ok, 3393 words, 0 failing.

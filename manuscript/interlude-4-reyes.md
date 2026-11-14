@@ -22,7 +22,7 @@ She laid the lab's reconstructions against the header, wet footers pieced back t
 
 The list had two holes, and counsel's covering note named them in a paragraph that was careful to be helpful. One signatory had only a forwarding address abroad. For the eleventh the firm held a disconnected number and an address years out of date. She marked both lines for counsel, and put in for background checks on all eleven. The system said three to four days. It was election week, and every agent in the building had been pulled onto it.
 
-She stood at the window while the copier cycled and ate a fun-size chocolate bar from the bowl at the lobby desk, and noticed only when she was folding the wrapper. The clocks went back tonight. The government was giving her an hour, and she knew already where it would go.
+She stood at the window while the copier cycled and ate a fun-size chocolate bar from the bowl at the lobby desk, and noticed only when she was folding the wrapper. The clocks went back tonight. She would work through the extra hour, and she knew already which squares it would fill.
 
 She opened the paper desk calendar. Sunday. Monday morning, before she reported to the hotel for the Election Eve detail. Tuesday, between the polls opening and the returns. She skipped the woman abroad, since no approach could be made, and logged it anyway, because the paper was what would be read later. Then she filled the squares in her own hand, block capitals all the same height, the biro scratching between the copier's cycles, eight squares across three days, a ninth name noted and passed over, until the sequence came to Wednesday.
 

@@ -35,3 +35,16 @@ Scope: `reviews/ch19/author.md` only. The five reviewer reports (continuity, den
 ## Left for the author
 
 - None from this ruling. One note: the line uses the 22 Oct field house, which scene 2 then introduces as footage two. This is deliberate, because it plants the rally before she scrubs it. If it reads as pre-empting the scene 2 reveal, the last clause can end at "without breaking step."
+
+# Stitch pass 2 (author.md, line-level)
+
+Source: `reviews/stitch.md` sections 3 and 7, as ruled in `reviews/ch19/author.md`. Only the listed item was applied. The five reviewer reports were not reopened.
+
+1. **End the Brandt paragraph at "without breaking step": fixed.**
+   - Before: "The campaign carried it without breaking step, and a week later the Senator was at a university field house."
+   - After: "The campaign carried it without breaking step."
+   - This settles the note left for the author above. Scene 2 now introduces the field-house rally with nothing set up ahead of it. "Without breaking step" now rests only on the fixed seat change, not on the 22 Oct rally.
+
+## Lint
+
+- `ok manuscript/ch19.md (3454 words)`, 0 failing, no warnings. The count went from 3,466 to 3,454.

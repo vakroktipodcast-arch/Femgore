@@ -24,3 +24,15 @@ Handled in the earlier wave. Not revisited in this pass, as instructed.
 ## Lint
 
 `python3 scripts/lint.py manuscript/ch24.md`: ok, 3383 words, 0 failing, no warnings.
+
+# Stitch pass 2 (line-level, `reviews/ch24/author.md` "Stitch pass 2" only)
+
+Scope: only the three items in that section. I did not reopen the reviewer reports or the earlier rulings, and I did not touch any Turn or the Snapper.
+
+1. **Kneeling, second "Olivia" and cold room stay.** Done. None of them was touched.
+2. **Cut the scene 2 restatement of the recognition point and keep the scene 3 one.** Fixed. Before: "The syllabus had assumed he would recognise the lesson. Every page of it began there. He was grieving the Gatekeeper. Something in me began, …" After: "He was grieving the Gatekeeper. Something in me began, …" The reflex going for the pen and finding bare wall stays, now attached to "He was grieving the Gatekeeper." Scene 3 ("none of it was addressed to the man in the chair. It was addressed to a man who knew who I was.") is unchanged.
+3. **The scene 2 Turn paragraph ("I understood then that he would never be taught…") stays.** Done. It was not touched.
+
+## Lint
+
+`python3 scripts/lint.py manuscript/ch24.md`: ok, 3368 words, 0 failing.
