@@ -1,0 +1,3 @@
+- **Verdict:** PASS
+
+The interlude passes the genre lens. Placed after 25/26, it correctly shows Iris with her appetite starved, seen from outside: "the face of someone at work", thin and shadowed, the only steady hands in the corridor. There is no violence on the page, as there should not be. The body carries the page instead: Reyes's sandwich at four, the fryer oil, the draught, the drums through her soles. The dry humour is there too ("The smile had not caught up with the news"). The pledge image ("Like a woman saying the pledge") makes Iris harder to look away from, not easier to dismiss (style/12).
