@@ -1,26 +1,27 @@
-# Dent review: interlude-3-cam
+# Dent review: interlude-3-cam (fresh pass, post-ruling rewrite)
 
-- **Verdict:** PASS. Two minor notes for the reviser's discretion.
+- **Verdict:** PASS. Two optional notes; nothing must-fix.
 
-Scope: the interlude is one scene with one Turn (bible/strategy/03, point 10). The three-scene, Scene 1-in-Iris's-trouble and Snapper-on-Iris checks do not apply. I checked the single Turn, the pressure, the competence rule, and the first and last sentences.
+Scope: an interlude is one scene with one Turn (bible/strategy/03, point 10), so the three-scene, Iris-in-trouble and Iris-Snapper checks do not apply. Author rulings in `reviews/interlude-3-cam/author.md` taken as fixed.
 
-**Word count:** I estimate about 850-900 by hand, near the top of the 600-900 target. I could not run `wc`. Confirm with `python3 scripts/lint.py` that it is not over 900.
+**Word count:** about 850 by hand count, inside 600-900. Confirm with `python3 scripts/lint.py`; the margin is under 50 words, so any additions risk the ceiling.
 
-**Turn:** it lands in the final paragraph, "In the quiet he did the other sum...". It is an admission and not a summary. It closes the interlude on "he wanted to", as the outline's Turn requires. The glass-ring image sits in the penultimate paragraph, as the beat sheet asks.
+**Turn:** lands in the last paragraph, "The house was quiet the way it was only quiet on a weekday, and in the quiet he did the other sum...". It is the last thing on the page, and it ends "he found, to his surprise, that he wanted to." It is an admission, in plain complete sentences after the earlier fragments, and it is not a summary. This meets ruling 3 and bible/style/10, point 3.
+
+**Pressure:** Iris's presence is felt in every paragraph through her evidence: the squared print, the score on the break, the quarter-inch, the creased page, "Vale had squared it", the ring. This meets point 4.
+
+**Competence:** no luck, rescue or convenient door. How she entered is off-page and the interlude does not lean on it. This meets point 5.
+
+**Close:** the interlude ends on the Turn, not a cliffhanger. The glass-ring image comes just before it. This meets point 8. The first sentence, "The print was on the counter beside the kettle, squared to the edge.", is concrete and carries the unit's subject.
 
 ## Findings
 
-1. The Turn partly repeats earlier lines. "break a record so that it would fit back together" restates "Anyone can break a record. It takes a steady hand to break one so it fits back together." and "Not temper. Care." from the bedroom. This breaks bible/style/10, point 8 (last sentence load-bearing) and point 3 (the Turn is the minimum, landed fresh). Fix: cut the record clause from the final paragraph. Let the new information carry it: she stood where his head went, she could have killed him, she chose to warn him. Alternatively, drop the earlier aphorism and let the Turn be where the record's meaning is first spelled out.
+1. **Optional.** "he did the other sum, the one he had left on the pillow" is slightly vague. The earlier sum (who knew, what it cost, what came next) is about exposure, and the Turn's sum is about her intent. Readers may not see why the Turn's sum was "left". This touches bible/style/10, point 8 (the last sentence's weight). Fix: name it plainly, e.g. "the sum he had not let himself do", or cut "on the pillow".
 
-2. The opening sentence is only a timestamp. "Twenty-six minutes past twelve." orients the reader but carries little weight, so it is weak against bible/style/10, point 8. It is also thin against the final sentence. Fix: either make the clock do work, for example "Twenty-six minutes past twelve, and the kettle light was on." Or open on the print, "The print was on the counter beside the kettle, squared to the edge.", and fold the time into the next line.
-
-## Pressure and competence
-
-- **Pressure:** Act II's pressure (Brandt) is turned inside out, as the beat sheet intends. It is felt in every beat: the pillow, Holt's exit, the lockout, the dead doors.
-- **Competence:** I found no luck, rescue or convenient door. Every shut door is Iris's work, read as hers by Cam. The soft spot is "Then the farm went dark..." (compressed to one line, per the beats). It is acceptable because Cam names it as her hand.
+2. **Optional.** "He knew what the licence was, and sleeved it with the halves" sits oddly after he has just read the name and thought "The heavy one, then." "Knew what it was" reads as if he already knew, which weakens the earlier discovery. Fix: "He sleeved the licence with the halves." Separately, "It was still on at six, yellow and foolish against the daylight" may be early for daylight on 5 Oct. Check the ledger and make it "half past six" or "seven" if needed.
 
 ## What works
 
-- The fragments-to-full-sentences shift. His grammar completes only at the Turn, as the beat sheet requires.
-- The penultimate image: the glass "already leaving its ring" on the page, then the Turn.
-- The compressed days, with Holt's "I thought Diane closed those" and "Moved, a little at a time" kept in the order Ch 17 expects.
+- The fragments-to-full-sentences shift. Grammar completes only at the Turn.
+- The 11:40 rye set down on the page, leaving a ring, then the quiet and the Turn.
+- The kept first-third facts: no fridge, no piano, the quarter-inch, "Fair mark", the page not turned over.
