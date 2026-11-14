@@ -73,3 +73,63 @@ Result: 771 words, down from 902. `python3 scripts/lint.py manuscript/interlude-
   - he is awake by six, changes his shirt but not his suit, and drinks a coffee standing beside the print without moving it;
   - at 11:40 he reads the page a second time, and the glass leaves the first ring on it. This is compatible with Ch 17's ring "where he had been using it as a coaster" and with Ch 16's page under the glass.
 - **Ch 15 S2's Turn** ("He went willingly") now depends on the reader remembering only this unit's last line, "he wanted to". That was the intent of headline 1. Worth a check when Ch 15 is next revised.
+
+---
+
+# Revision log: interlude-3-cam (re-review pass, author rulings "After the re-review")
+
+I applied exactly the points in the last section of `reviews/interlude-3-cam/author.md` and declined everything else. Earlier rulings 1–7 still hold: the interlude ends Monday 11:40, nothing later appears, Theo gets one glancing sentence, there is no vetiver or soap, the fridge stays shut, the quarter-inch, "Fair mark" and the unturned page are all kept, and the Turn is the last paragraph. I read Ch 13 S3 again so the movements still match the feed: front door 12:26, across the front room to the kitchen, lamp, sees the pillow and stops, sits on his own side, fits the halves, sits a long time, taped glasses, licence, page, inside left pocket, sleeve, laugh, sleeve shelved, 12:40 rye, side one, tone arm home.
+
+Result: 778 words (lint), up from 771. `python3 scripts/lint.py manuscript/interlude-3-cam.md` reports ok, with no errors and no warnings.
+
+## Author rulings applied
+
+1. **Voice must-fix, "Hers." becomes "Vale's."** Fixed.
+2. **No daylight at six.** Fixed. The hour stays. "yellow and foolish against the daylight" becomes "yellow against the black of the window". I dropped "foolish" because a lamp against a dark window is not foolish (forensic 1). "Daylight" at 11:40 stays.
+3. **Bed smell.** Fixed. "The bed smelled faintly cold and clean. Not of him." becomes "The bed smelled of him, as it always did, and of nothing else." This matches Ch 13's pillow and shows she left no trace.
+4. **Quarter-inch seen before he touched anything.** Fixed. The line stays where it was (earlier ruling 7) but moves into the past perfect and is tied to the doorway, as in Ch 13 ("came in and saw the pillow and stopped"): "It had lain a quarter-inch to the left of true; he had seen that from the door, before he touched anything."
+5. **Glass ring follows the ledger (the ring comes from the suite).** Fixed. At 11:40 he reads the page again "with the glass beside it". The glass is not set on the page and leaves no ring. "Then he folded it along her creases and put it back in his inside pocket."
+6. **Optional points, accepted.**
+   - "He knew what the licence was, and sleeved it with the halves." becomes "He sleeved the licence with the halves." Fixed.
+   - "he heard himself accuse the Akers boy" becomes "he accused the Akers boy". Fixed.
+   - "He did not open the fridge or look into the front room." becomes "He did not open the fridge. He had crossed the front room without turning his head to the records." This is now accurate to Ch 13, where he crosses the front-room frame to reach the kitchen. Fixed.
+   - "Long time" beats cut to one. "He stood and looked at it a long time." becomes "He stood and looked at it." The bedroom "He sat like that a long time" stays, because it matches Ch 13 ("He sat there a long time") and ledger line 138. Fixed.
+7. **Earlier rulings hold, Turn last, 600–900.** Confirmed.
+
+## Reviewer points (fresh reports)
+
+### continuity.md
+1. Daylight at six (must-fix): **fixed**, see ruling 2.
+2. "Cold and clean. Not of him." (must-fix): **fixed**, see ruling 3.
+3. "Look into the front room" (optional): **fixed**, see ruling 6.
+4. Interval at the print, three "long time"s (optional): **fixed**, see ruling 6. The kitchen one was cut and 12:40 kept.
+5. "If you knew where to look" (optional): **declined**. Not among the author's accepted points.
+6. Refold along her creases (optional): **fixed** under ruling 5.
+7. "Stood in the dark" in the Turn (optional): **declined**. Not accepted; the Turn stays as it was.
+
+### dent.md
+1. "The one he had left on the pillow" is vague (optional): **declined**. Not accepted.
+2. "He knew what the licence was" (optional): **fixed**, see ruling 6. The daylight note is fixed under ruling 2.
+
+### forensic.md
+1. No daylight at six (must-fix): **fixed** by changing the light, not the hour, as the author ruled. I took the reviewer's second option rather than "half past seven".
+2. Bed cannot smell "not of him" (must-fix): **fixed**, using the reviewer's wording.
+3. Quarter-inch read after disturbance (must-fix): **fixed**, using the reviewer's past-perfect fix with "before he touched anything" added.
+4. Ring contradicts the ledger (must-fix): **fixed** by cutting the ring, under ruling 5. The rye-drip suggestion is moot.
+5. No more duration words on night one (optional): **observed**. No duration words added, and one "long time" removed.
+- "What works" asked to keep "He knew what the licence was": overruled by the author (ruling 6). The cut was applied.
+
+### genre.md
+- Optional cut of "He knew what the licence was": **fixed**, see ruling 6. Note: genre's "what works" cites "cold and clean. Not of him." That line is now gone under ruling 3 (author and two must-fixes).
+
+### voice.md
+1. "Hers." becomes "Vale's." (must-fix): **fixed**.
+2. "A long time" twice (optional): **fixed** in part, under ruling 6. The first one is cut. The second stays without a clock time, because the author asked for one beat to remain, and Ch 13 has Iris fail to time it.
+3. Set up the second sum (optional): **declined**. Not accepted.
+4. "He knew what the licence was" (optional): **fixed**.
+5. "Heard himself accuse" (optional): **fixed**.
+
+## Left for the author
+
+- The beat sheet and the ledger New facts lists from the earlier pass still mention the 11:40 ring. That fact no longer appears on the page, so the ledger's "the glass ring comes from the suite" now stands without exception. Please drop the Monday ring from any pending New facts.
+- New fact in prose this pass: he notices the quarter-inch from the bedroom doorway, before touching anything. This is consistent with Ch 13 and ledger line 385.
