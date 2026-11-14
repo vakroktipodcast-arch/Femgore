@@ -1,12 +1,12 @@
 # Beat sheet: interlude-1-diane
 
-- **Unit:** Interlude 1, Diane (after Chapter 3, before Chapter 4). Manuscript file `manuscript/interlude-1-diane.md` (not yet drafted). Heading in manuscript: `# Interlude — Diane`.
+- **Unit:** Interlude 1, Diane (after Chapter 3, before Chapter 4). Manuscript file `manuscript/interlude-1-diane.md` (drafted and revised; ends on the Turn per author ruling). Heading in manuscript: `# Interlude — Diane`.
 - **POV:** Diane Pell, close third, past tense.
 - **Target words:** 600–900 (aim ~800). One scene, one Turn.
 - **Act pressure:** Act I, The Prerequisite. The pressure is the campaign's certainty that nothing is coming, and Diane is that certainty in her work clothes with her shoes off. She is tired because she is managing everything, and she is calm because everything is managed. The house is alarmed, and the alarm is set against burglars, not against anything that is actually coming. The fifth pressure, appetite, belongs to Iris and is off the page. The reader brings it in with them from ch03's rug.
 - **Iris's appetite at entry:** Act I, appetite as competence, present and unnamed. At the end of ch03 she closed the rug's "airway" in under four seconds and found herself "breathing hard and happy". She has the fitness-app routes and the intersection point (ch03 S2) and wrote down what she ate in the same hand.
 - **Iris's appetite at exit:** Unchanged, because Iris is not here and the interlude must not leak her. What changes is the reader. They have now met the person Iris's appetite is aimed at, in her kitchen, being a mother, and from here on they cannot watch the reservoir in ch04 without this phone call in their ear. "The reader is given exactly what Iris will end."
-- **Register (anchor: `anchors/interlude-2-cam.md`):** plainer and cooler than Iris. Plain declaratives, objects doing the work (Cam's cooling coffee, the phone set face-down), one dry beat per paragraph, thought in italics sparingly, no Latin, no direct address, no appetite, no jokes in Iris's style. Layman's words for bodies. Diane's own dryness is managerial and tired. She is funny the way a chief of staff is funny at 10 p.m., briefly and to end a subject. Her stutter is a single trochaic hesitation, never phonetic (style/07), used once only. The Cam anchor ends on interior summary; this one deliberately ends on an image (see Snapper).
+- **Register (anchor: `anchors/interlude-2-cam.md`):** plainer and cooler than Iris. Plain declaratives, objects doing the work (Cam's cooling coffee, the phone set face-down), one dry beat per paragraph, thought in italics sparingly, no Latin, no direct address, no appetite, no jokes in Iris's style. Layman's words for bodies. Diane's own dryness is managerial and tired. She is funny the way a chief of staff is funny at 10 p.m., briefly and to end a subject. Her stutter is a single trochaic hesitation, never phonetic (style/07), used once only. The Cam anchor ends on interior summary; this one ends on the Turn, with no Snapper (author ruling).
 - **Date on the page:** none (ledger: Wed 2 Sep, about 10:05 p.m., 8 weeks 6 days out, accepted with no date on the page). Chronologically this sits after Ch 4's first Sunday (30 Aug), though it is read after Ch 3.
 
 ## Conflicts
@@ -19,7 +19,7 @@ Settled by the ledger (not conflicts):
 - Diane must not say or think anything about "the old files". Holt asks her that in ch04 S2, and her "yes" has to land there first.
 - Diane must not sense Iris. No noise outside, no sense of being watched, no premonition. The house is safe and the dramatic irony does all the work. The neighbour's dog (ledger) may pass as pure texture and must not read as a watcher.
 - Olivia's visit is fixed by the ledger: home for Labor Day weekend, walks the loop with Diane Sun 6 Sep, back by train Mon 7 Sep night. The beats seed it.
-- Diane carries her phone on the walk (ch05 S1's "Olivia?", ch05 S2's text). Olivia is the one exception to "unreachable" (ledger: Do Not Disturb, only Olivia rings through, "You're the list.").
+- Diane carries her phone on the walk (ch05 S1's "Olivia?", ch05 S2's text). Olivia is the one exception to "unreachable" (ledger: Do Not Disturb, only Olivia rings through). This is true but unstated in the interlude (author decision); the "You're the list." exchange is cut by author ruling.
 - POV discipline: the narration never says Iris has found the profile. "The reader holds the gap" is an effect of ch03, not a sentence in Diane's head.
 
 ## Scene 1: The kitchen, Wednesday night
@@ -32,8 +32,12 @@ Settled by the ledger (not conflicts):
 6. The stutter, once. Olivia asks, more gently, how *she* is, and whether she's sleeping. Diane starts to say "Fine" and doesn't. There is one hesitation before the word, the old catch, a beat where the word won't come. Then it comes: "Tired." Olivia waits through the pause without filling it, the way she has since she was small. Staff mistake that pause for thoughtfulness. Olivia never has. *(This is the catch that happens outside Iris's hearing; the ledger counts two real catches, this and Ch 6. Prose renders it as a held beat, never as phonetic stammer.)*
 7. Olivia, teasing, asks whether she's still doing "the walk", and whether she still wears the watch. Olivia gave Diane the sports watch three years ago, in late summer, and set it up on her phone herself. Diane looks at her wrist, where the dress watch is, and at the end of the counter, where the sports watch lies, and says every Sunday. Seven o'clock, the reservoir loop, a bench halfway round, "ten minutes, maybe," with whatever she is reading, then home. Mother at four.
 8. **[TURN]** Olivia asks why she doesn't just sleep in. Diane says, plainly and for the first time in the scene without managing anything: "Because it's the one hour of my life I'm not reachable." Then she tightens it, because she edits everything: "To not be reachable for one hour of my life. That's all I want. One." *(Reader-side only, not in prose: three years of Sunday routes sit on a public profile Diane never set private, and the woman from ch03 has already found it. The narration does not say so.)*
-9. The exception, so ch05 can work. Olivia says, "You answer when I call, though." Diane says, "You're the list." Olivia says, "There's a list?" Diane says, "There's you." The phone is on Do Not Disturb on the walk, and Olivia's number is the only one that rings through. Then Olivia says she's home for the long weekend and she'll walk it with her. Diane says it's not a walk if you talk. Olivia says she'll be quiet. Diane says she has never once been quiet, and they both laugh, and Diane says go to bed, and close the window, and Olivia says *you* close the window, and they hang up.
-10. Diane rinses the glass and leaves it upside-down on the drainer. She unbuckles the dress watch and sets it down, then puts the sports watch on its charger at the end of the counter for Sunday. She reaches up and switches off the range light and touches the alarm panel by the stairs, which gives its short tone. Then the Snapper.
+9. ~~The exception: "You're the list." / "There's a list?" / "There's you."; Do Not Disturb with only Olivia ringing through; Olivia's long-weekend walk plan.~~ CUT by author ruling (`reviews/interlude-1-diane/author.md`): not on the page.
+10. ~~Glass rinsed; sports watch on its charger with green light; alarm armed; then the Snapper.~~ CUT by author ruling: not on the page.
+
+**The unit ends on the Turn (beat 8). There is no Snapper.** (Author ruling: "End on the Turn. Cut everything after it.")
+
+- **Unstated fact (author decision):** Diane's phone is on Do Not Disturb on the walk, and only Olivia rings through. This remains true but is not on the page in the interlude. Ch 5 shows only what Iris observes.
 
 - **Sensory lead:** Sound first: the call. The small acoustic of a dorm corridor coming through the phone (a fire door's hiss, someone's music two rooms away), Olivia's whisper rising to ordinary voice. Under it the house: the fridge, the dishwasher's last cycle ticking, nothing else (optionally one dog's tags passing on the pavement outside, the neighbour's, no weight on it). Temperature: cool tile through tights, the cold of Olivia's room reported second-hand, the fridge door's breath on Diane's shins. Taste: the waxy rind of old cheddar, a cheap Sauvignon gone flat from sitting in the door. Texture: the ball of her foot under her thumb, the crumbs of a cracker sleeve. No smell to speak of. Diane doesn't smell things the way Iris does, and the absence is part of the register.
 - **Dry observations (Diane's register, not Iris's):**
@@ -49,9 +53,7 @@ Settled by the ledger (not conflicts):
 
 ## Snapper
 
-The kitchen dark except for the watch on its charger at the end of the counter, a small green light going round its face as it filled.
-
-*(Sharpened: "getting ready for Sunday" cut, because the image should not announce itself. The outline gives no Snapper for interludes. This is proposed. It is an image, not a cliffhanger. The watch is Olivia's gift, the device that recorded three years of routes, and the thing Diane will wear to the reservoir. Keep "keeping count" or any watching-verb off it. The light just goes round.)*
+None. CUT by author ruling: the unit ends on the Turn (beat 8). The proposed closing image (watch on its charger, green light going round) is not on the page.
 
 ## Carries in / carries out
 
@@ -62,10 +64,10 @@ The kitchen dark except for the watch on its charger at the end of the counter, 
 - Ledger: Diane is 52, has a childhood stutter, calls her mother Sundays at 4 p.m., walks the reservoir on Sundays and sits on the bench to read; the pale band under the dress watch.
 
 **Carries out (to ch04 and later):**
-- ch04 S1: Iris watches two Sundays at distance and measures the bench reading at eleven minutes. The reader now knows Diane thinks it is "ten minutes, maybe". On the second Sunday (6 Sep, Labor Day weekend) Olivia walks beside her, which pays off beat 9. The reader will know before Iris that Olivia came because she said she would.
-- ch04 S2: Holt asks whether the old files are closed, and Diane says yes with no pause. The interlude has kept her silent on the subject so the yes is fresh, and has spent her one pause on "Tired". Holt's "She get back all right?" / "Monday night. The train." answers the long weekend seeded here.
-- ch05 S1: Diane answers a ringing phone on the path with "Olivia?". Beat 9 has told the reader that Olivia is the only one who rings through on the walk, so the misrecognition is explained before it happens. Iris does not know this. The reader does.
-- ch05 S2: Olivia's text in Diane's coat, and the phone sealed in foil. The reader knows what that number means to her.
+- ch04 S1: Iris watches two Sundays at distance and measures the bench reading at eleven minutes. The reader now knows Diane thinks it is "ten minutes, maybe". On the second Sunday (6 Sep, Labor Day weekend) Olivia walks beside her. Nothing in the interlude seeds this (beat 9 cut); Ch 4 establishes Olivia's 6 Sep walk itself.
+- ch04 S2: Holt asks whether the old files are closed, and Diane says yes with no pause. The interlude has kept her silent on the subject so the yes is fresh, and has spent her one pause on "Tired". Holt's "She get back all right?" / "Monday night. The train." refers to the long weekend Ch 4 establishes; it is not seeded here.
+- ch05 S1: Diane answers a ringing phone on the path with "Olivia?". Ch 5 shows only what Iris observes: the buzz and "Olivia?". That only Olivia rings through is true but unstated (beat 9 cut); the interlude does not explain the misrecognition in advance.
+- ch05 S2: Olivia's text in Diane's coat, and the phone sealed in foil. The reader knows from the Turn what that hour was meant to be.
 - ch06: the stutter's second catch, in Iris's hearing. The reader has heard the first here, with "Tired" on the other side.
 - ch06 S1: Diane's apology to Iris, "I should have protected you from that." Her process-as-protection advice to Olivia is the domestic rehearsal of that worst sentence.
 - ch24 S2: Holt's "Her daughter — Olivia — I was at the —" (the funeral). The interlude's Olivia is the reader's referent for the name; nothing in Diane's kitchen points at Holt.
@@ -82,7 +84,8 @@ The kitchen dark except for the watch on its charger at the end of the counter, 
 - interlude-1-diane: Olivia's "Like a Viking" and Diane's reply "Vikings didn't borrow sweaters. They took them." (proposed lines).
 - interlude-1-diane: Diane describes the walk to Olivia as every Sunday, "seven o'clock", the reservoir loop, a bench about halfway round, "ten minutes, maybe", then home; then her mother at four.
 - interlude-1-diane: Diane's Turn line: "Because it's the one hour of my life I'm not reachable." / "To not be reachable for one hour of my life."
-- interlude-1-diane: Diane: "You're the list." Olivia: "There's a list?" Diane: "There's you."
-- interlude-1-diane: Diane tells Olivia "it's not a walk if you talk"; Olivia has "never once been quiet".
-- interlude-1-diane: At the end Diane rinses the glass upside-down on the drainer, takes off the dress watch, puts the sports watch on a charger at the end of the kitchen counter (green charging light), and arms the alarm at the panel by the stairs.
-- Open ledger items touched: none of the open list is fixed here. The "Snapper options ... author's call" item is touched only in that this sheet proposes a Snapper for the interlude (the charging watch); proposed value: take it.
+- ~~interlude-1-diane: Diane: "You're the list." Olivia: "There's a list?" Diane: "There's you."~~ CUT by author ruling: not on the page.
+- ~~interlude-1-diane: Diane tells Olivia "it's not a walk if you talk"; Olivia has "never once been quiet".~~ CUT by author ruling: not on the page.
+- ~~interlude-1-diane: At the end Diane rinses the glass, takes off the dress watch, charges the sports watch (green light), and arms the alarm.~~ CUT by author ruling: not on the page. The interlude ends on the Turn.
+- interlude-1-diane: On entry Diane keys the alarm off at the panel by the stairs, without looking.
+- Open ledger items touched: none of the open list is fixed here. The "Snapper options ... author's call" item: the author has ruled that this interlude has no Snapper and ends on its Turn.
