@@ -1,0 +1,27 @@
+# Voice review — Chapter 13
+
+- **Verdict:** REVISE. Light line-level polish only. The narrator is unmistakably the Iris of the anchors, so do not redraft.
+
+## Findings
+
+1. **"I have never owned a record. It doesn't matter how you hold"** (Scene 1, the Dolphy paragraph). This lifts the Ch17 anchor's closing beat almost word for word: "I have never owned a record. I wouldn't have known how to hold it." In 17 the line is a quiet payoff. Spending it four chapters earlier turns 17's version into a repeat. Breaks anchors/ch17 (the voice standard is the anchor, and its key lines are not raw material to reuse). Fix: cut the first sentence and keep only the plan. For example: "It doesn't matter how you hold a thing you are about to break." Or drop both and let "everything else in that room told me it was wrong" carry the point.
+
+2. **"I recorded it as a finding." / "I am putting it down as a finding."** Add "I am reporting it. I can't do better than report it." and "I want that noted." That is four uses of the report-it device in one chapter. In Ch17 the device lands because it is rationed, and here it starts to read as a tic and drifts toward self-commentary. Breaks style/02 (voice as exact rather than mannered) and style/01 ("you" and asides used to implicate, never to explain). Fix: keep "I want that noted" (piano) and the final "finding" (hand to face). Cut "I recorded it as a finding" after the pulse, because "My pulse was up in the pads of my fingers" already does the work. Trim the Scene 2 opener to "I am reporting it." and cut the second sentence.
+
+3. **"Egress begins when placement ends. Every minute after the work"**. This is a tradecraft maxim from generic thriller prose. It could appear in any heist novel, and it is the one place the chapter sounds like a genre and not like a pathologist. Breaks the brief's "any other novel" test and style/02 (her metaphors come from the body and the morgue). Fix: put it in her trade. For example: "At work, when the case is closed, you leave the suite. Every minute after is a minute you are there for yourself."
+
+4. **"He never talked about the divorce. That was how I knew"** (Scene 2, the pork). The "never mentioned X, which is how I knew X" pattern is a stock sitcom and thriller beat, and the joke depends on a pattern the reader has seen many times. It is also the one gag in a strong paragraph that does not come from evidence she can read off the dish or the house. Breaks style/02 (humour that is accurate and comes from the body). Fix: let the food testify, as in "He cooked the way people cook who used to cook for two: too much, and well." Then add one dry inference from the evidence in place of the stock reversal, or cut the two sentences and end on "and well."
+
+5. **"It has a ratchet in it, a small dry tearing"** (Scene 1, the tape). A tape roll has no ratchet. Ch1 gives the ratchet to the zip-ties ("a sound like a watch being wound"). Iris is "scrupulously reliable about everything else" (style/02, last point), so a wrong mechanism detail in her mouth is a voice error, not just a fact error. Fix: "It comes off the roll with a small dry tearing, and in his warm front room…"
+
+6. **"before he has sat the paper. It only makes them careless."** The pronoun jumps from "he" to "them". The syllabus voice is formal and evaluative (style/02, style/08), and in that voice a slip in agreement is the one thing she would mark down. Fix: "It only makes him careless." Or make both plural: "before they have sat the paper."
+
+7. **"I ate the way I was eventually taught anatomy: with my eyes shut"**. "Eventually" is unclear: anatomy is taught by looking, and nothing sets up a later blind method. It reads like a compressed backstory note, not a finding. Breaks style/06 (anatomy exact in Iris's narration). Fix: "I ate the way you palpate: with my eyes shut, by knowing where things were." Or, if a specific taught method is meant, name it.
+
+8. **Density of the "the way you…" construction.** It appears about 18 times in about 3,100 words (shop, lung, restaurant table, wine, bone, wound edge, scrub, angle of Louis, ink, clean cut, letter, fracture, and more). The anchors use it heavily too, but at this rate it becomes the sentence's default move rather than a choice. Fix: cut or recast four or five. Good candidates are "the way you fold a letter" (cut it, since "folded it in quarters" is enough), "the way I read an opened abdomen" (keep only one of this or the fracture image), "the way everyone does" (licence photo), and "the way a kitchen smells for hours after something slow".
+
+## What works
+
+- The pork paragraph is the voice at full strength, and it must not be broken. It has the collagen and gelatin chemistry, the melt point given as "which is my tongue", muscle parting "once the fascia is open and it has been told, at last, that it may", and "Distinction. I docked nothing for the salt." The long greedy body sentences, the clash of Latinate and plain words, and the grading are all doing their jobs.
+- The failure to time him: "I time my eggs." followed by "It was the first thing on any feed I had failed to measure." This is Act II control showing its first crack, without explanation.
+- The jokes are at Act II rate and grounded in evidence: "That is what the word is for," "I have never been able to find out what the charge is for eating a man's pork," "A tusk is a tooth," the hospital car park, and "the polite one to ask." The chapter has no banned phrases, no dialogue-tag violations, and correctly modified colours.

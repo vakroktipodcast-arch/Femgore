@@ -1,0 +1,14 @@
+- **Verdict:** REVISE (light). No violence in this chapter, and appetite and humour carry it, but three small hedges slip back into Act I's alibis in an Act II chapter.
+
+- **Findings:**
+
+1. **Hunger excused as physiology (moderate).** "a woman who had eaten a pork bun at twenty to eight" (para beginning "Two streets away"). This is the Act I move, "she tells the reader it is the adrenaline" (strategy/10, Act I). Act II is "She stops pretending" (strategy/10, Act II). It also undercuts the chapter's own "without any help from adrenaline" a page earlier. Fix: keep "hungry, in the old, frank way, in the stomach and the back of the jaw" and cut the timetable alibi, or flip it: she offers the excuse and declines it in the same breath ("I could tell you it was the bun at twenty to eight. It was not the bun."). Planning is foreplay, and the hunger after the break-in should read that way.
+
+2. **The near-miss pulse goes unnamed (minor).** "My own was up, and I filed it as a finding." This is the chapter's one moment of physical jeopardy and its best chance at the body's thrill. The finding is never stated, so the reader can't tell fear from pleasure. That breaks style/04, point 3 (pleasure is "physical — pulse, heat... she reports it the way she reports a finding"), applied here to planning-as-foreplay (strategy/10, Act II). Fix: state the finding in one clinical clause that admits what the pulse was for. For example, the rate, then "and not from fear".
+
+3. **"Professionally" as a fig leaf (minor).** "I noted that professionally and moved on." This is the only line where the appetite brushes against future violence (the room you could scream in), and "professionally" makes it a job note. That breaks strategy/10, Act II ("She stops pretending") and The Test (style/12): it lets the reader file her as a technician. Fix: drop "professionally". Let her note it the way she notes the bun ("I noted it, and liked it, and moved on"), or leave it with no gloss at all.
+
+- **What works:**
+  - The pork bun gets the same precision as tissue (thumbprint, lacquer, five-spice "dark and sticky as varnish"), and the pork-bun laugh at Diane's name is relish and disgust in one beat. Keep both untouched.
+  - The motion-sensor recovery follows the bible's sensory order, and the clinical lines in it are among the chapter's best: "the speed of the slowest thing I know, which is a body cooling" and "the way we hold the sheet at a viewing". It is also the right warm Act II body: sweat, heat, "I liked it".
+  - "I was enjoying myself. I want that on the record". This is an unapologetic Act II statement of appetite with no moralising, and the liver line after it ties the pleasure back to the kill. The photograph sequence also refuses self-pity ("I am not going to think about it") and so keeps her hard to look away from.
