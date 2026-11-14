@@ -1,0 +1,14 @@
+- **Verdict:** REVISE (light: two line-level fixes; the chapter's genre engine is sound)
+
+- **Findings:**
+
+1. **The capture has no smell.** Lines 35–39, "My right hand went over her mouth from behind": the closest Iris gets to Diane's body has sound ("I heard it"), texture, weight and temperature, but no smell, and smell is the sense she leads with in the stake-out (line 3). This breaks `bible/style/04` point 1 (smell first; she is a pathologist). Fix: add one smell at the moment her glove covers Diane's mouth, through the hood: waxed cotton, coffee breath, the shampoo of a woman who believes walking is good for her. Tie Iris's reaction to the same clause, e.g. she logs it as the first sample. One sentence, and the scene stays at three paragraphs plus one.
+
+2. **The scene 3 peak is told as acoustics, with no body in it.** Line 63, "it went out across a metre and a half of cold air": the long sentence follows the words to Diane and records her reaction, but Iris's own pulse, heat and mouth are missing from it. The outline turn ("a voice I recognise for the first time as mine") is softened to "the voice the page was written in". This breaks `bible/strategy/10` Act I (appetite present and unnamed, but present) and `bible/style/05` (body on the page). It is the only extended pleasure beat in scene 3, and it reads as cooler than the capture. Fix: inside that sentence, add one physical reading in finding register, such as warmth coming back into her forearms as each word lands, which echoes line 41. Change the last clause to say the voice was hers. Keep the line 89 cold-return and line 95 "no longer dry" payoffs as they are.
+
+3. **Small slippage on the Act I filing.** Line 41, "breathing hard and happy": the paragraph is right to say "good" (the outline asks for it), and "Pass" files it under the grade. But "happy" names the enjoyment one step further than `bible/strategy/10` Act I allows ("does not call it enjoyment"). Fix: change it to "breathing hard and well" or similar, so the rug joke and "Pass" carry the pleasure and the reader catches it before she does.
+
+- **What works:**
+  - Line 41: the fourth paragraph. Pleasure is reported as physiology (thighs, lungs, heat in the face, cold leaving the forearms) and then filed as "Pass". It is Act I appetite exactly, and the rug joke keeps it funny without apologising.
+  - Violence with her response in the same line: "a courtesy to the forensic examiner and none at all to the zygoma", "where the leg has no opinion". These are exact, anatomical and hers. Do not soften them.
+  - Appetite is noticed but denied: "I had eaten nothing since the oxtail… I said nothing to myself about that", the dry mouth, and line 95's "My mouth was no longer dry." "I liked her. I had her liver at fifteen hundred grams" is relish and disgust in one line. Keep all of it.

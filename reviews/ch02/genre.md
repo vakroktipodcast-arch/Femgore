@@ -1,0 +1,14 @@
+- **Verdict:** REVISE (light; three line-level fixes, no structural change)
+
+- **Findings:**
+
+1. Line 21: "I would have enjoyed telling him. That was funny, and I knew it was funny, and I let myself have it." This names the pleasure and has her consciously allow it. Act I appetite is "present and unnamed": she "enjoys the morgue and does not call it enjoyment" (strategy/10, Act I; outline act pressure). "I let myself have it" is a choice she should not be making until Act II. The same goes, more mildly, for "I liked it." at line 11. Fix: keep the joke and cut the self-licensing. For example: "...the colour of a church candle, and somebody ought to tell him. I would have been glad to." Or simply end on "church candle". At line 11, "I liked it." could become "It was the morgue's cold, the sort you choose," with the liking left implied.
+
+2. Lines 71–75: "I was pairing the second when the suite door swung in." This is the chapter's one moment of physical threat, and her body is not on the page for it. She goes straight to logistics (the tablet face-down, the shoe). That leaves the Snapper's smile and the tremor with no bodily source. Femgore needs the body registering the risk: pulse, heat or cold (style/05, Cold and Hands; strategy/02, "Appetite. Pleasure in the body"). Fix: add one clinical, unnamed line before "A night houseman with a cart", e.g. a pulse she counts without meaning to, or heat at the sternum under Clare Whitlow's badge, reported as a finding and not interpreted. That gives the tremor and the smile something to come out of without telling the reader it was excitement.
+
+3. Line 93: "He looked at me as though I was there." This repeats line 87 ("properly, at my face, the way nobody had all night"), and with "something nearer gratitude" it tips Desmond's grade toward pathos. Iris reads as the overlooked woman, a case study, which makes her easier to dismiss (style/12). Fix: cut the line at 93. Let "Full marks for looking. Full marks for the plaster. It was the only A I gave all night." stand. The grade alone carries the injury.
+
+- **What works:**
+  - The lamb cutlets (line 17) are the right Act I appetite. The food is named and tasted with tissue-level precision ("the angle where the shaft meets the eye"), and she files it as physiology. This seeds the alibi the reader will stop believing in Ch 7. Keep it as written.
+  - Line 37, "It was how I would have taken her on the table. I didn't notice, at the time, that I had done it." This is the appetite exactly where Act I wants it: present, predatory and unnamed.
+  - The tremor paragraph and the Snapper (lines 97, 101) fill the hands register for the lift in Ch 2 (style/05). The pulse-taking grip and the zygomatic smile described as anatomy make her harder to look away from. The humour (the liver "filing a complaint", "mostly true and partly bleeding") carries a chapter with no violence. Do not soften any of it.
