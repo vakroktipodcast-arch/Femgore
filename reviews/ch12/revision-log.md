@@ -17,3 +17,13 @@ Scope: only the three items under "Stitch pass 2" in `reviews/ch12/author.md`. T
    - After: "My blood was on his floor, and the elimination register would put my name to it."
 
 Lint: `python3 scripts/lint.py manuscript/ch12.md` reports ok (3452 words), 0 failing.
+
+## Stitch pass 3 (author.md, line-level)
+
+Scope: only the single item under "Stitch pass 3" in `reviews/ch12/author.md`. No reviewer reports were re-applied, no facts changed, and nothing else in the chapter was touched.
+
+1. **Scene 1, simile in the smell-recognition line.** Fixed. Cut the simile and kept a plain recognition of last night's smell.
+   - Before: "Ozone. Warm dust from the hot aisles: last night's smell, and I knew it now the way you know a stranger's house the second time in."
+   - After: "Ozone. Warm dust from the hot aisles: last night's smell, and I knew it now."
+
+Lint: `python3 scripts/lint.py manuscript/ch12.md` reports ok (3441 words), 0 failing.

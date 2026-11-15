@@ -33,3 +33,21 @@ Scope: only the item listed under "Stitch pass 2". I did not re-apply the five r
 ## Lint (stitch pass 2)
 
 `python3 scripts/lint.py manuscript/ch08.md`: ok, 3393 words, 0 failing.
+
+# Stitch pass 3 (`reviews/ch08/author.md`, "Stitch pass 3")
+
+Scope: only the three items listed under "Stitch pass 3". I did not re-apply the five reviewer reports or the earlier author items. Everything from "He came in at 11:52" to the end is unchanged. The scene Turn (her thumb stopped on the trackpad) and the Snapper are unchanged.
+
+1. **Scene 3: compress the camera explanation.** FIXED. Chapters 2 and 4 already place the units, and the ledger keeps the full fact (Objects: two button units, bezel facing the table, credenza by the urn). This scene keeps only what it needs: the bezel faces the table, so she sees faces and never the screen. The later switch to "the unit under the credenza lip by the urn" (after 11:52, untouched) still reads clearly against Chapters 2 and 4.
+   - Before: "There are two units in that room, bought for cash and fixed with the same black vinyl. The one I like best sits in the bezel of the wall screen, wide on the glass-walled suite on the thirty-first floor and facing the table. Whenever anybody looks at the screen, they look into my lens. The cost of that is that the screen itself is behind me. I can never see what is on it. I can only watch faces turn to it."
+   - After: "The bezel unit faces the table. Whenever anybody looks at the screen, they look into my lens, and the screen itself is behind me. I see the faces turn to it. I never see what is on it."
+2. **Scene 3: trim the who-said-what before Brandt enters to one line.** FIXED. Interlude 2 gives this room from inside right afterwards (comms by six, counsel, *activist*/*lunatic*), so here the reportage is one sentence. I kept it in so that two ledger facts survive: counsel says "nobody say anything" four times in twelve minutes (11:40–11:52), and *activist*/*lunatic* are said before 11:52 (the Interlude 2 note). Iris's reading of the room as a body, the photograph read off the faces, the phones photographing her page and the femoral-leak line are unchanged. "Somebody said his name into a phone. After that the room held itself..." stays, as part of her body reading.
+   - Before (11:40 paragraph): "... voices over the hum of the air system. Comms asked for a statement by six, which is a deadline and not a position. Counsel said that nobody should say anything, and then said it again, and by the end of the twelve minutes had said it four times, which is three more times than counsel says anything without billing for it."
+   - After: "... voices over the hum of the air system. In twelve minutes comms asked for a statement by six, counsel said four times that nobody should say anything, and somebody offered *activist* and somebody *lunatic*, without the anatomy to back either."
+   - Before (paragraph before 11:52): "Somebody said his name into a phone. After that the room held itself the way a room does when the person who decides is on his way. One of them offered *activist*. Another offered *lunatic*. Neither had the anatomy to back it up."
+   - After: "Somebody said his name into a phone. After that the room held itself the way a room does when the person who decides is on his way."
+3. **Word count within 2,800–3,500.** DONE: 3,393 down to 3,312.
+
+## Lint (stitch pass 3)
+
+`python3 scripts/lint.py manuscript/ch08.md`: ok, 3312 words, 0 failing.
