@@ -1,5 +1,9 @@
 # Stitch review — whole manuscript
 
+> **Status note, added after revision.** This report describes the manuscript as it stood before the stitch revisions. Quotations, counts and page references below are to that earlier text. What was done in response is recorded in `reviews/<unit>/author.md` (the rulings) and `reviews/<unit>/revision-log.md` (the changes), and in the ledger.
+>
+> In brief: Interlude 3 now ends on the Monday morning; Chapter 24 was brought into line with Chapter 25; the recognition restatements in 22–24 were cut; Brandt's discovery was added to Chapter 19; the eleventh name is explained in Chapter 27; the consecutive-chapter repeats marked ✗ in section 3 were removed; the mirror in Chapter 7 and the record line in Chapter 8 were cut; Chapter 26 has no punchlines before Reyes passes.
+
 Read in the order of `outline/00-reading-order.md`: 27 chapters and 5 interludes, 96,048 words by the lint count. Nothing in `manuscript/` was edited. `scripts/lint.py` passes on all 32 files.
 
 How the numbers were made:
